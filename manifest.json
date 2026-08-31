@@ -1,0 +1,24 @@
+{
+  "countries": [
+    {
+      "country": "pt",
+      "payloads": [
+        {
+          "bytes": 628477,
+          "kind": "geography",
+          "path": "pt/geography.json",
+          "sha256": "e8a8798d36bce8e89d67d70f888f022717cb45afa0c36b4b6d88b12f12127a85"
+        },
+        {
+          "bytes": 44918,
+          "kind": "geography_municipios",
+          "path": "pt/geography-municipios.json",
+          "sha256": "51e72708f67cf7242941e2c756d54064ac0efb1b7fc2dfd75376ada803beb3cf"
+        }
+      ],
+      "schema_version": 2
+    }
+  ],
+  "generated_on": "2026-08-31",
+  "manifest_version": 1
+}

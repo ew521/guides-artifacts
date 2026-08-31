@@ -1,0 +1,26 @@
+# Line endings - LF everywhere. GD-D-037, GD-PR-115.
+#
+# THE MANIFEST'S sha256 IS A CLAIM ABOUT BYTES, and line-ending translation
+# breaks it. This machine sets core.autocrlf=true system-wide, so without this
+# file git rewrites every payload to CRLF on checkout while the committed blob
+# stays LF. Three things follow, and the third is the one that bites daily:
+#
+#   1. GitHub Pages serves the blob, so a fetching app is unaffected.
+#   2. A fresh CLONE gets CRLF payloads whose sha256 no longer matches the
+#      manifest beside them - the surface would contradict itself to anyone
+#      who verified it from a checkout rather than over HTTP.
+#   3. `publish.py` writes LF, so every run would show every payload as
+#      modified. That destroys GD-D-012 section 7.4's publish-on-change
+#      economy, which is the whole reason GD-D-017 took `generated_on` out of
+#      the payload envelope.
+#
+# Measured before this file existed: `git ls-files --eol` read `i/lf w/lf attr/`
+# - correct bytes, and NOTHING GOVERNING THEM.
+#
+# Same one line the `producer-state` branch carries, for the same reason, and
+# the same lesson `guides` learned at `snapshots/** binary`: a hash that names
+# its own content cannot survive a normaliser.
+#
+# Verify with:  git ls-files --eol   -> every row should read i/lf w/lf
+
+* text=auto eol=lf

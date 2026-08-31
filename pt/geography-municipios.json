@@ -1,0 +1,2163 @@
+{
+  "country": "pt",
+  "kind": "geography_municipios",
+  "records": [
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0101",
+      "lat": 40.595096,
+      "lon": -8.416155,
+      "name": "Águeda"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0102",
+      "lat": 40.694478,
+      "lon": -8.475164,
+      "name": "Albergaria-a-Velha"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0103",
+      "lat": 40.453849,
+      "lon": -8.444787,
+      "name": "Anadia"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0104",
+      "lat": 40.930414,
+      "lon": -8.273071,
+      "name": "Arouca"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0105",
+      "lat": 40.627621,
+      "lon": -8.607382,
+      "name": "Aveiro"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0106",
+      "lat": 41.021237,
+      "lon": -8.308561,
+      "name": "Castelo de Paiva"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0107",
+      "lat": 40.995268,
+      "lon": -8.624472,
+      "name": "Espinho"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0108",
+      "lat": 40.760941,
+      "lon": -8.578986,
+      "name": "Estarreja"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0109",
+      "lat": 40.962699,
+      "lon": -8.515101,
+      "name": "Santa Maria da Feira"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0110",
+      "lat": 40.611085,
+      "lon": -8.705266,
+      "name": "Ílhavo"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0111",
+      "lat": 40.347664,
+      "lon": -8.447985,
+      "name": "Mealhada"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0112",
+      "lat": 40.760895,
+      "lon": -8.671345,
+      "name": "Murtosa"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0113",
+      "lat": 40.848274,
+      "lon": -8.486157,
+      "name": "Oliveira de Azeméis"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0114",
+      "lat": 40.514904,
+      "lon": -8.543485,
+      "name": "Oliveira do Bairro"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0115",
+      "lat": 40.886245,
+      "lon": -8.627029,
+      "name": "Ovar"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0116",
+      "lat": 40.897699,
+      "lon": -8.490721,
+      "name": "São João da Madeira"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0117",
+      "lat": 40.717643,
+      "lon": -8.369407,
+      "name": "Sever do Vouga"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0118",
+      "lat": 40.503644,
+      "lon": -8.692914,
+      "name": "Vagos"
+    },
+    {
+      "distrito_ilha": "Aveiro",
+      "dtmn": "0119",
+      "lat": 40.833411,
+      "lon": -8.325563,
+      "name": "Vale de Cambra"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0201",
+      "lat": 37.889755,
+      "lon": -8.196457,
+      "name": "Aljustrel"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0202",
+      "lat": 37.47512,
+      "lon": -8.071031,
+      "name": "Almodôvar"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0203",
+      "lat": 38.240242,
+      "lon": -8.041355,
+      "name": "Alvito"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0204",
+      "lat": 38.155014,
+      "lon": -7.05183,
+      "name": "Barrancos"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0205",
+      "lat": 37.96941,
+      "lon": -7.85748,
+      "name": "Beja"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0206",
+      "lat": 37.694271,
+      "lon": -8.025064,
+      "name": "Castro Verde"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0207",
+      "lat": 38.205458,
+      "lon": -7.896729,
+      "name": "Cuba"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0208",
+      "lat": 38.094273,
+      "lon": -8.200668,
+      "name": "Ferreira do Alentejo"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0209",
+      "lat": 37.640188,
+      "lon": -7.671301,
+      "name": "Mértola"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0210",
+      "lat": 38.146484,
+      "lon": -7.366965,
+      "name": "Moura"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0211",
+      "lat": 37.621933,
+      "lon": -8.574022,
+      "name": "Odemira"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0212",
+      "lat": 37.635606,
+      "lon": -8.246745,
+      "name": "Ourique"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0213",
+      "lat": 37.958588,
+      "lon": -7.459549,
+      "name": "Serpa"
+    },
+    {
+      "distrito_ilha": "Beja",
+      "dtmn": "0214",
+      "lat": 38.160738,
+      "lon": -7.718635,
+      "name": "Vidigueira"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0301",
+      "lat": 41.65176,
+      "lon": -8.344547,
+      "name": "Amares"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0302",
+      "lat": 41.534726,
+      "lon": -8.61489,
+      "name": "Barcelos"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0303",
+      "lat": 41.540392,
+      "lon": -8.414514,
+      "name": "Braga"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0304",
+      "lat": 41.531642,
+      "lon": -7.953255,
+      "name": "Cabeceiras de Basto"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0305",
+      "lat": 41.403567,
+      "lon": -8.036209,
+      "name": "Celorico de Basto"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0306",
+      "lat": 41.545542,
+      "lon": -8.758358,
+      "name": "Esposende"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0307",
+      "lat": 41.47005,
+      "lon": -8.147937,
+      "name": "Fafe"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0308",
+      "lat": 41.465066,
+      "lon": -8.331761,
+      "name": "Guimarães"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0309",
+      "lat": 41.587202,
+      "lon": -8.246475,
+      "name": "Póvoa de Lanhoso"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0310",
+      "lat": 41.735085,
+      "lon": -8.197927,
+      "name": "Terras de Bouro"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0311",
+      "lat": 41.623588,
+      "lon": -8.101066,
+      "name": "Vieira do Minho"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0312",
+      "lat": 41.408793,
+      "lon": -8.492755,
+      "name": "Vila Nova de Famalicão"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0313",
+      "lat": 41.669543,
+      "lon": -8.465552,
+      "name": "Vila Verde"
+    },
+    {
+      "distrito_ilha": "Braga",
+      "dtmn": "0314",
+      "lat": 41.373446,
+      "lon": -8.291903,
+      "name": "Vizela"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0401",
+      "lat": 41.355681,
+      "lon": -6.959911,
+      "name": "Alfândega da Fé"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0402",
+      "lat": 41.76362,
+      "lon": -6.749733,
+      "name": "Bragança"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0403",
+      "lat": 41.237107,
+      "lon": -7.32829,
+      "name": "Carrazeda de Ansiães"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0404",
+      "lat": 41.136156,
+      "lon": -6.802667,
+      "name": "Freixo de Espada à Cinta"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0405",
+      "lat": 41.556517,
+      "lon": -6.895616,
+      "name": "Macedo de Cavaleiros"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0406",
+      "lat": 41.508852,
+      "lon": -6.311546,
+      "name": "Miranda do Douro"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0407",
+      "lat": 41.533575,
+      "lon": -7.142801,
+      "name": "Mirandela"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0408",
+      "lat": 41.329384,
+      "lon": -6.622678,
+      "name": "Mogadouro"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0409",
+      "lat": 41.170408,
+      "lon": -6.95914,
+      "name": "Torre de Moncorvo"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0410",
+      "lat": 41.320567,
+      "lon": -7.1666,
+      "name": "Vila Flor"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0411",
+      "lat": 41.56949,
+      "lon": -6.538224,
+      "name": "Vimioso"
+    },
+    {
+      "distrito_ilha": "Bragança",
+      "dtmn": "0412",
+      "lat": 41.830912,
+      "lon": -7.0793,
+      "name": "Vinhais"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0501",
+      "lat": 40.329941,
+      "lon": -7.331984,
+      "name": "Belmonte"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0502",
+      "lat": 39.862767,
+      "lon": -7.553871,
+      "name": "Castelo Branco"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0503",
+      "lat": 40.265756,
+      "lon": -7.535482,
+      "name": "Covilhã"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0504",
+      "lat": 40.126178,
+      "lon": -7.513567,
+      "name": "Fundão"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0505",
+      "lat": 39.877488,
+      "lon": -7.1131,
+      "name": "Idanha-a-Nova"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0506",
+      "lat": 39.934948,
+      "lon": -7.88757,
+      "name": "Oleiros"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0507",
+      "lat": 40.186832,
+      "lon": -7.150731,
+      "name": "Penamacor"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0508",
+      "lat": 39.718359,
+      "lon": -7.860998,
+      "name": "Proença-a-Nova"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0509",
+      "lat": 39.837782,
+      "lon": -8.09708,
+      "name": "Sertã"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0510",
+      "lat": 39.685589,
+      "lon": -8.144885,
+      "name": "Vila de Rei"
+    },
+    {
+      "distrito_ilha": "Castelo Branco",
+      "dtmn": "0511",
+      "lat": 39.666113,
+      "lon": -7.662864,
+      "name": "Vila Velha de Ródão"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0601",
+      "lat": 40.220412,
+      "lon": -7.980613,
+      "name": "Arganil"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0602",
+      "lat": 40.365022,
+      "lon": -8.65852,
+      "name": "Cantanhede"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0603",
+      "lat": 40.225384,
+      "lon": -8.462329,
+      "name": "Coimbra"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0604",
+      "lat": 40.104181,
+      "lon": -8.497978,
+      "name": "Condeixa-a-Nova"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0605",
+      "lat": 40.169831,
+      "lon": -8.796084,
+      "name": "Figueira da Foz"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0606",
+      "lat": 40.086554,
+      "lon": -8.113807,
+      "name": "Góis"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0607",
+      "lat": 40.12876,
+      "lon": -8.231395,
+      "name": "Lousã"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0608",
+      "lat": 40.44569,
+      "lon": -8.748304,
+      "name": "Mira"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0609",
+      "lat": 40.110089,
+      "lon": -8.343062,
+      "name": "Miranda do Corvo"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0610",
+      "lat": 40.212061,
+      "lon": -8.633952,
+      "name": "Montemor-o-Velho"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0611",
+      "lat": 40.379087,
+      "lon": -7.857153,
+      "name": "Oliveira do Hospital"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0612",
+      "lat": 40.071815,
+      "lon": -7.923789,
+      "name": "Pampilhosa da Serra"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0613",
+      "lat": 40.294804,
+      "lon": -8.261761,
+      "name": "Penacova"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0614",
+      "lat": 40.004645,
+      "lon": -8.348797,
+      "name": "Penela"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0615",
+      "lat": 40.062195,
+      "lon": -8.642734,
+      "name": "Soure"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0616",
+      "lat": 40.332378,
+      "lon": -8.019874,
+      "name": "Tábua"
+    },
+    {
+      "distrito_ilha": "Coimbra",
+      "dtmn": "0617",
+      "lat": 40.215429,
+      "lon": -8.257305,
+      "name": "Vila Nova de Poiares"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0701",
+      "lat": 38.602634,
+      "lon": -7.384967,
+      "name": "Alandroal"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0702",
+      "lat": 38.778261,
+      "lon": -7.969402,
+      "name": "Arraiolos"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0703",
+      "lat": 38.819691,
+      "lon": -7.436451,
+      "name": "Borba"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0704",
+      "lat": 38.846458,
+      "lon": -7.584291,
+      "name": "Estremoz"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0705",
+      "lat": 38.554646,
+      "lon": -7.91043,
+      "name": "Évora"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0706",
+      "lat": 38.653213,
+      "lon": -8.215279,
+      "name": "Montemor-o-Novo"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0707",
+      "lat": 38.916023,
+      "lon": -8.079604,
+      "name": "Mora"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0708",
+      "lat": 38.297427,
+      "lon": -7.222258,
+      "name": "Mourão"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0709",
+      "lat": 38.314151,
+      "lon": -7.739348,
+      "name": "Portel"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0710",
+      "lat": 38.61556,
+      "lon": -7.593097,
+      "name": "Redondo"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0711",
+      "lat": 38.377155,
+      "lon": -7.497552,
+      "name": "Reguengos de Monsaraz"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0712",
+      "lat": 38.648625,
+      "lon": -8.447872,
+      "name": "Vendas Novas"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0713",
+      "lat": 38.390672,
+      "lon": -8.183526,
+      "name": "Viana do Alentejo"
+    },
+    {
+      "distrito_ilha": "Évora",
+      "dtmn": "0714",
+      "lat": 38.7596,
+      "lon": -7.368101,
+      "name": "Vila Viçosa"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0801",
+      "lat": 37.144579,
+      "lon": -8.214422,
+      "name": "Albufeira"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0802",
+      "lat": 37.402622,
+      "lon": -7.667525,
+      "name": "Alcoutim"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0803",
+      "lat": 37.296414,
+      "lon": -8.808025,
+      "name": "Aljezur"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0804",
+      "lat": 37.280774,
+      "lon": -7.520143,
+      "name": "Castro Marim"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0805",
+      "lat": 37.053762,
+      "lon": -7.931909,
+      "name": "Faro"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0806",
+      "lat": 37.132596,
+      "lon": -8.455538,
+      "name": "Lagoa"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0807",
+      "lat": 37.153139,
+      "lon": -8.741336,
+      "name": "Lagos"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0808",
+      "lat": 37.214402,
+      "lon": -8.086522,
+      "name": "Loulé"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0809",
+      "lat": 37.31106,
+      "lon": -8.593656,
+      "name": "Monchique"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0810",
+      "lat": 37.064592,
+      "lon": -7.810728,
+      "name": "Olhão"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0811",
+      "lat": 37.194063,
+      "lon": -8.585039,
+      "name": "Portimão"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0812",
+      "lat": 37.195698,
+      "lon": -7.890891,
+      "name": "São Brás de Alportel"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0813",
+      "lat": 37.264025,
+      "lon": -8.348693,
+      "name": "Silves"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0814",
+      "lat": 37.220424,
+      "lon": -7.690145,
+      "name": "Tavira"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0815",
+      "lat": 37.079628,
+      "lon": -8.868941,
+      "name": "Vila do Bispo"
+    },
+    {
+      "distrito_ilha": "Faro",
+      "dtmn": "0816",
+      "lat": 37.200702,
+      "lon": -7.550001,
+      "name": "Vila Real de Santo António"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0901",
+      "lat": 40.781728,
+      "lon": -7.533559,
+      "name": "Aguiar da Beira"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0902",
+      "lat": 40.630347,
+      "lon": -6.917367,
+      "name": "Almeida"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0903",
+      "lat": 40.612412,
+      "lon": -7.394504,
+      "name": "Celorico da Beira"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0904",
+      "lat": 40.892551,
+      "lon": -6.971951,
+      "name": "Figueira de Castelo Rodrigo"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0905",
+      "lat": 40.657474,
+      "lon": -7.488617,
+      "name": "Fornos de Algodres"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0906",
+      "lat": 40.497956,
+      "lon": -7.594868,
+      "name": "Gouveia"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0907",
+      "lat": 40.540205,
+      "lon": -7.223754,
+      "name": "Guarda"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0908",
+      "lat": 40.38652,
+      "lon": -7.539921,
+      "name": "Manteigas"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0909",
+      "lat": 40.930661,
+      "lon": -7.249916,
+      "name": "Mêda"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0910",
+      "lat": 40.779718,
+      "lon": -7.103329,
+      "name": "Pinhel"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0911",
+      "lat": 40.404105,
+      "lon": -7.049619,
+      "name": "Sabugal"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0912",
+      "lat": 40.382438,
+      "lon": -7.691533,
+      "name": "Seia"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0913",
+      "lat": 40.797497,
+      "lon": -7.341518,
+      "name": "Trancoso"
+    },
+    {
+      "distrito_ilha": "Guarda",
+      "dtmn": "0914",
+      "lat": 41.051607,
+      "lon": -7.19757,
+      "name": "Vila Nova de Foz Côa"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1001",
+      "lat": 39.563443,
+      "lon": -8.963902,
+      "name": "Alcobaça"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1002",
+      "lat": 39.815998,
+      "lon": -8.40197,
+      "name": "Alvaiázere"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1003",
+      "lat": 39.941062,
+      "lon": -8.460784,
+      "name": "Ansião"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1004",
+      "lat": 39.623322,
+      "lon": -8.731938,
+      "name": "Batalha"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1005",
+      "lat": 39.27518,
+      "lon": -9.150104,
+      "name": "Bombarral"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1006",
+      "lat": 39.400611,
+      "lon": -9.079649,
+      "name": "Caldas da Rainha"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1007",
+      "lat": 40.017919,
+      "lon": -8.204445,
+      "name": "Castanheira de Pêra"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1008",
+      "lat": 39.930087,
+      "lon": -8.297498,
+      "name": "Figueiró dos Vinhos"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1009",
+      "lat": 39.801587,
+      "lon": -8.77141,
+      "name": "Leiria"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1010",
+      "lat": 39.789403,
+      "lon": -8.961914,
+      "name": "Marinha Grande"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1011",
+      "lat": 39.580508,
+      "lon": -9.039172,
+      "name": "Nazaré"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1012",
+      "lat": 39.36856,
+      "lon": -9.187244,
+      "name": "Óbidos"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1013",
+      "lat": 39.943318,
+      "lon": -8.189864,
+      "name": "Pedrógão Grande"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1014",
+      "lat": 39.33717,
+      "lon": -9.312903,
+      "name": "Peniche"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1015",
+      "lat": 39.911679,
+      "lon": -8.647815,
+      "name": "Pombal"
+    },
+    {
+      "distrito_ilha": "Leiria",
+      "dtmn": "1016",
+      "lat": 39.558972,
+      "lon": -8.788238,
+      "name": "Porto de Mós"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1101",
+      "lat": 39.094173,
+      "lon": -9.04888,
+      "name": "Alenquer"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1102",
+      "lat": 38.975207,
+      "lon": -9.087439,
+      "name": "Arruda dos Vinhos"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1103",
+      "lat": 39.131018,
+      "lon": -8.903205,
+      "name": "Azambuja"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1104",
+      "lat": 39.239935,
+      "lon": -9.06233,
+      "name": "Cadaval"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1105",
+      "lat": 38.722344,
+      "lon": -9.397087,
+      "name": "Cascais"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1106",
+      "lat": 38.738469,
+      "lon": -9.150133,
+      "name": "Lisboa"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1107",
+      "lat": 38.857371,
+      "lon": -9.175686,
+      "name": "Loures"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1108",
+      "lat": 39.24647,
+      "lon": -9.271686,
+      "name": "Lourinhã"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1109",
+      "lat": 38.963511,
+      "lon": -9.322889,
+      "name": "Mafra"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1110",
+      "lat": 38.71296,
+      "lon": -9.271188,
+      "name": "Oeiras"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1111",
+      "lat": 38.835848,
+      "lon": -9.353092,
+      "name": "Sintra"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1112",
+      "lat": 38.992069,
+      "lon": -9.163706,
+      "name": "Sobral de Monte Agraço"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1113",
+      "lat": 39.109523,
+      "lon": -9.277316,
+      "name": "Torres Vedras"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1114",
+      "lat": 38.912094,
+      "lon": -8.988748,
+      "name": "Vila Franca de Xira"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1115",
+      "lat": 38.759525,
+      "lon": -9.223645,
+      "name": "Amadora"
+    },
+    {
+      "distrito_ilha": "Lisboa",
+      "dtmn": "1116",
+      "lat": 38.795591,
+      "lon": -9.187137,
+      "name": "Odivelas"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1201",
+      "lat": 39.223475,
+      "lon": -7.734023,
+      "name": "Alter do Chão"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1202",
+      "lat": 39.107585,
+      "lon": -7.253317,
+      "name": "Arronches"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1203",
+      "lat": 39.079622,
+      "lon": -7.909456,
+      "name": "Avis"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1204",
+      "lat": 39.012134,
+      "lon": -7.044905,
+      "name": "Campo Maior"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1205",
+      "lat": 39.475762,
+      "lon": -7.487437,
+      "name": "Castelo de Vide"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1206",
+      "lat": 39.308408,
+      "lon": -7.631409,
+      "name": "Crato"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1207",
+      "lat": 38.904246,
+      "lon": -7.209565,
+      "name": "Elvas"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1208",
+      "lat": 39.07902,
+      "lon": -7.627611,
+      "name": "Fronteira"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1209",
+      "lat": 39.449522,
+      "lon": -7.912991,
+      "name": "Gavião"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1210",
+      "lat": 39.404091,
+      "lon": -7.359131,
+      "name": "Marvão"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1211",
+      "lat": 39.027457,
+      "lon": -7.420449,
+      "name": "Monforte"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1212",
+      "lat": 39.520974,
+      "lon": -7.694616,
+      "name": "Nisa"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1213",
+      "lat": 39.181485,
+      "lon": -8.096411,
+      "name": "Ponte de Sor"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1214",
+      "lat": 39.272244,
+      "lon": -7.379248,
+      "name": "Portalegre"
+    },
+    {
+      "distrito_ilha": "Portalegre",
+      "dtmn": "1215",
+      "lat": 38.959027,
+      "lon": -7.739089,
+      "name": "Sousel"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1301",
+      "lat": 41.282351,
+      "lon": -8.060116,
+      "name": "Amarante"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1302",
+      "lat": 41.169252,
+      "lon": -7.977231,
+      "name": "Baião"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1303",
+      "lat": 41.352771,
+      "lon": -8.204511,
+      "name": "Felgueiras"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1304",
+      "lat": 41.102427,
+      "lon": -8.490055,
+      "name": "Gondomar"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1305",
+      "lat": 41.291158,
+      "lon": -8.259028,
+      "name": "Lousada"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1306",
+      "lat": 41.237417,
+      "lon": -8.630068,
+      "name": "Maia"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1307",
+      "lat": 41.161633,
+      "lon": -8.127818,
+      "name": "Marco de Canaveses"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1308",
+      "lat": 41.222367,
+      "lon": -8.670442,
+      "name": "Matosinhos"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1309",
+      "lat": 41.289745,
+      "lon": -8.378302,
+      "name": "Paços de Ferreira"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1310",
+      "lat": 41.16391,
+      "lon": -8.408715,
+      "name": "Paredes"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1311",
+      "lat": 41.144164,
+      "lon": -8.302228,
+      "name": "Penafiel"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1312",
+      "lat": 41.162031,
+      "lon": -8.625933,
+      "name": "Porto"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1313",
+      "lat": 41.41834,
+      "lon": -8.748765,
+      "name": "Póvoa de Varzim"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1314",
+      "lat": 41.311198,
+      "lon": -8.452951,
+      "name": "Santo Tirso"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1315",
+      "lat": 41.204596,
+      "lon": -8.504453,
+      "name": "Valongo"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1316",
+      "lat": 41.340643,
+      "lon": -8.686797,
+      "name": "Vila do Conde"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1317",
+      "lat": 41.078291,
+      "lon": -8.588778,
+      "name": "Vila Nova de Gaia"
+    },
+    {
+      "distrito_ilha": "Porto",
+      "dtmn": "1318",
+      "lat": 41.302828,
+      "lon": -8.56765,
+      "name": "Trofa"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1401",
+      "lat": 39.439912,
+      "lon": -8.128421,
+      "name": "Abrantes"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1402",
+      "lat": 39.480755,
+      "lon": -8.682282,
+      "name": "Alcanena"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1403",
+      "lat": 39.168096,
+      "lon": -8.573941,
+      "name": "Almeirim"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1404",
+      "lat": 39.238931,
+      "lon": -8.561521,
+      "name": "Alpiarça"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1405",
+      "lat": 38.882433,
+      "lon": -8.789486,
+      "name": "Benavente"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1406",
+      "lat": 39.134935,
+      "lon": -8.793184,
+      "name": "Cartaxo"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1407",
+      "lat": 39.267439,
+      "lon": -8.391771,
+      "name": "Chamusca"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1408",
+      "lat": 39.422336,
+      "lon": -8.293568,
+      "name": "Constância"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1409",
+      "lat": 38.936495,
+      "lon": -8.481197,
+      "name": "Coruche"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1410",
+      "lat": 39.465946,
+      "lon": -8.479994,
+      "name": "Entroncamento"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1411",
+      "lat": 39.723837,
+      "lon": -8.332305,
+      "name": "Ferreira do Zêzere"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1412",
+      "lat": 39.388168,
+      "lon": -8.509065,
+      "name": "Golegã"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1413",
+      "lat": 39.608526,
+      "lon": -7.974922,
+      "name": "Mação"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1414",
+      "lat": 39.350433,
+      "lon": -8.911226,
+      "name": "Rio Maior"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1415",
+      "lat": 39.047241,
+      "lon": -8.693903,
+      "name": "Salvaterra de Magos"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1416",
+      "lat": 39.326225,
+      "lon": -8.691941,
+      "name": "Santarém"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1417",
+      "lat": 39.562003,
+      "lon": -8.138377,
+      "name": "Sardoal"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1418",
+      "lat": 39.59233,
+      "lon": -8.363416,
+      "name": "Tomar"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1419",
+      "lat": 39.514513,
+      "lon": -8.562662,
+      "name": "Torres Novas"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1420",
+      "lat": 39.483996,
+      "lon": -8.429987,
+      "name": "Vila Nova da Barquinha"
+    },
+    {
+      "distrito_ilha": "Santarém",
+      "dtmn": "1421",
+      "lat": 39.687271,
+      "lon": -8.56789,
+      "name": "Ourém"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1501",
+      "lat": 38.36577,
+      "lon": -8.531246,
+      "name": "Alcácer do Sal"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1502",
+      "lat": 38.748543,
+      "lon": -8.973569,
+      "name": "Alcochete"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1503",
+      "lat": 38.619083,
+      "lon": -9.196599,
+      "name": "Almada"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1504",
+      "lat": 38.633911,
+      "lon": -9.047689,
+      "name": "Barreiro"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1505",
+      "lat": 38.264613,
+      "lon": -8.691161,
+      "name": "Grândola"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1506",
+      "lat": 38.648987,
+      "lon": -8.999267,
+      "name": "Moita"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1507",
+      "lat": 38.744966,
+      "lon": -8.629091,
+      "name": "Montijo"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1508",
+      "lat": 38.62684,
+      "lon": -8.792047,
+      "name": "Palmela"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1509",
+      "lat": 37.93866,
+      "lon": -8.50294,
+      "name": "Santiago do Cacém"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1510",
+      "lat": 38.598194,
+      "lon": -9.111375,
+      "name": "Seixal"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1511",
+      "lat": 38.496298,
+      "lon": -9.119362,
+      "name": "Sesimbra"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1512",
+      "lat": 38.518254,
+      "lon": -8.896819,
+      "name": "Setúbal"
+    },
+    {
+      "distrito_ilha": "Setúbal",
+      "dtmn": "1513",
+      "lat": 37.927382,
+      "lon": -8.749296,
+      "name": "Sines"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1601",
+      "lat": 41.90484,
+      "lon": -8.352929,
+      "name": "Arcos de Valdevez"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1602",
+      "lat": 41.84932,
+      "lon": -8.774647,
+      "name": "Caminha"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1603",
+      "lat": 42.038972,
+      "lon": -8.196547,
+      "name": "Melgaço"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1604",
+      "lat": 42.028104,
+      "lon": -8.417401,
+      "name": "Monção"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1605",
+      "lat": 41.913547,
+      "lon": -8.56417,
+      "name": "Paredes de Coura"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1606",
+      "lat": 41.805745,
+      "lon": -8.323649,
+      "name": "Ponte da Barca"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1607",
+      "lat": 41.746876,
+      "lon": -8.573321,
+      "name": "Ponte de Lima"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1608",
+      "lat": 41.991965,
+      "lon": -8.606349,
+      "name": "Valença"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1609",
+      "lat": 41.718099,
+      "lon": -8.764239,
+      "name": "Viana do Castelo"
+    },
+    {
+      "distrito_ilha": "Viana do Castelo",
+      "dtmn": "1610",
+      "lat": 41.918314,
+      "lon": -8.711411,
+      "name": "Vila Nova de Cerveira"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1701",
+      "lat": 41.291141,
+      "lon": -7.470147,
+      "name": "Alijó"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1702",
+      "lat": 41.68707,
+      "lon": -7.749332,
+      "name": "Boticas"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1703",
+      "lat": 41.731208,
+      "lon": -7.447743,
+      "name": "Chaves"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1704",
+      "lat": 41.160482,
+      "lon": -7.863147,
+      "name": "Mesão Frio"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1705",
+      "lat": 41.397088,
+      "lon": -7.887856,
+      "name": "Mondim de Basto"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1706",
+      "lat": 41.756912,
+      "lon": -7.856664,
+      "name": "Montalegre"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1707",
+      "lat": 41.426399,
+      "lon": -7.465139,
+      "name": "Murça"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1708",
+      "lat": 41.191954,
+      "lon": -7.836827,
+      "name": "Peso da Régua"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1709",
+      "lat": 41.527917,
+      "lon": -7.784912,
+      "name": "Ribeira de Pena"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1710",
+      "lat": 41.284201,
+      "lon": -7.595529,
+      "name": "Sabrosa"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1711",
+      "lat": 41.223413,
+      "lon": -7.797718,
+      "name": "Santa Marta de Penaguião"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1712",
+      "lat": 41.612505,
+      "lon": -7.351217,
+      "name": "Valpaços"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1713",
+      "lat": 41.515289,
+      "lon": -7.601122,
+      "name": "Vila Pouca de Aguiar"
+    },
+    {
+      "distrito_ilha": "Vila Real",
+      "dtmn": "1714",
+      "lat": 41.300858,
+      "lon": -7.76376,
+      "name": "Vila Real"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1801",
+      "lat": 41.091166,
+      "lon": -7.687347,
+      "name": "Armamar"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1802",
+      "lat": 40.459356,
+      "lon": -7.977574,
+      "name": "Carregal do Sal"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1803",
+      "lat": 40.906809,
+      "lon": -7.948733,
+      "name": "Castro Daire"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1804",
+      "lat": 41.032721,
+      "lon": -8.107999,
+      "name": "Cinfães"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1805",
+      "lat": 41.07168,
+      "lon": -7.815392,
+      "name": "Lamego"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1806",
+      "lat": 40.589089,
+      "lon": -7.741734,
+      "name": "Mangualde"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1807",
+      "lat": 40.956231,
+      "lon": -7.652637,
+      "name": "Moimenta da Beira"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1808",
+      "lat": 40.419592,
+      "lon": -8.252062,
+      "name": "Mortágua"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1809",
+      "lat": 40.522226,
+      "lon": -7.850337,
+      "name": "Nelas"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1810",
+      "lat": 40.717242,
+      "lon": -8.232751,
+      "name": "Oliveira de Frades"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1811",
+      "lat": 40.67539,
+      "lon": -7.658965,
+      "name": "Penalva do Castelo"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1812",
+      "lat": 40.987468,
+      "lon": -7.410893,
+      "name": "Penedono"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1813",
+      "lat": 41.07515,
+      "lon": -7.950935,
+      "name": "Resende"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1814",
+      "lat": 40.399212,
+      "lon": -8.111686,
+      "name": "Santa Comba Dão"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1815",
+      "lat": 41.106728,
+      "lon": -7.409673,
+      "name": "São João da Pesqueira"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1816",
+      "lat": 40.832876,
+      "lon": -8.102519,
+      "name": "São Pedro do Sul"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1817",
+      "lat": 40.777823,
+      "lon": -7.669903,
+      "name": "Sátão"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1818",
+      "lat": 40.9173,
+      "lon": -7.51159,
+      "name": "Sernancelhe"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1819",
+      "lat": 41.090042,
+      "lon": -7.561477,
+      "name": "Tabuaço"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1820",
+      "lat": 41.017715,
+      "lon": -7.77451,
+      "name": "Tarouca"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1821",
+      "lat": 40.544333,
+      "lon": -8.143525,
+      "name": "Tondela"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1822",
+      "lat": 40.856338,
+      "lon": -7.756337,
+      "name": "Vila Nova de Paiva"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1823",
+      "lat": 40.689156,
+      "lon": -7.899514,
+      "name": "Viseu"
+    },
+    {
+      "distrito_ilha": "Viseu",
+      "dtmn": "1824",
+      "lat": 40.675295,
+      "lon": -8.148515,
+      "name": "Vouzela"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3101",
+      "lat": 32.771467,
+      "lon": -17.192561,
+      "name": "Calheta"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3102",
+      "lat": 32.703069,
+      "lon": -16.983188,
+      "name": "Câmara de Lobos"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3103",
+      "lat": 32.684528,
+      "lon": -16.918446,
+      "name": "Funchal"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3104",
+      "lat": 32.744392,
+      "lon": -16.781765,
+      "name": "Machico"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3105",
+      "lat": 32.724301,
+      "lon": -17.09671,
+      "name": "Ponta do Sol"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3106",
+      "lat": 32.818876,
+      "lon": -17.152255,
+      "name": "Porto Moniz"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3107",
+      "lat": 32.704655,
+      "lon": -17.038145,
+      "name": "Ribeira Brava"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3108",
+      "lat": 32.685795,
+      "lon": -16.832459,
+      "name": "Santa Cruz"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3109",
+      "lat": 32.777728,
+      "lon": -16.900957,
+      "name": "Santana"
+    },
+    {
+      "distrito_ilha": "Ilha da Madeira",
+      "dtmn": "3110",
+      "lat": 32.788422,
+      "lon": -17.013443,
+      "name": "São Vicente"
+    },
+    {
+      "distrito_ilha": "Ilha de Porto Santo",
+      "dtmn": "3201",
+      "lat": 33.065941,
+      "lon": -16.336399,
+      "name": "Porto Santo"
+    },
+    {
+      "distrito_ilha": "Ilha de Santa Maria",
+      "dtmn": "4101",
+      "lat": 36.973416,
+      "lon": -25.103093,
+      "name": "Vila do Porto"
+    },
+    {
+      "distrito_ilha": "Ilha de São Miguel",
+      "dtmn": "4201",
+      "lat": 37.742806,
+      "lon": -25.527726,
+      "name": "Lagoa"
+    },
+    {
+      "distrito_ilha": "Ilha de São Miguel",
+      "dtmn": "4202",
+      "lat": 37.818545,
+      "lon": -25.219907,
+      "name": "Nordeste"
+    },
+    {
+      "distrito_ilha": "Ilha de São Miguel",
+      "dtmn": "4203",
+      "lat": 37.821584,
+      "lon": -25.726831,
+      "name": "Ponta Delgada"
+    },
+    {
+      "distrito_ilha": "Ilha de São Miguel",
+      "dtmn": "4204",
+      "lat": 37.76699,
+      "lon": -25.258984,
+      "name": "Povoação"
+    },
+    {
+      "distrito_ilha": "Ilha de São Miguel",
+      "dtmn": "4205",
+      "lat": 37.81412,
+      "lon": -25.426864,
+      "name": "Ribeira Grande"
+    },
+    {
+      "distrito_ilha": "Ilha de São Miguel",
+      "dtmn": "4206",
+      "lat": 37.748377,
+      "lon": -25.417703,
+      "name": "Vila Franca do Campo"
+    },
+    {
+      "distrito_ilha": "Ilha Terceira",
+      "dtmn": "4301",
+      "lat": 38.720512,
+      "lon": -27.279979,
+      "name": "Angra do Heroísmo"
+    },
+    {
+      "distrito_ilha": "Ilha Terceira",
+      "dtmn": "4302",
+      "lat": 38.739367,
+      "lon": -27.15663,
+      "name": "Praia da Vitória"
+    },
+    {
+      "distrito_ilha": "Ilha da Graciosa",
+      "dtmn": "4401",
+      "lat": 39.052792,
+      "lon": -28.012533,
+      "name": "Santa Cruz da Graciosa"
+    },
+    {
+      "distrito_ilha": "Ilha de São Jorge",
+      "dtmn": "4501",
+      "lat": 38.599812,
+      "lon": -27.933786,
+      "name": "Calheta de São Jorge"
+    },
+    {
+      "distrito_ilha": "Ilha de São Jorge",
+      "dtmn": "4502",
+      "lat": 38.691508,
+      "lon": -28.166807,
+      "name": "Velas"
+    },
+    {
+      "distrito_ilha": "Ilha do Pico",
+      "dtmn": "4601",
+      "lat": 38.430828,
+      "lon": -28.206051,
+      "name": "Lajes do Pico"
+    },
+    {
+      "distrito_ilha": "Ilha do Pico",
+      "dtmn": "4602",
+      "lat": 38.485841,
+      "lon": -28.47663,
+      "name": "Madalena"
+    },
+    {
+      "distrito_ilha": "Ilha do Pico",
+      "dtmn": "4603",
+      "lat": 38.4967,
+      "lon": -28.339682,
+      "name": "São Roque do Pico"
+    },
+    {
+      "distrito_ilha": "Ilha do Faial",
+      "dtmn": "4701",
+      "lat": 38.579084,
+      "lon": -28.706721,
+      "name": "Horta"
+    },
+    {
+      "distrito_ilha": "Ilha das Flores",
+      "dtmn": "4801",
+      "lat": 39.430041,
+      "lon": -31.223503,
+      "name": "Lajes das Flores"
+    },
+    {
+      "distrito_ilha": "Ilha das Flores",
+      "dtmn": "4802",
+      "lat": 39.474707,
+      "lon": -31.19828,
+      "name": "Santa Cruz das Flores"
+    },
+    {
+      "distrito_ilha": "Ilha do Corvo",
+      "dtmn": "4901",
+      "lat": 39.697614,
+      "lon": -31.105291,
+      "name": "Corvo"
+    }
+  ],
+  "schema_version": 2
+}
