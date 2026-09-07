@@ -1,0 +1,906 @@
+{
+  "country": "pt",
+  "kind": "occurrences",
+  "records": [
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-angra-do-heroismo-festas-de-santa-barbara",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-05",
+            "start": "2026-08-28"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-31",
+      "event_id": "pt-arouca-feira-das-colheitas",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-feiradascolheitas-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-27",
+            "start": "2026-09-24"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-31",
+      "event_id": "pt-arraiolos-mostra-gastronomica-festival-da-empada-feira-do-tapete-de-arraiolos",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-arraiolos",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-11-01",
+            "start": "2026-10-28"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-31",
+      "event_id": "pt-baiao-festival-do-anho-assado-e-do-arroz-do-forno",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-baiao",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-25",
+            "start": "2026-10-23"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-07",
+      "event_id": "pt-benavente-feira-de-benavente",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cm-benavente",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-13",
+            "start": "2026-09-04"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-31",
+      "event_id": "pt-cadaval-festas-das-adiafas-e-festival-do-vinho-leve",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-festadasadiafas-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-25",
+            "start": "2026-10-17"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-caldas-da-rainha-feira-dos-frutos",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-08-30",
+            "start": "2026-08-26"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-camara-de-lobos-festa-das-vindimas-estreito-de-camara-de-lobos",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-05",
+            "start": "2026-09-05"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-caminha-romaria-de-sao-joao-darga",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-08-29",
+            "start": "2026-08-28"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-31",
+      "event_id": "pt-cascais-chefs-on-fire-cascais",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-chefsonfire-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-20",
+            "start": "2026-09-19"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-31",
+      "event_id": "pt-castelo-branco-feira-sabores-de-perdicao",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-castelo-branco",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-06",
+            "start": "2026-09-03"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-31",
+      "event_id": "pt-castro-daire-fica-castro-daire-festa-das-colheitas",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-castro-daire",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-20",
+            "start": "2026-09-17"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-31",
+      "event_id": "pt-elvas-expo-sao-mateus-e-festas-do-senhor-jesus-da-piedade",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-elvas",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-27",
+            "start": "2026-09-18"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-funchal-festa-do-vinho-madeira",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-visitmadeira",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-13",
+            "start": "2026-08-27"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-funchal-madeira-wine-lounge",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-13",
+            "start": "2026-08-23"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-guarda-feira-farta",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-guarda",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-20",
+            "start": "2026-09-18"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-macao-feira-dos-santos-macao",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-macao",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-11-01",
+            "start": "2026-11-01"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-mangualde-feira-dos-santos-mangualde",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-mangualde",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-11-08",
+            "start": "2026-11-07"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-marvao-festa-do-castanheiro-feira-da-castanha",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-marvao",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-11-15",
+            "start": "2026-11-14"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-marvao-festival-al-mossassa",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-marvao",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-05",
+            "start": "2026-10-03"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-07",
+      "event_id": "pt-mogadouro-feira-dos-gorazes",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-mogadouro",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-18",
+            "start": "2026-10-15"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-07",
+      "event_id": "pt-montemor-o-novo-feira-da-luz",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-feiradaluz-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-07",
+            "start": "2026-09-02"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-07",
+      "event_id": "pt-montemor-o-velho-feira-do-ano-festas-concelhias",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-feiradoano-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-08",
+            "start": "2026-08-29"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-mora-expomora",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cm-mora",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-13",
+            "start": "2026-09-11"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-07",
+      "event_id": "pt-murtosa-festas-de-sao-paio-da-torreira",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-murtosa",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-08",
+            "start": "2026-09-04"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-nazare-festas-do-sitio",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-nazare",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-13",
+            "start": "2026-09-04"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-nelas-feira-do-vinho-do-dao",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-nelas",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-06",
+            "start": "2026-09-03"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-nelas-feira-medieval-de-canas-de-senhorim",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-04",
+            "start": "2026-10-02"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-ourem-feira-nova-de-santa-iria",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-25",
+            "start": "2026-09-16"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-palmela-feira-medieval-de-palmela",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-27",
+            "start": "2026-09-25"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-palmela-festa-das-vindimas-palmela",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-festadasvindimas-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-08",
+            "start": "2026-09-03"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-penafiel-festa-do-caldo-de-quintandona",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-20",
+            "start": "2026-09-18"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-penela-festas-do-concelho-fagrip-feira-de-sao-miguel-ou-das-nozes",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-penela",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-27",
+            "start": "2026-09-25"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-porto-santo-festa-das-vindimas-porto-santo",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-08-21",
+            "start": "2026-08-21"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-sabrosa-feira-do-vinho-e-do-azeite",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-04",
+            "start": "2026-10-03"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-sabrosa-festival-dos-produtos-durienses",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-11-08",
+            "start": "2026-11-06"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-santarem-festival-nacional-de-gastronomia",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-festivalnacionaldegastronomia-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-11-01",
+            "start": "2026-10-22"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-sao-joao-da-pesqueira-vindouro-festa-pombalina",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-sao-joao-da-pesqueira",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-06",
+            "start": "2026-09-04"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-07",
+      "event_id": "pt-sardoal-festas-do-concelho-sardoal",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-sardoal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-22",
+            "start": "2026-09-18"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-tavira-feira-de-sao-francisco-tavira",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-05",
+            "start": "2026-10-02"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-torres-novas-feira-nacional-dos-frutos-secos",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-05",
+            "start": "2026-10-01"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-vendas-novas-festas-do-concelho-de-vendas-novas",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-vendas-novas",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-07",
+            "start": "2026-09-04"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-07",
+      "event_id": "pt-viana-do-alentejo-feira-daires",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-viana-do-alentejo",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-28",
+            "start": "2026-09-25"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-vila-franca-de-xira-feira-anual-e-salao-de-artesanato",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-11",
+            "start": "2026-10-02"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-vila-nova-de-famalicao-feira-de-artesanato-e-gastronomia-de-vila-nova-de-famalicao",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-06",
+            "start": "2026-08-28"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "no-sitemap-declared"
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-vila-nova-de-poiares-poiartes",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-vila-nova-de-poiares",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-13",
+            "start": "2026-09-10"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-vila-real-de-santo-antonio-feira-da-praia-vila-real-de-santo-antonio",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-vila-real-de-santo-antonio",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-15",
+            "start": "2026-10-09"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-vila-verde-festa-das-colheitas",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-vila-verde",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-11",
+            "start": "2026-10-07"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-07",
+      "event_id": "pt-vila-vicosa-festa-dos-capuchos-vila-vicosa",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-vila-vicosa",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-15",
+            "start": "2026-09-10"
+          }
+        ],
+        "level": "reported",
+        "window": null
+      }
+    }
+  ],
+  "schema_version": 2,
+  "year": 2026
+}

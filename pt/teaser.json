@@ -1,13 +1,14 @@
 {
   "country": "pt",
   "counts": {
-    "dated": 25
+    "dated": 40
   },
   "kind": "teaser",
   "records": [
     {
       "aliases": [
-        "São Bernardo Fair"
+        "São Bernardo Fair",
+        "Feira de São Bernardo"
       ],
       "categories": [
         "food",
@@ -45,6 +46,24 @@
     },
     {
       "aliases": [
+        "Festas de Aljezur"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-aljezur-festas-de-aljezur",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Faro",
+        "dtmn": "0803",
+        "municipio": "Aljezur",
+        "precision": "municipality"
+      },
+      "name": "Aljezur Festivities"
+    },
+    {
+      "aliases": [
         "Alpiagra – Alpiarça Agricultural and Commercial Fair",
         "Alpiagra – Alpiarça Agricultural",
         "Alpiagra – Feira Agrícola e Comercial de Alpiarça"
@@ -62,6 +81,24 @@
         "precision": "municipality"
       },
       "name": "Alpiagra – Alpiarça Agricultural and Commercial Fair"
+    },
+    {
+      "aliases": [
+        "Festas de Verão Alter do Chão"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-alter-do-chao-festas-de-verao-alter-do-chao",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Portalegre",
+        "dtmn": "1201",
+        "municipio": "Alter do Chão",
+        "precision": "municipality"
+      },
+      "name": "Alter do Chão Summer Festivities"
     },
     {
       "aliases": [
@@ -161,6 +198,24 @@
     },
     {
       "aliases": [
+        "Cultfest – Festival Cultural do Ribatejo"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-azambuja-cultfest-festival-cultural-do-ribatejo",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Lisboa",
+        "dtmn": "1103",
+        "municipio": "Azambuja",
+        "precision": "municipality"
+      },
+      "name": "Cultfest - Ribatejo Cultural Festival"
+    },
+    {
+      "aliases": [
         "Roast Lamb and Oven Rice Festival",
         "Festival do Anho Assado e do Arroz do Forno"
       ],
@@ -181,7 +236,26 @@
     },
     {
       "aliases": [
-        "Barreiro Festivities"
+        "Festas de Nossa Senhora da Conceição"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-barrancos-festas-de-nossa-senhora-da-conceicao",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Beja",
+        "dtmn": "0204",
+        "municipio": "Barrancos",
+        "precision": "municipality"
+      },
+      "name": "Nossa Senhora da Conceição Festivities – Barrancos"
+    },
+    {
+      "aliases": [
+        "Barreiro Festivities",
+        "Festas do Barreiro"
       ],
       "categories": [
         "food",
@@ -196,6 +270,42 @@
         "precision": "municipality"
       },
       "name": "Barreiro Festivities"
+    },
+    {
+      "aliases": [
+        "Feira de Benavente"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-benavente-feira-de-benavente",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Santarém",
+        "dtmn": "1405",
+        "municipio": "Benavente",
+        "precision": "municipality"
+      },
+      "name": "Benavente Fair"
+    },
+    {
+      "aliases": [
+        "Festas de Bragança"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-braganca-festas-de-braganca",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Bragança",
+        "dtmn": "0402",
+        "municipio": "Bragança",
+        "precision": "municipality"
+      },
+      "name": "Bragança Festivities"
     },
     {
       "aliases": [
@@ -239,7 +349,6 @@
     {
       "aliases": [
         "Harvest Festival - Estreito de Câmara de Lobos",
-        "Harvest Festival - Estreito de",
         "Festa das Vindimas – Estreito de Câmara de Lobos"
       ],
       "categories": [
@@ -254,7 +363,7 @@
         "municipio": "Câmara de Lobos",
         "precision": "municipality"
       },
-      "name": "Harvest Festival"
+      "name": "Harvest Festival – Estreito de Câmara de Lobos"
     },
     {
       "aliases": [
@@ -348,7 +457,43 @@
         "municipio": "Cascais",
         "precision": "municipality"
       },
-      "name": "Chefs on Fire"
+      "name": "Chefs on Fire – Cascais"
+    },
+    {
+      "aliases": [
+        "Festas do Mar"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-cascais-festas-do-mar",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Lisboa",
+        "dtmn": "1105",
+        "municipio": "Cascais",
+        "precision": "municipality"
+      },
+      "name": "Festas do Mar"
+    },
+    {
+      "aliases": [
+        "FIARTIL - Feira Internacional de Artesanato do Estoril"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-cascais-fiartil-feira-internacional-de-artesanato-do-estoril",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Lisboa",
+        "dtmn": "1105",
+        "municipio": "Cascais",
+        "precision": "municipality"
+      },
+      "name": "FIARTIL - Feira Internacional de Artesanato do Estoril"
     },
     {
       "aliases": [
@@ -391,8 +536,43 @@
     },
     {
       "aliases": [
+        "Festas em Honra de Nossa Senhora do Castelo"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-coruche-festas-em-honra-de-nossa-senhora-do-castelo",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Santarém",
+        "dtmn": "1409",
+        "municipio": "Coruche",
+        "precision": "municipality"
+      },
+      "name": "Festivities in Honour of Nossa Senhora do Castelo"
+    },
+    {
+      "aliases": [
+        "Festival do Crato"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-crato-festival-do-crato",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Portalegre",
+        "dtmn": "1206",
+        "municipio": "Crato",
+        "precision": "municipality"
+      },
+      "name": "Festival do Crato"
+    },
+    {
+      "aliases": [
         "Expo São Mateus and Festivities of Senhor Jesus da Piedade",
-        "Expo São Mateus and Festivities of",
         "Expo São Mateus e Festas do Senhor Jesus da Piedade"
       ],
       "categories": [
@@ -408,6 +588,42 @@
         "precision": "municipality"
       },
       "name": "Expo São Mateus and Festivities of Senhor Jesus da Piedade"
+    },
+    {
+      "aliases": [
+        "Festival F"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-faro-festival-f",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Faro",
+        "dtmn": "0805",
+        "municipio": "Faro",
+        "precision": "municipality"
+      },
+      "name": "Festival F"
+    },
+    {
+      "aliases": [
+        "Festas de Nossa Senhora da Graça – Fornos de Algodres"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-fornos-de-algodres-festas-de-nossa-senhora-da-graca-fornos-de-algodres",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Guarda",
+        "dtmn": "0905",
+        "municipio": "Fornos de Algodres",
+        "precision": "municipality"
+      },
+      "name": "Nossa Senhora da Graça Festivities – Fornos de Algodres"
     },
     {
       "aliases": [
@@ -448,6 +664,24 @@
     },
     {
       "aliases": [
+        "Feira de Agosto"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-grandola-feira-de-agosto",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Setúbal",
+        "dtmn": "1505",
+        "municipio": "Grândola",
+        "precision": "municipality"
+      },
+      "name": "August Fair"
+    },
+    {
+      "aliases": [
         "Farta Fair",
         "Feira Farta"
       ],
@@ -468,6 +702,42 @@
     },
     {
       "aliases": [
+        "Entrudo de Lazarim"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-lamego-entrudo-de-lazarim",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1805",
+        "municipio": "Lamego",
+        "precision": "municipality"
+      },
+      "name": "Entrudo de Lazarim"
+    },
+    {
+      "aliases": [
+        "Festas de Lisboa"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-lisboa-festas-de-lisboa",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Lisboa",
+        "dtmn": "1106",
+        "municipio": "Lisboa",
+        "precision": "municipality"
+      },
+      "name": "Festas de Lisboa"
+    },
+    {
+      "aliases": [
         "Feira dos Santos – Mação"
       ],
       "categories": [
@@ -483,7 +753,7 @@
         "municipio": "Mação",
         "precision": "municipality"
       },
-      "name": "Feira dos Santos"
+      "name": "Feira dos Santos – Mação"
     },
     {
       "aliases": [
@@ -503,7 +773,7 @@
         "municipio": "Mangualde",
         "precision": "municipality"
       },
-      "name": "Saints' Fair"
+      "name": "Saints' Fair – Mangualde"
     },
     {
       "aliases": [
@@ -545,6 +815,96 @@
     },
     {
       "aliases": [
+        "Festival Islâmico de Mértola"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-mertola-festival-islamico-de-mertola",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Beja",
+        "dtmn": "0209",
+        "municipio": "Mértola",
+        "precision": "municipality"
+      },
+      "name": "Islamic Festival"
+    },
+    {
+      "aliases": [
+        "Feira dos Gorazes"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-mogadouro-feira-dos-gorazes",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Bragança",
+        "dtmn": "0408",
+        "municipio": "Mogadouro",
+        "precision": "municipality"
+      },
+      "name": "Gorazes Fair"
+    },
+    {
+      "aliases": [
+        "Expodemo"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-moimenta-da-beira-expodemo",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1807",
+        "municipio": "Moimenta da Beira",
+        "precision": "municipality"
+      },
+      "name": "Expodemo"
+    },
+    {
+      "aliases": [
+        "Feira da Luz"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-montemor-o-novo-feira-da-luz",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Évora",
+        "dtmn": "0706",
+        "municipio": "Montemor-o-Novo",
+        "precision": "municipality"
+      },
+      "name": "Luz Fair"
+    },
+    {
+      "aliases": [
+        "Feira do Ano – Festas Concelhias"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-montemor-o-velho-feira-do-ano-festas-concelhias",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Coimbra",
+        "dtmn": "0610",
+        "municipio": "Montemor-o-Velho",
+        "precision": "municipality"
+      },
+      "name": "Fair of the Year – Municipal Festivities"
+    },
+    {
+      "aliases": [
         "ExpoMora"
       ],
       "categories": [
@@ -561,6 +921,24 @@
         "precision": "municipality"
       },
       "name": "ExpoMora"
+    },
+    {
+      "aliases": [
+        "Festas de São Paio da Torreira"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-murtosa-festas-de-sao-paio-da-torreira",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Aveiro",
+        "dtmn": "0112",
+        "municipio": "Murtosa",
+        "precision": "municipality"
+      },
+      "name": "São Paio da Torreira Festivities"
     },
     {
       "aliases": [
@@ -621,6 +999,42 @@
     },
     {
       "aliases": [
+        "Feira Nova de Santa Iria"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-ourem-feira-nova-de-santa-iria",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Santarém",
+        "dtmn": "1421",
+        "municipio": "Ourém",
+        "precision": "municipality"
+      },
+      "name": "Feira Nova de Santa Iria"
+    },
+    {
+      "aliases": [
+        "Feira Medieval de Palmela"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-palmela-feira-medieval-de-palmela",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Setúbal",
+        "dtmn": "1508",
+        "municipio": "Palmela",
+        "precision": "municipality"
+      },
+      "name": "Palmela Medieval Fair"
+    },
+    {
+      "aliases": [
         "Harvest Festival – Palmela",
         "Festa das Vindimas – Palmela"
       ],
@@ -636,7 +1050,25 @@
         "municipio": "Palmela",
         "precision": "municipality"
       },
-      "name": "Harvest Festival"
+      "name": "Harvest Festival – Palmela"
+    },
+    {
+      "aliases": [
+        "Agrival"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-penafiel-agrival",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Porto",
+        "dtmn": "1311",
+        "municipio": "Penafiel",
+        "precision": "municipality"
+      },
+      "name": "Agrival"
     },
     {
       "aliases": [
@@ -681,7 +1113,7 @@
     {
       "aliases": [
         "Festivities of the Municipality of Pinhel",
-        "Festivities of the Municipality of"
+        "Festas do Concelho de Pinhel"
       ],
       "categories": [
         "food",
@@ -699,7 +1131,8 @@
     },
     {
       "aliases": [
-        "São Bartolomeu Pilgrimage"
+        "São Bartolomeu Pilgrimage",
+        "Romaria de São Bartolomeu"
       ],
       "categories": [
         "food",
@@ -737,7 +1170,8 @@
     {
       "aliases": [
         "Grape Harvest Festival | Porto Santo",
-        "Grape Harvest Festival | Porto"
+        "Grape Harvest Festival | Porto",
+        "Festa das Vindimas – Porto Santo"
       ],
       "categories": [
         "food",
@@ -751,7 +1185,7 @@
         "municipio": "Porto Santo",
         "precision": "municipality"
       },
-      "name": "Grape Harvest Festival"
+      "name": "Grape Harvest Festival – Porto Santo"
     },
     {
       "aliases": [
@@ -832,6 +1266,24 @@
     },
     {
       "aliases": [
+        "Feira do Monte"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-santiago-do-cacem-feira-do-monte",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Setúbal",
+        "dtmn": "1509",
+        "municipio": "Santiago do Cacém",
+        "precision": "municipality"
+      },
+      "name": "Monte Fair"
+    },
+    {
+      "aliases": [
         "Vindouro - Pombaline Festival",
         "Vindouro - Festa Pombalina"
       ],
@@ -849,6 +1301,115 @@
         "precision": "municipality"
       },
       "name": "Vindouro - Pombaline Festival"
+    },
+    {
+      "aliases": [
+        "Festas de São Vicente"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-sao-vicente-festas-de-sao-vicente",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Ilha da Madeira",
+        "dtmn": "3110",
+        "municipio": "São Vicente",
+        "precision": "municipality"
+      },
+      "name": "São Vicente Festivities"
+    },
+    {
+      "aliases": [
+        "Festas do Concelho – Sardoal"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-sardoal-festas-do-concelho-sardoal",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Santarém",
+        "dtmn": "1417",
+        "municipio": "Sardoal",
+        "precision": "municipality"
+      },
+      "name": "Municipality Festivities – Sardoal"
+    },
+    {
+      "aliases": [
+        "Festas de São Bernardo – Sátão"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-satao-festas-de-sao-bernardo-satao",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1817",
+        "municipio": "Sátão",
+        "precision": "municipality"
+      },
+      "name": "Festivities of São Bernardo – Sátão"
+    },
+    {
+      "aliases": [
+        "Festas Populares do Concelho do Seixal"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-seixal-festas-populares-do-concelho-do-seixal",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Setúbal",
+        "dtmn": "1510",
+        "municipio": "Seixal",
+        "precision": "municipality"
+      },
+      "name": "Popular Festivities in the Municipality of Seixal"
+    },
+    {
+      "aliases": [
+        "FATACIS"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-soure-fatacis",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Coimbra",
+        "dtmn": "0615",
+        "municipio": "Soure",
+        "precision": "municipality"
+      },
+      "name": "FATACIS"
+    },
+    {
+      "aliases": [
+        "São Mateus Festivities",
+        "Festas de São Mateus"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-soure-sao-mateus-festivities",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Coimbra",
+        "dtmn": "0615",
+        "municipio": "Soure",
+        "precision": "municipality"
+      },
+      "name": "São Mateus Festivities"
     },
     {
       "aliases": [
@@ -891,7 +1452,6 @@
     {
       "aliases": [
         "Festa dos Tabuleiros (Festival of the Trays)",
-        "Festa dos Tabuleiros (Festival of",
         "Festa dos Tabuleiros"
       ],
       "categories": [
@@ -931,7 +1491,6 @@
     {
       "aliases": [
         "Festivities of the Municipality of Vendas Novas",
-        "Festivities of the Municipality of",
         "Festas do Concelho de Vendas Novas"
       ],
       "categories": [
@@ -948,6 +1507,24 @@
         "precision": "municipality"
       },
       "name": "Festivities of the Municipality of Vendas Novas"
+    },
+    {
+      "aliases": [
+        "Feira D’Aires"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-viana-do-alentejo-feira-daires",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Évora",
+        "dtmn": "0713",
+        "municipio": "Viana do Alentejo",
+        "precision": "municipality"
+      },
+      "name": "D'Aires Fair"
     },
     {
       "aliases": [
@@ -1083,7 +1660,43 @@
         "municipio": "Vila Verde",
         "precision": "municipality"
       },
-      "name": "Harvest Festival"
+      "name": "Harvest Festival – Vila Verde"
+    },
+    {
+      "aliases": [
+        "Festa dos Capuchos – Vila Viçosa"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-vila-vicosa-festa-dos-capuchos-vila-vicosa",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Évora",
+        "dtmn": "0714",
+        "municipio": "Vila Viçosa",
+        "precision": "municipality"
+      },
+      "name": "Capuchos Festival – Vila Viçosa"
+    },
+    {
+      "aliases": [
+        "Feira de São Mateus"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-viseu-feira-de-sao-mateus",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1823",
+        "municipio": "Viseu",
+        "precision": "municipality"
+      },
+      "name": "Feira de São Mateus"
     }
   ],
   "schema_version": 2,
