@@ -386,6 +386,25 @@
       }
     },
     {
+      "checked_on": "2026-08-18",
+      "event_id": "pt-moimenta-da-beira-expodemo",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-visitportugal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-13",
+            "start": "2026-09-10"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "sitemap-empty"
+    },
+    {
       "checked_on": "2026-09-07",
       "event_id": "pt-montemor-o-novo-feira-da-luz",
       "recurrence": {
