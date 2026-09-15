@@ -22,15 +22,15 @@
           "sha256": "5a58f08843a62529b4d9ecc0eb7edf8d8f6c8068fd6082e4f4cdcbbbe2710383"
         },
         {
-          "bytes": 41926,
+          "bytes": 46602,
           "kind": "teaser",
           "path": "pt/teaser.json",
-          "sha256": "ffc581dd8bdd55c656487ce024db6ea28166239ca7790cc68dc5518c94021c7b"
+          "sha256": "6574a53f88b006c2e9fa708fbeb4abf9103ca6a788c25bda86a21c1edf3d9a49"
         }
       ],
       "schema_version": 2
     }
   ],
-  "generated_on": "2026-09-08",
+  "generated_on": "2026-09-15",
   "manifest_version": 1
 }

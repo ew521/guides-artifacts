@@ -1,7 +1,7 @@
 {
   "country": "pt",
   "counts": {
-    "dated": 39
+    "dated": 36
   },
   "kind": "teaser",
   "records": [
@@ -15,6 +15,7 @@
         "culture"
       ],
       "event_id": "pt-alcobaca-feira-de-sao-bernardo",
+      "local_name": "Feira de São Bernardo",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Leiria",
@@ -35,6 +36,7 @@
         "wine"
       ],
       "event_id": "pt-alcobaca-mostra-internacional-de-doces-e-licores-conventuais",
+      "local_name": "Mostra Internacional de Doces e Licores Conventuais",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Leiria",
@@ -53,6 +55,7 @@
         "culture"
       ],
       "event_id": "pt-aljezur-festas-de-aljezur",
+      "local_name": "Festas de Aljezur",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Faro",
@@ -73,6 +76,7 @@
         "wine"
       ],
       "event_id": "pt-alpiarca-alpiagra-feira-agricola-e-comercial-de-alpiarca",
+      "local_name": "Alpiagra – Feira Agrícola e Comercial de Alpiarça",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -91,6 +95,7 @@
         "culture"
       ],
       "event_id": "pt-alter-do-chao-festas-de-verao-alter-do-chao",
+      "local_name": "Festas de Verão Alter do Chão",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Portalegre",
@@ -111,6 +116,7 @@
         "culture"
       ],
       "event_id": "pt-angra-do-heroismo-festas-de-santa-barbara",
+      "local_name": "Festas de Santa Bárbara",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Ilha Terceira",
@@ -130,6 +136,7 @@
         "culture"
       ],
       "event_id": "pt-arganil-feira-do-montalto",
+      "local_name": "Feira do Mont'Alto",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Coimbra",
@@ -148,6 +155,7 @@
         "culture"
       ],
       "event_id": "pt-arganil-ficabeira",
+      "local_name": "FICABEIRA",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Coimbra",
@@ -167,6 +175,7 @@
         "wine"
       ],
       "event_id": "pt-arouca-feira-das-colheitas",
+      "local_name": "Feira das Colheitas",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Aveiro",
@@ -187,6 +196,7 @@
         "wine"
       ],
       "event_id": "pt-arraiolos-mostra-gastronomica-festival-da-empada-feira-do-tapete-de-arraiolos",
+      "local_name": "Mostra Gastronómica | Festival da Empada | Feira do Tapete de Arraiolos",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Évora",
@@ -205,6 +215,7 @@
         "culture"
       ],
       "event_id": "pt-azambuja-cultfest-festival-cultural-do-ribatejo",
+      "local_name": "Cultfest – Festival Cultural do Ribatejo",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Lisboa",
@@ -225,6 +236,7 @@
         "culture"
       ],
       "event_id": "pt-baiao-festival-do-anho-assado-e-do-arroz-do-forno",
+      "local_name": "Festival do Anho Assado e do Arroz do Forno",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Porto",
@@ -243,6 +255,7 @@
         "culture"
       ],
       "event_id": "pt-barrancos-festas-de-nossa-senhora-da-conceicao",
+      "local_name": "Festas de Nossa Senhora da Conceição",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Beja",
@@ -262,6 +275,7 @@
         "culture"
       ],
       "event_id": "pt-barreiro-festas-do-barreiro",
+      "local_name": "Festas do Barreiro",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Setúbal",
@@ -280,6 +294,7 @@
         "culture"
       ],
       "event_id": "pt-benavente-feira-de-benavente",
+      "local_name": "Feira de Benavente",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -298,6 +313,7 @@
         "culture"
       ],
       "event_id": "pt-braganca-festas-de-braganca",
+      "local_name": "Festas de Bragança",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Bragança",
@@ -318,6 +334,7 @@
         "wine"
       ],
       "event_id": "pt-cadaval-festas-das-adiafas-e-festival-do-vinho-leve",
+      "local_name": "Festas das Adiafas e Festival do Vinho Leve",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Lisboa",
@@ -337,6 +354,7 @@
         "culture"
       ],
       "event_id": "pt-caldas-da-rainha-feira-dos-frutos",
+      "local_name": "Feira dos Frutos",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Leiria",
@@ -356,6 +374,7 @@
         "wine"
       ],
       "event_id": "pt-camara-de-lobos-festa-das-vindimas-estreito-de-camara-de-lobos",
+      "local_name": "Festa das Vindimas – Estreito de Câmara de Lobos",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Ilha da Madeira",
@@ -376,6 +395,7 @@
         "culture"
       ],
       "event_id": "pt-caminha-romaria-de-sao-joao-darga",
+      "local_name": "Romaria de São João d'Arga",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viana do Castelo",
@@ -396,6 +416,7 @@
         "culture"
       ],
       "event_id": "pt-carrazeda-de-ansiaes-feira-da-maca-do-vinho-e-do-azeite",
+      "local_name": "Feira da Maçã, do Vinho e do Azeite",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Bragança",
@@ -414,6 +435,7 @@
         "wine"
       ],
       "event_id": "pt-cartaxo-expocartaxo",
+      "local_name": "ExpoCartaxo",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -432,6 +454,7 @@
         "wine"
       ],
       "event_id": "pt-cartaxo-feira-de-todos-os-santos",
+      "local_name": "Feira de Todos os Santos",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -450,6 +473,7 @@
         "wine"
       ],
       "event_id": "pt-cascais-chefs-on-fire-cascais",
+      "local_name": "Chefs on Fire – Cascais",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Lisboa",
@@ -468,6 +492,7 @@
         "culture"
       ],
       "event_id": "pt-cascais-festas-do-mar",
+      "local_name": "Festas do Mar",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Lisboa",
@@ -486,6 +511,7 @@
         "culture"
       ],
       "event_id": "pt-cascais-fiartil-feira-internacional-de-artesanato-do-estoril",
+      "local_name": "FIARTIL - Feira Internacional de Artesanato do Estoril",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Lisboa",
@@ -505,6 +531,7 @@
         "wine"
       ],
       "event_id": "pt-castelo-branco-feira-sabores-de-perdicao",
+      "local_name": "Feira Sabores de Perdição",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Castelo Branco",
@@ -525,6 +552,7 @@
         "wine"
       ],
       "event_id": "pt-castro-daire-fica-castro-daire-festa-das-colheitas",
+      "local_name": "FICA Castro Daire – Festa das Colheitas",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
@@ -543,6 +571,7 @@
         "culture"
       ],
       "event_id": "pt-coruche-festas-em-honra-de-nossa-senhora-do-castelo",
+      "local_name": "Festas em Honra de Nossa Senhora do Castelo",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -561,6 +590,7 @@
         "culture"
       ],
       "event_id": "pt-crato-festival-do-crato",
+      "local_name": "Festival do Crato",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Portalegre",
@@ -580,6 +610,7 @@
         "culture"
       ],
       "event_id": "pt-elvas-expo-sao-mateus-e-festas-do-senhor-jesus-da-piedade",
+      "local_name": "Expo São Mateus e Festas do Senhor Jesus da Piedade",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Portalegre",
@@ -598,6 +629,7 @@
         "culture"
       ],
       "event_id": "pt-faro-festival-f",
+      "local_name": "Festival F",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Faro",
@@ -616,6 +648,7 @@
         "culture"
       ],
       "event_id": "pt-fornos-de-algodres-festas-de-nossa-senhora-da-graca-fornos-de-algodres",
+      "local_name": "Festas de Nossa Senhora da Graça – Fornos de Algodres",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Guarda",
@@ -635,6 +668,7 @@
         "wine"
       ],
       "event_id": "pt-funchal-festa-do-vinho-madeira",
+      "local_name": "Festa do Vinho Madeira",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Ilha da Madeira",
@@ -653,6 +687,7 @@
         "wine"
       ],
       "event_id": "pt-funchal-madeira-wine-lounge",
+      "local_name": "Madeira Wine Lounge",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Ilha da Madeira",
@@ -671,6 +706,7 @@
         "culture"
       ],
       "event_id": "pt-grandola-feira-de-agosto",
+      "local_name": "Feira de Agosto",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Setúbal",
@@ -691,6 +727,7 @@
         "culture"
       ],
       "event_id": "pt-guarda-feira-farta",
+      "local_name": "Feira Farta",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Guarda",
@@ -709,6 +746,7 @@
         "culture"
       ],
       "event_id": "pt-lamego-entrudo-de-lazarim",
+      "local_name": "Entrudo de Lazarim",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
@@ -727,6 +765,7 @@
         "culture"
       ],
       "event_id": "pt-lisboa-festas-de-lisboa",
+      "local_name": "Festas de Lisboa",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Lisboa",
@@ -746,6 +785,7 @@
         "culture"
       ],
       "event_id": "pt-macao-feira-dos-santos-macao",
+      "local_name": "Feira dos Santos – Mação",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -766,6 +806,7 @@
         "culture"
       ],
       "event_id": "pt-mangualde-feira-dos-santos-mangualde",
+      "local_name": "Feira dos Santos – Mangualde",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
@@ -785,6 +826,7 @@
         "wine"
       ],
       "event_id": "pt-marvao-festa-do-castanheiro-feira-da-castanha",
+      "local_name": "Festa do Castanheiro – Feira da Castanha",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Portalegre",
@@ -804,6 +846,7 @@
         "culture"
       ],
       "event_id": "pt-marvao-festival-al-mossassa",
+      "local_name": "Festival Al Mossassa",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Portalegre",
@@ -822,6 +865,7 @@
         "culture"
       ],
       "event_id": "pt-mertola-festival-islamico-de-mertola",
+      "local_name": "Festival Islâmico de Mértola",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Beja",
@@ -840,6 +884,7 @@
         "culture"
       ],
       "event_id": "pt-mogadouro-feira-dos-gorazes",
+      "local_name": "Feira dos Gorazes",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Bragança",
@@ -858,6 +903,7 @@
         "culture"
       ],
       "event_id": "pt-moimenta-da-beira-expodemo",
+      "local_name": "Expodemo",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
@@ -876,6 +922,7 @@
         "culture"
       ],
       "event_id": "pt-montemor-o-novo-feira-da-luz",
+      "local_name": "Feira da Luz",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Évora",
@@ -894,6 +941,7 @@
         "culture"
       ],
       "event_id": "pt-montemor-o-velho-feira-do-ano-festas-concelhias",
+      "local_name": "Feira do Ano – Festas Concelhias",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Coimbra",
@@ -913,6 +961,7 @@
         "culture"
       ],
       "event_id": "pt-mora-expomora",
+      "local_name": "ExpoMora",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Évora",
@@ -931,6 +980,7 @@
         "culture"
       ],
       "event_id": "pt-murtosa-festas-de-sao-paio-da-torreira",
+      "local_name": "Festas de São Paio da Torreira",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Aveiro",
@@ -949,6 +999,7 @@
         "culture"
       ],
       "event_id": "pt-nazare-festas-do-sitio",
+      "local_name": "Festas do Sítio",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Leiria",
@@ -968,6 +1019,7 @@
         "wine"
       ],
       "event_id": "pt-nelas-feira-do-vinho-do-dao",
+      "local_name": "Feira do Vinho do Dão",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
@@ -988,6 +1040,7 @@
         "culture"
       ],
       "event_id": "pt-nelas-feira-medieval-de-canas-de-senhorim",
+      "local_name": "Feira Medieval de Canas de Senhorim",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
@@ -1006,6 +1059,7 @@
         "culture"
       ],
       "event_id": "pt-ourem-feira-nova-de-santa-iria",
+      "local_name": "Feira Nova de Santa Iria",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -1024,6 +1078,7 @@
         "culture"
       ],
       "event_id": "pt-palmela-feira-medieval-de-palmela",
+      "local_name": "Feira Medieval de Palmela",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Setúbal",
@@ -1043,6 +1098,7 @@
         "wine"
       ],
       "event_id": "pt-palmela-festa-das-vindimas-palmela",
+      "local_name": "Festa das Vindimas – Palmela",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Setúbal",
@@ -1061,6 +1117,7 @@
         "culture"
       ],
       "event_id": "pt-penafiel-agrival",
+      "local_name": "Agrival",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Porto",
@@ -1080,6 +1137,7 @@
         "culture"
       ],
       "event_id": "pt-penafiel-festa-do-caldo-de-quintandona",
+      "local_name": "Festa do Caldo de Quintandona",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Porto",
@@ -1101,6 +1159,7 @@
         "culture"
       ],
       "event_id": "pt-penela-festas-do-concelho-fagrip-feira-de-sao-miguel-ou-das-nozes",
+      "local_name": "Festas do Concelho / FAGRIP/ Feira de São Miguel ou das Nozes",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Coimbra",
@@ -1120,6 +1179,7 @@
         "culture"
       ],
       "event_id": "pt-pinhel-festas-do-concelho-de-pinhel",
+      "local_name": "Festas do Concelho de Pinhel",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Guarda",
@@ -1139,6 +1199,7 @@
         "culture"
       ],
       "event_id": "pt-ponte-da-barca-romaria-de-sao-bartolomeu",
+      "local_name": "Romaria de São Bartolomeu",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viana do Castelo",
@@ -1158,6 +1219,7 @@
         "culture"
       ],
       "event_id": "pt-porto-festas-de-sao-joao",
+      "local_name": "Festas de São João",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Porto",
@@ -1178,6 +1240,7 @@
         "wine"
       ],
       "event_id": "pt-porto-santo-festa-das-vindimas-porto-santo",
+      "local_name": "Festa das Vindimas – Porto Santo",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Ilha de Porto Santo",
@@ -1197,6 +1260,7 @@
         "culture"
       ],
       "event_id": "pt-rio-maior-frimor-feira-nacional-da-cebola",
+      "local_name": "FRIMOR – Feira Nacional da Cebola",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -1216,6 +1280,7 @@
         "wine"
       ],
       "event_id": "pt-sabrosa-feira-do-vinho-e-do-azeite",
+      "local_name": "Feira do Vinho e do Azeite",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Vila Real",
@@ -1236,6 +1301,7 @@
         "culture"
       ],
       "event_id": "pt-sabrosa-festival-dos-produtos-durienses",
+      "local_name": "Festival dos Produtos Durienses",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Vila Real",
@@ -1255,6 +1321,7 @@
         "wine"
       ],
       "event_id": "pt-santarem-festival-nacional-de-gastronomia",
+      "local_name": "Festival Nacional de Gastronomia",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -1273,6 +1340,7 @@
         "culture"
       ],
       "event_id": "pt-santiago-do-cacem-feira-do-monte",
+      "local_name": "Feira do Monte",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Setúbal",
@@ -1293,6 +1361,7 @@
         "culture"
       ],
       "event_id": "pt-sao-joao-da-pesqueira-vindouro-festa-pombalina",
+      "local_name": "Vindouro - Festa Pombalina",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
@@ -1311,6 +1380,7 @@
         "culture"
       ],
       "event_id": "pt-sao-vicente-festas-de-sao-vicente",
+      "local_name": "Festas de São Vicente",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Ilha da Madeira",
@@ -1329,6 +1399,7 @@
         "culture"
       ],
       "event_id": "pt-sardoal-festas-do-concelho-sardoal",
+      "local_name": "Festas do Concelho – Sardoal",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -1347,6 +1418,7 @@
         "culture"
       ],
       "event_id": "pt-satao-festas-de-sao-bernardo-satao",
+      "local_name": "Festas de São Bernardo – Sátão",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
@@ -1365,6 +1437,7 @@
         "culture"
       ],
       "event_id": "pt-seixal-festas-populares-do-concelho-do-seixal",
+      "local_name": "Festas Populares do Concelho do Seixal",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Setúbal",
@@ -1383,6 +1456,7 @@
         "culture"
       ],
       "event_id": "pt-soure-fatacis",
+      "local_name": "FATACIS",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Coimbra",
@@ -1402,6 +1476,7 @@
         "culture"
       ],
       "event_id": "pt-soure-sao-mateus-festivities",
+      "local_name": "São Mateus Festivities",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Coimbra",
@@ -1421,6 +1496,7 @@
         "wine"
       ],
       "event_id": "pt-tavira-feira-da-dieta-mediterranica",
+      "local_name": "Feira da Dieta Mediterrânica",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Faro",
@@ -1440,6 +1516,7 @@
         "culture"
       ],
       "event_id": "pt-tavira-feira-de-sao-francisco-tavira",
+      "local_name": "Feira de São Francisco – Tavira",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Faro",
@@ -1459,6 +1536,7 @@
         "culture"
       ],
       "event_id": "pt-tomar-festa-dos-tabuleiros",
+      "local_name": "Festa dos Tabuleiros",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -1479,6 +1557,7 @@
         "culture"
       ],
       "event_id": "pt-torres-novas-feira-nacional-dos-frutos-secos",
+      "local_name": "Feira Nacional dos Frutos Secos",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Santarém",
@@ -1499,6 +1578,7 @@
         "culture"
       ],
       "event_id": "pt-vendas-novas-festas-do-concelho-de-vendas-novas",
+      "local_name": "Festas do Concelho de Vendas Novas",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Évora",
@@ -1517,6 +1597,7 @@
         "culture"
       ],
       "event_id": "pt-viana-do-alentejo-feira-daires",
+      "local_name": "Feira D’Aires",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Évora",
@@ -1536,6 +1617,7 @@
         "wine"
       ],
       "event_id": "pt-vila-do-conde-feira-de-gastronomia-de-vila-do-conde",
+      "local_name": "Feira de Gastronomia de Vila do Conde",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Porto",
@@ -1556,6 +1638,7 @@
         "culture"
       ],
       "event_id": "pt-vila-franca-de-xira-feira-anual-e-salao-de-artesanato",
+      "local_name": "Feira Anual e Salão de Artesanato",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Lisboa",
@@ -1574,6 +1657,7 @@
         "wine"
       ],
       "event_id": "pt-vila-franca-de-xira-xira-wine-fest",
+      "local_name": "Xira Wine Fest",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Lisboa",
@@ -1594,6 +1678,7 @@
         "culture"
       ],
       "event_id": "pt-vila-nova-de-famalicao-feira-de-artesanato-e-gastronomia-de-vila-nova-de-famalicao",
+      "local_name": "Feira de Artesanato e Gastronomia de Vila Nova de Famalicão",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Braga",
@@ -1613,6 +1698,7 @@
         "culture"
       ],
       "event_id": "pt-vila-nova-de-poiares-poiartes",
+      "local_name": "Poiartes",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Coimbra",
@@ -1634,6 +1720,7 @@
         "culture"
       ],
       "event_id": "pt-vila-real-de-santo-antonio-feira-da-praia-vila-real-de-santo-antonio",
+      "local_name": "Feira da Praia – Vila Real de Santo António",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Faro",
@@ -1653,6 +1740,7 @@
         "wine"
       ],
       "event_id": "pt-vila-verde-festa-das-colheitas",
+      "local_name": "Festa das Colheitas",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Braga",
@@ -1671,6 +1759,7 @@
         "culture"
       ],
       "event_id": "pt-vila-vicosa-festa-dos-capuchos-vila-vicosa",
+      "local_name": "Festa dos Capuchos – Vila Viçosa",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Évora",
@@ -1689,6 +1778,7 @@
         "culture"
       ],
       "event_id": "pt-viseu-feira-de-sao-mateus",
+      "local_name": "Feira de São Mateus",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
