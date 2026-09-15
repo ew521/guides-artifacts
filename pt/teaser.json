@@ -1,7 +1,7 @@
 {
   "country": "pt",
   "counts": {
-    "dated": 36
+    "dated": 31
   },
   "kind": "teaser",
   "records": [
@@ -167,6 +167,25 @@
     },
     {
       "aliases": [
+        "Feira da Maçã"
+      ],
+      "categories": [
+        "food",
+        "wine"
+      ],
+      "event_id": "pt-armamar-feira-da-maca",
+      "local_name": "Feira da Maçã",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1801",
+        "municipio": "Armamar",
+        "precision": "municipality"
+      },
+      "name": "Apple Fair – Armamar"
+    },
+    {
+      "aliases": [
         "Harvest Fair",
         "Feira das Colheitas"
       ],
@@ -183,7 +202,7 @@
         "municipio": "Arouca",
         "precision": "municipality"
       },
-      "name": "Harvest Fair"
+      "name": "Harvest Fair – Arouca"
     },
     {
       "aliases": [
@@ -223,7 +242,7 @@
         "municipio": "Azambuja",
         "precision": "municipality"
       },
-      "name": "Cultfest - Ribatejo Cultural Festival"
+      "name": "Cultfest – Ribatejo Cultural Festival"
     },
     {
       "aliases": [
@@ -366,7 +385,27 @@
     },
     {
       "aliases": [
-        "Harvest Festival - Estreito de Câmara de Lobos",
+        "Festa da Castanha de Curral das Freiras"
+      ],
+      "categories": [
+        "food",
+        "wine",
+        "culture"
+      ],
+      "event_id": "pt-camara-de-lobos-festa-da-castanha-de-curral-das-freiras",
+      "local_name": "Festa da Castanha de Curral das Freiras",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Ilha da Madeira",
+        "dtmn": "3102",
+        "municipio": "Câmara de Lobos",
+        "precision": "municipality"
+      },
+      "name": "Curral das Freiras Chestnut Festival"
+    },
+    {
+      "aliases": [
+        "Harvest Festival – Estreito de Câmara de Lobos",
         "Festa das Vindimas – Estreito de Câmara de Lobos"
       ],
       "categories": [
@@ -451,7 +490,8 @@
       ],
       "categories": [
         "food",
-        "wine"
+        "wine",
+        "culture"
       ],
       "event_id": "pt-cartaxo-feira-de-todos-os-santos",
       "local_name": "Feira de Todos os Santos",
@@ -462,7 +502,7 @@
         "municipio": "Cartaxo",
         "precision": "municipality"
       },
-      "name": "All Saints Fair"
+      "name": "All Saints Fair – Cartaxo"
     },
     {
       "aliases": [
@@ -504,14 +544,14 @@
     },
     {
       "aliases": [
-        "FIARTIL - Feira Internacional de Artesanato do Estoril"
+        "FIARTIL – Feira Internacional de Artesanato do Estoril"
       ],
       "categories": [
         "food",
         "culture"
       ],
       "event_id": "pt-cascais-fiartil-feira-internacional-de-artesanato-do-estoril",
-      "local_name": "FIARTIL - Feira Internacional de Artesanato do Estoril",
+      "local_name": "FIARTIL – Feira Internacional de Artesanato do Estoril",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Lisboa",
@@ -519,7 +559,7 @@
         "municipio": "Cascais",
         "precision": "municipality"
       },
-      "name": "FIARTIL - Feira Internacional de Artesanato do Estoril"
+      "name": "FIARTIL – Feira Internacional de Artesanato do Estoril"
     },
     {
       "aliases": [
@@ -543,8 +583,28 @@
     },
     {
       "aliases": [
-        "FICA Castro Daire - Harvest Festival",
-        "FICA Castro Daire - Harvest",
+        "Feira do Século XIX"
+      ],
+      "categories": [
+        "food",
+        "wine",
+        "culture"
+      ],
+      "event_id": "pt-castelo-de-paiva-feira-do-seculo-xix",
+      "local_name": "Feira do Século XIX",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Aveiro",
+        "dtmn": "0106",
+        "municipio": "Castelo de Paiva",
+        "precision": "municipality"
+      },
+      "name": "Nineteenth Century Fair – Castelo de Paiva"
+    },
+    {
+      "aliases": [
+        "FICA Castro Daire – Harvest Festival",
+        "FICA Castro Daire – Harvest",
         "FICA Castro Daire – Festa das Colheitas"
       ],
       "categories": [
@@ -560,7 +620,26 @@
         "municipio": "Castro Daire",
         "precision": "municipality"
       },
-      "name": "FICA Castro Daire - Harvest Festival"
+      "name": "FICA Castro Daire – Harvest Festival"
+    },
+    {
+      "aliases": [
+        "Feira e Festa de Santa Eufémia"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-celorico-da-beira-feira-e-festa-de-santa-eufemia",
+      "local_name": "Feira e Festa de Santa Eufémia",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Guarda",
+        "dtmn": "0903",
+        "municipio": "Celorico da Beira",
+        "precision": "municipality"
+      },
+      "name": "Santa Eufémia Fair and Festival"
     },
     {
       "aliases": [
@@ -641,6 +720,25 @@
     },
     {
       "aliases": [
+        "Feira de Ferreira"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-ferreira-do-alentejo-feira-de-ferreira",
+      "local_name": "Feira de Ferreira",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Beja",
+        "dtmn": "0208",
+        "municipio": "Ferreira do Alentejo",
+        "precision": "municipality"
+      },
+      "name": "Ferreira Fair"
+    },
+    {
+      "aliases": [
         "Festas de Nossa Senhora da Graça – Fornos de Algodres"
       ],
       "categories": [
@@ -699,6 +797,25 @@
     },
     {
       "aliases": [
+        "Festas do Concelho de Gondomar – Romaria do Rosário"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-gondomar-festas-do-concelho-de-gondomar-romaria-do-rosario",
+      "local_name": "Festas do Concelho de Gondomar – Romaria do Rosário",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Porto",
+        "dtmn": "1304",
+        "municipio": "Gondomar",
+        "precision": "municipality"
+      },
+      "name": "Gondomar Festivities – Rosário Pilgrimage"
+    },
+    {
+      "aliases": [
         "Feira de Agosto"
       ],
       "categories": [
@@ -735,7 +852,7 @@
         "municipio": "Guarda",
         "precision": "municipality"
       },
-      "name": "Farta Fair"
+      "name": "Farta Fair – Guarda"
     },
     {
       "aliases": [
@@ -774,6 +891,26 @@
         "precision": "municipality"
       },
       "name": "Festas de Lisboa"
+    },
+    {
+      "aliases": [
+        "Feira Setecentista – Santo Antão do Tojal"
+      ],
+      "categories": [
+        "food",
+        "wine",
+        "culture"
+      ],
+      "event_id": "pt-loures-feira-setecentista-santo-antao-do-tojal",
+      "local_name": "Feira Setecentista – Santo Antão do Tojal",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Lisboa",
+        "dtmn": "1107",
+        "municipio": "Loures",
+        "precision": "municipality"
+      },
+      "name": "Eighteenth-century Fair – Santo Antão do Tojal"
     },
     {
       "aliases": [
@@ -834,7 +971,7 @@
         "municipio": "Marvão",
         "precision": "municipality"
       },
-      "name": "Chestnut Festival – Chestnut Fair"
+      "name": "Chestnut Festival – Marvão"
     },
     {
       "aliases": [
@@ -855,6 +992,25 @@
         "precision": "municipality"
       },
       "name": "Al Mossassa Festival"
+    },
+    {
+      "aliases": [
+        "Festa do Espumante de Melgaço"
+      ],
+      "categories": [
+        "food",
+        "wine"
+      ],
+      "event_id": "pt-melgaco-festa-do-espumante-de-melgaco",
+      "local_name": "Festa do Espumante de Melgaço",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viana do Castelo",
+        "dtmn": "1603",
+        "municipio": "Melgaço",
+        "precision": "municipality"
+      },
+      "name": "Melgaço Sparkling Wine Festival"
     },
     {
       "aliases": [
@@ -1149,6 +1305,26 @@
     },
     {
       "aliases": [
+        "Mercado Magriço"
+      ],
+      "categories": [
+        "food",
+        "wine",
+        "culture"
+      ],
+      "event_id": "pt-penedono-mercado-magrico",
+      "local_name": "Mercado Magriço",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1812",
+        "municipio": "Penedono",
+        "precision": "municipality"
+      },
+      "name": "Magriço Market"
+    },
+    {
+      "aliases": [
         "Municipality Festivities / FAGRIP / São Miguel or Nuts Fair",
         "Municipality Festivities / FAGRIP",
         "Festas do Concelho / FAGRIP/ Feira de São Miguel ou das Nozes"
@@ -1252,6 +1428,44 @@
     },
     {
       "aliases": [
+        "Feira de São Francisco – Redondo"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-redondo-feira-de-sao-francisco-redondo",
+      "local_name": "Feira de São Francisco – Redondo",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Évora",
+        "dtmn": "0710",
+        "municipio": "Redondo",
+        "precision": "municipality"
+      },
+      "name": "San Francisco Fair – Redondo"
+    },
+    {
+      "aliases": [
+        "Festa da Labareda"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-resende-festa-da-labareda",
+      "local_name": "Festa da Labareda",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1813",
+        "municipio": "Resende",
+        "precision": "municipality"
+      },
+      "name": "Labareda Festivities"
+    },
+    {
+      "aliases": [
         "FRIMOR – National Onion Fair",
         "FRIMOR – Feira Nacional da Cebola"
       ],
@@ -1288,7 +1502,7 @@
         "municipio": "Sabrosa",
         "precision": "municipality"
       },
-      "name": "Wine and Olive Oil Fair"
+      "name": "Wine and Olive Oil Fair – Provesende"
     },
     {
       "aliases": [
@@ -1352,8 +1566,8 @@
     },
     {
       "aliases": [
-        "Vindouro - Pombaline Festival",
-        "Vindouro - Festa Pombalina"
+        "Vindouro – Pombaline Festival",
+        "Vindouro – Festa Pombalina"
       ],
       "categories": [
         "food",
@@ -1361,7 +1575,7 @@
         "culture"
       ],
       "event_id": "pt-sao-joao-da-pesqueira-vindouro-festa-pombalina",
-      "local_name": "Vindouro - Festa Pombalina",
+      "local_name": "Vindouro – Festa Pombalina",
       "locality": {
         "dicofre": null,
         "distrito_ilha": "Viseu",
@@ -1369,7 +1583,7 @@
         "municipio": "São João da Pesqueira",
         "precision": "municipality"
       },
-      "name": "Vindouro - Pombaline Festival"
+      "name": "Vindouro – Pombaline Festival"
     },
     {
       "aliases": [
@@ -1449,6 +1663,25 @@
     },
     {
       "aliases": [
+        "Festa da Castanha de Sernancelhe"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-sernancelhe-festa-da-castanha-de-sernancelhe",
+      "local_name": "Festa da Castanha de Sernancelhe",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1818",
+        "municipio": "Sernancelhe",
+        "precision": "municipality"
+      },
+      "name": "Sernancelhe Chestnut Festival"
+    },
+    {
+      "aliases": [
         "FATACIS"
       ],
       "categories": [
@@ -1488,6 +1721,24 @@
     },
     {
       "aliases": [
+        "Festa das Vindimas"
+      ],
+      "categories": [
+        "wine"
+      ],
+      "event_id": "pt-tabuaco-festa-das-vindimas",
+      "local_name": "Festa das Vindimas",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1819",
+        "municipio": "Tabuaço",
+        "precision": "municipality"
+      },
+      "name": "Harvest Festival – Tabuaço"
+    },
+    {
+      "aliases": [
         "Mediterranean Diet Fair",
         "Feira da Dieta Mediterrânica"
       ],
@@ -1524,7 +1775,7 @@
         "municipio": "Tavira",
         "precision": "municipality"
       },
-      "name": "São Francisco's Fair"
+      "name": "São Francisco's Fair – Tavira"
     },
     {
       "aliases": [
@@ -1548,6 +1799,25 @@
     },
     {
       "aliases": [
+        "FICTON – Feira Industrial e Comercial de Tondela"
+      ],
+      "categories": [
+        "food",
+        "culture"
+      ],
+      "event_id": "pt-tondela-ficton-feira-industrial-e-comercial-de-tondela",
+      "local_name": "FICTON – Feira Industrial e Comercial de Tondela",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Viseu",
+        "dtmn": "1821",
+        "municipio": "Tondela",
+        "precision": "municipality"
+      },
+      "name": "FICTON – Tondela's Industrial and Trade Fair"
+    },
+    {
+      "aliases": [
         "National Dried Fruit Fair",
         "Feira Nacional dos Frutos Secos"
       ],
@@ -1565,7 +1835,7 @@
         "municipio": "Torres Novas",
         "precision": "municipality"
       },
-      "name": "National Dried Fruit Fair"
+      "name": "National Dried Fruit Fair – Torres Novas"
     },
     {
       "aliases": [
@@ -1609,6 +1879,26 @@
     },
     {
       "aliases": [
+        "Feira da Ladra"
+      ],
+      "categories": [
+        "food",
+        "wine",
+        "culture"
+      ],
+      "event_id": "pt-vieira-do-minho-feira-da-ladra",
+      "local_name": "Feira da Ladra",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Braga",
+        "dtmn": "0311",
+        "municipio": "Vieira do Minho",
+        "precision": "municipality"
+      },
+      "name": "Flea Market – Vieira do Minho"
+    },
+    {
+      "aliases": [
         "Feira de Gastronomia de Vila do Conde",
         "Vila do Conde Gastronomy Fair"
       ],
@@ -1646,7 +1936,7 @@
         "municipio": "Vila Franca de Xira",
         "precision": "municipality"
       },
-      "name": "Annual Fair and Craft Show"
+      "name": "Annual Fair and Craft Show – Vila Franca de Xira"
     },
     {
       "aliases": [
@@ -1728,7 +2018,7 @@
         "municipio": "Vila Real de Santo António",
         "precision": "municipality"
       },
-      "name": "Beach Fair"
+      "name": "Beach Fair – Vila Real de Santo António"
     },
     {
       "aliases": [
@@ -1768,6 +2058,26 @@
         "precision": "municipality"
       },
       "name": "Capuchos Festival – Vila Viçosa"
+    },
+    {
+      "aliases": [
+        "Rural Castanea – Festa da Castanha"
+      ],
+      "categories": [
+        "food",
+        "wine",
+        "culture"
+      ],
+      "event_id": "pt-vinhais-rural-castanea-festa-da-castanha",
+      "local_name": "Rural Castanea – Festa da Castanha",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Bragança",
+        "dtmn": "0412",
+        "municipio": "Vinhais",
+        "precision": "municipality"
+      },
+      "name": "Rural Castanea – Chestnut Festival"
     },
     {
       "aliases": [

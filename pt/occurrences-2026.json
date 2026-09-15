@@ -241,6 +241,24 @@
       }
     },
     {
+      "checked_on": "2026-09-15",
+      "event_id": "pt-ferreira-do-alentejo-feira-de-ferreira",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cm-ferreira-do-alentejo",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-20",
+            "start": "2026-09-18"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
       "checked_on": "2026-09-01",
       "event_id": "pt-funchal-festa-do-vinho-madeira",
       "recurrence": {
@@ -642,6 +660,24 @@
         "window": null
       },
       "unverified_reason": "no-website"
+    },
+    {
+      "checked_on": "2026-09-15",
+      "event_id": "pt-resende-festa-da-labareda",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cm-resende",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-29",
+            "start": "2026-09-18"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
     },
     {
       "checked_on": "2026-08-18",
