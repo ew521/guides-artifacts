@@ -22,6 +22,12 @@
           "sha256": "8a14dade52ef37c10f8361c3bdbbd4bb8eb6a329d48c4ee9cca9699da37d161b"
         },
         {
+          "bytes": 8537,
+          "kind": "sources",
+          "path": "pt/sources.json",
+          "sha256": "f1d5dfbf1eb193800a8d8fc7aed3dcf01b378c0dfd5e5cf2c6aaf2037b279cb6"
+        },
+        {
           "bytes": 54799,
           "kind": "teaser",
           "path": "pt/teaser.json",

@@ -1,0 +1,317 @@
+{
+  "country": "pt",
+  "kind": "sources",
+  "records": [
+    {
+      "authority_tier": "organiser",
+      "id": "pt-alpiagra-official",
+      "label": "the event's own organiser site"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-chefsonfire-official",
+      "label": "the event's own organiser site"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-alcobaca",
+      "label": "Câmara Municipal de Alcobaça"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-armamar",
+      "label": "Câmara Municipal de Armamar"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-arraiolos",
+      "label": "Câmara Municipal de Arraiolos"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-baiao",
+      "label": "Câmara Municipal de Baião"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-benavente",
+      "label": "Câmara Municipal de Benavente"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-camara-de-lobos",
+      "label": "Câmara Municipal de Câmara de Lobos"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-caminha",
+      "label": "Câmara Municipal de Caminha"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-carrazeda-de-ansiaes",
+      "label": "Câmara Municipal de Carrazeda de Ansiães"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-castelo-branco",
+      "label": "Câmara Municipal de Castelo Branco"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-castelo-de-paiva",
+      "label": "Câmara Municipal de Castelo de Paiva"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-castro-daire",
+      "label": "Câmara Municipal de Castro Daire"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-elvas",
+      "label": "Câmara Municipal de Elvas"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-ferreira-do-alentejo",
+      "label": "Câmara Municipal de Ferreira do Alentejo"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-funchal",
+      "label": "Câmara Municipal de Funchal"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-gondomar",
+      "label": "Câmara Municipal de Gondomar"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-guarda",
+      "label": "Câmara Municipal de Guarda"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-loures",
+      "label": "Câmara Municipal de Loures"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-macao",
+      "label": "Câmara Municipal de Mação"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-mangualde",
+      "label": "Câmara Municipal de Mangualde"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-marvao",
+      "label": "Câmara Municipal de Marvão"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-melgaco",
+      "label": "Câmara Municipal de Melgaço"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-mogadouro",
+      "label": "Câmara Municipal de Mogadouro"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-mora",
+      "label": "Câmara Municipal de Mora"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-murtosa",
+      "label": "Câmara Municipal de Murtosa"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-nazare",
+      "label": "Câmara Municipal de Nazaré"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-nelas",
+      "label": "Câmara Municipal de Nelas"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-palmela",
+      "label": "Câmara Municipal de Palmela"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-penafiel",
+      "label": "Câmara Municipal de Penafiel"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-penedono",
+      "label": "Câmara Municipal de Penedono"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-penela",
+      "label": "Câmara Municipal de Penela"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-porto-santo",
+      "label": "Câmara Municipal de Porto Santo"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-redondo",
+      "label": "Câmara Municipal de Redondo"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-resende",
+      "label": "Câmara Municipal de Resende"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-sabrosa",
+      "label": "Câmara Municipal de Sabrosa"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-sao-joao-da-pesqueira",
+      "label": "Câmara Municipal de São João da Pesqueira"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-sardoal",
+      "label": "Câmara Municipal de Sardoal"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-sernancelhe",
+      "label": "Câmara Municipal de Sernancelhe"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-tabuaco",
+      "label": "Câmara Municipal de Tabuaco"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-tavira",
+      "label": "Câmara Municipal de Tavira"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-vendas-novas",
+      "label": "Câmara Municipal de Vendas Novas"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-viana-do-alentejo",
+      "label": "Câmara Municipal de Viana do Alentejo"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-vieira-do-minho",
+      "label": "Câmara Municipal de Vieira do Minho"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-vila-franca-de-xira",
+      "label": "Câmara Municipal de Vila Franca de Xira"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-vila-nova-de-famalicao",
+      "label": "Câmara Municipal de Vila Nova de Famalicão"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-vila-nova-de-poiares",
+      "label": "Câmara Municipal de Vila Nova de Poiares"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-vila-real-de-santo-antonio",
+      "label": "Câmara Municipal de Vila Real de Santo António"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-vila-verde",
+      "label": "Câmara Municipal de Vila Verde"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-vila-vicosa",
+      "label": "Câmara Municipal de Vila Vicosa"
+    },
+    {
+      "authority_tier": "municipality",
+      "id": "pt-cm-vinhais",
+      "label": "Câmara Municipal de Vinhais"
+    },
+    {
+      "authority_tier": "national",
+      "id": "pt-dgt-caop",
+      "label": "Carta Administrativa Oficial de Portugal (Direção-Geral do Território)"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-expodemo-official",
+      "label": "Expodemo, Moimenta da Beira (organiser)"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-feiradaluz-official",
+      "label": "Feira da Luz, Montemor-o-Novo (organiser)"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-feiradascolheitas-official",
+      "label": "the event's own organiser site"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-feiradoano-official",
+      "label": "Feira do Ano, Montemor-o-Velho (organiser)"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-festadasadiafas-official",
+      "label": "the event's own organiser site"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-festadasvindimas-official",
+      "label": "the event's own organiser site"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-festivalnacionaldegastronomia-official",
+      "label": "the event's own organiser site"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-tabuleiros-official",
+      "label": "Comissão Central da Festa dos Tabuleiros"
+    },
+    {
+      "authority_tier": "regional",
+      "id": "pt-visitmadeira",
+      "label": "Turismo da Madeira"
+    },
+    {
+      "authority_tier": "national",
+      "id": "pt-visitportugal",
+      "label": "Turismo de Portugal agenda"
+    }
+  ],
+  "schema_version": 2
+}
