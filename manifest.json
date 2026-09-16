@@ -16,21 +16,21 @@
           "sha256": "e8a8798d36bce8e89d67d70f888f022717cb45afa0c36b4b6d88b12f12127a85"
         },
         {
-          "bytes": 22172,
+          "bytes": 23376,
           "kind": "occurrences",
           "path": "pt/occurrences-2026.json",
-          "sha256": "86559f37d07ad3f201c90f3d1bcba03b10d217994ecb6bb37b1fe35b1c6ce1e4"
+          "sha256": "b53f99d08eb5380650038bd8ac59dd13b767af4657b772a6252d621d9eb09689"
         },
         {
           "bytes": 54799,
           "kind": "teaser",
           "path": "pt/teaser.json",
-          "sha256": "5264bb0616d8f738858672fdb2cef923f23cb61f84b5760c136399b32b320840"
+          "sha256": "b6769f1233bc28eb5201f454b0e9709fb37e54fe7ed090cc9d7ead13d7397353"
         }
       ],
       "schema_version": 2
     }
   ],
-  "generated_on": "2026-09-15",
+  "generated_on": "2026-09-16",
   "manifest_version": 1
 }
