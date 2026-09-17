@@ -16,16 +16,16 @@
           "sha256": "e8a8798d36bce8e89d67d70f888f022717cb45afa0c36b4b6d88b12f12127a85"
         },
         {
-          "bytes": 27857,
+          "bytes": 27880,
           "kind": "occurrences",
           "path": "pt/occurrences-2026.json",
-          "sha256": "8a14dade52ef37c10f8361c3bdbbd4bb8eb6a329d48c4ee9cca9699da37d161b"
+          "sha256": "2cc92c8bf5b8a802b96838d49b01efc5818cd2587965de14ff221298407ef2cd"
         },
         {
-          "bytes": 8537,
+          "bytes": 8841,
           "kind": "sources",
           "path": "pt/sources.json",
-          "sha256": "f1d5dfbf1eb193800a8d8fc7aed3dcf01b378c0dfd5e5cf2c6aaf2037b279cb6"
+          "sha256": "c9ceed6533416e0f2a14d2c50c0e3b2a5ab27efd4bf8d325195f03cac6ad21e3"
         },
         {
           "bytes": 54799,
@@ -37,6 +37,6 @@
       "schema_version": 2
     }
   ],
-  "generated_on": "2026-09-16",
+  "generated_on": "2026-09-17",
   "manifest_version": 1
 }

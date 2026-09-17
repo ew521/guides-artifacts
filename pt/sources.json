@@ -294,8 +294,18 @@
     },
     {
       "authority_tier": "organiser",
+      "id": "pt-festadoespumante-official",
+      "label": "Festa do Espumante de Melgaço"
+    },
+    {
+      "authority_tier": "organiser",
       "id": "pt-festivalnacionaldegastronomia-official",
       "label": "the event's own organiser site"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-jf-tojal-official",
+      "label": "Junta de Freguesia de Santo Antão e São Julião do Tojal"
     },
     {
       "authority_tier": "organiser",

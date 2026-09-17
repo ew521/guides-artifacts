@@ -404,12 +404,12 @@
       }
     },
     {
-      "checked_on": "2026-09-16",
+      "checked_on": "2026-09-17",
       "event_id": "pt-loures-feira-setecentista-santo-antao-do-tojal",
       "recurrence": {
         "level": "expected"
       },
-      "source_id": "pt-cm-loures",
+      "source_id": "pt-jf-tojal-official",
       "timing": {
         "dates": [
           {
@@ -494,12 +494,12 @@
       }
     },
     {
-      "checked_on": "2026-09-16",
+      "checked_on": "2026-09-17",
       "event_id": "pt-melgaco-festa-do-espumante-de-melgaco",
       "recurrence": {
         "level": "expected"
       },
-      "source_id": "pt-cm-melgaco",
+      "source_id": "pt-festadoespumante-official",
       "timing": {
         "dates": [
           {
