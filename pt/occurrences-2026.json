@@ -58,7 +58,7 @@
       }
     },
     {
-      "checked_on": "2026-08-31",
+      "checked_on": "2026-09-24",
       "event_id": "pt-arouca-feira-das-colheitas",
       "recurrence": {
         "level": "confirmed"
@@ -695,12 +695,12 @@
       "unverified_reason": "no-website"
     },
     {
-      "checked_on": "2026-08-18",
+      "checked_on": "2026-09-24",
       "event_id": "pt-palmela-feira-medieval-de-palmela",
       "recurrence": {
         "level": "uncertain"
       },
-      "source_id": "pt-visitportugal",
+      "source_id": "pt-cm-palmela",
       "timing": {
         "dates": [
           {
@@ -708,10 +708,9 @@
             "start": "2026-09-25"
           }
         ],
-        "level": "unverified",
+        "level": "published",
         "window": null
-      },
-      "unverified_reason": "no-website"
+      }
     },
     {
       "checked_on": "2026-09-01",
@@ -824,7 +823,7 @@
       }
     },
     {
-      "checked_on": "2026-09-15",
+      "checked_on": "2026-09-24",
       "event_id": "pt-resende-festa-da-labareda",
       "recurrence": {
         "level": "confirmed"
@@ -880,7 +879,7 @@
       "unverified_reason": "no-website"
     },
     {
-      "checked_on": "2026-09-01",
+      "checked_on": "2026-09-24",
       "event_id": "pt-santarem-festival-nacional-de-gastronomia",
       "recurrence": {
         "level": "confirmed"
@@ -1080,7 +1079,7 @@
       }
     },
     {
-      "checked_on": "2026-09-16",
+      "checked_on": "2026-09-24",
       "event_id": "pt-vila-franca-de-xira-xira-wine-fest",
       "recurrence": {
         "level": "confirmed"
@@ -1135,7 +1134,7 @@
       }
     },
     {
-      "checked_on": "2026-09-01",
+      "checked_on": "2026-09-24",
       "event_id": "pt-vila-real-de-santo-antonio-feira-da-praia-vila-real-de-santo-antonio",
       "recurrence": {
         "level": "expected"
@@ -1144,11 +1143,11 @@
       "timing": {
         "dates": [
           {
-            "end": "2026-10-15",
-            "start": "2026-10-09"
+            "end": "2026-10-13",
+            "start": "2026-10-08"
           }
         ],
-        "level": "reported",
+        "level": "published",
         "window": null
       }
     },
