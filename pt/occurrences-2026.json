@@ -404,6 +404,24 @@
       }
     },
     {
+      "checked_on": "2026-09-24",
+      "event_id": "pt-lisboa-vinhosesabores",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-grandes-escolhas",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-19",
+            "start": "2026-10-17"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
       "checked_on": "2026-09-17",
       "event_id": "pt-loures-feira-setecentista-santo-antao-do-tojal",
       "recurrence": {

@@ -1,7 +1,7 @@
 {
   "country": "pt",
   "counts": {
-    "dated": 38
+    "dated": 39
   },
   "kind": "teaser",
   "records": [
@@ -891,6 +891,27 @@
         "precision": "municipality"
       },
       "name": "Festas de Lisboa"
+    },
+    {
+      "aliases": [
+        "Grandes Escolhas Wines & Flavours",
+        "Grandes Escolhas | Vinhos & Sabores",
+        "Vinhos e Sabores"
+      ],
+      "categories": [
+        "food",
+        "wine"
+      ],
+      "event_id": "pt-lisboa-vinhosesabores",
+      "local_name": "Vinhos e Sabores",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Lisboa",
+        "dtmn": "1106",
+        "municipio": "Lisboa",
+        "precision": "municipality"
+      },
+      "name": "Grandes Escolhas Wines & Flavours"
     },
     {
       "aliases": [
