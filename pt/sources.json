@@ -258,6 +258,11 @@
       "label": "Câmara Municipal de Vinhais"
     },
     {
+      "authority_tier": "organiser",
+      "id": "pt-cvr-algarve",
+      "label": "Comissão Vitivinícola do Algarve"
+    },
+    {
       "authority_tier": "national",
       "id": "pt-dgt-caop",
       "label": "Carta Administrativa Oficial de Portugal (Direção-Geral do Território)"

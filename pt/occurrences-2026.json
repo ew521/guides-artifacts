@@ -422,6 +422,24 @@
       }
     },
     {
+      "checked_on": "2026-09-25",
+      "event_id": "pt-loule-algarve-wine-session",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cvr-algarve",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-12",
+            "start": "2026-10-12"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
       "checked_on": "2026-09-17",
       "event_id": "pt-loures-feira-setecentista-santo-antao-do-tojal",
       "recurrence": {

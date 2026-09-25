@@ -1,7 +1,7 @@
 {
   "country": "pt",
   "counts": {
-    "dated": 39
+    "dated": 40
   },
   "kind": "teaser",
   "records": [
@@ -912,6 +912,24 @@
         "precision": "municipality"
       },
       "name": "Grandes Escolhas Wines & Flavours"
+    },
+    {
+      "aliases": [
+        "Algarve Wine Session"
+      ],
+      "categories": [
+        "wine"
+      ],
+      "event_id": "pt-loule-algarve-wine-session",
+      "local_name": "Algarve Wine Session",
+      "locality": {
+        "dicofre": null,
+        "distrito_ilha": "Faro",
+        "dtmn": "0808",
+        "municipio": "Loulé",
+        "precision": "municipality"
+      },
+      "name": "Algarve Wine Session"
     },
     {
       "aliases": [
