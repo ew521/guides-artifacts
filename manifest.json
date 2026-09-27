@@ -16,10 +16,10 @@
           "sha256": "e8a8798d36bce8e89d67d70f888f022717cb45afa0c36b4b6d88b12f12127a85"
         },
         {
-          "bytes": 28626,
+          "bytes": 30190,
           "kind": "occurrences",
           "path": "pt/occurrences-2026.json",
-          "sha256": "3cbe33b77188353b31f3d36fbc71a1bfb4e688f6f1d0caeab88ddcd97a20ab07"
+          "sha256": "fcba234ca1441b1058d63626e38d963292ee9b11d9d2186d407834777f1ff8ba"
         },
         {
           "bytes": 9092,
@@ -37,6 +37,6 @@
       "schema_version": 2
     }
   ],
-  "generated_on": "2026-09-25",
+  "generated_on": "2026-09-27",
   "manifest_version": 1
 }
