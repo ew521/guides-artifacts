@@ -1,0 +1,42 @@
+{
+  "countries": [
+    {
+      "country": "pt",
+      "payloads": [
+        {
+          "bytes": 44918,
+          "kind": "geography_municipios",
+          "path": "pt/geography-municipios.json",
+          "sha256": "51e72708f67cf7242941e2c756d54064ac0efb1b7fc2dfd75376ada803beb3cf"
+        },
+        {
+          "bytes": 628477,
+          "kind": "geography",
+          "path": "pt/geography.json",
+          "sha256": "e8a8798d36bce8e89d67d70f888f022717cb45afa0c36b4b6d88b12f12127a85"
+        },
+        {
+          "bytes": 9389,
+          "kind": "occurrences",
+          "path": "pt/occurrences-2026.json",
+          "sha256": "11cfe4b786ff3a285efc65cfb4f68960612a03dcf5c1aeaf0bd378da5dbc1330"
+        },
+        {
+          "bytes": 8967,
+          "kind": "sources",
+          "path": "pt/sources.json",
+          "sha256": "a706a5701743aeb99ae726aef49890ed083f786d6a5498cbdd711accd1813a24"
+        },
+        {
+          "bytes": 38846,
+          "kind": "teaser",
+          "path": "pt/teaser.json",
+          "sha256": "ff4d6eb74dff818c5d84165f7f269f7438f1ad6287401fc8701f654c72c802f1"
+        }
+      ],
+      "schema_version": 2
+    }
+  ],
+  "generated_on": "2026-10-07",
+  "manifest_version": 1
+}
