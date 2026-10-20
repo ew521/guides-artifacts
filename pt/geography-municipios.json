@@ -3,2161 +3,2777 @@
   "kind": "geography_municipios",
   "records": [
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0101",
+      "island": null,
       "lat": 40.595096,
       "lon": -8.416155,
-      "name": "Águeda"
+      "municipality": "Águeda",
+      "municipality_code": "0101",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0102",
+      "island": null,
       "lat": 40.694478,
       "lon": -8.475164,
-      "name": "Albergaria-a-Velha"
+      "municipality": "Albergaria-a-Velha",
+      "municipality_code": "0102",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0103",
+      "island": null,
       "lat": 40.453849,
       "lon": -8.444787,
-      "name": "Anadia"
+      "municipality": "Anadia",
+      "municipality_code": "0103",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0104",
+      "island": null,
       "lat": 40.930414,
       "lon": -8.273071,
-      "name": "Arouca"
+      "municipality": "Arouca",
+      "municipality_code": "0104",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0105",
+      "island": null,
       "lat": 40.627621,
       "lon": -8.607382,
-      "name": "Aveiro"
+      "municipality": "Aveiro",
+      "municipality_code": "0105",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0106",
+      "island": null,
       "lat": 41.021237,
       "lon": -8.308561,
-      "name": "Castelo de Paiva"
+      "municipality": "Castelo de Paiva",
+      "municipality_code": "0106",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0107",
+      "island": null,
       "lat": 40.995268,
       "lon": -8.624472,
-      "name": "Espinho"
+      "municipality": "Espinho",
+      "municipality_code": "0107",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0108",
+      "island": null,
       "lat": 40.760941,
       "lon": -8.578986,
-      "name": "Estarreja"
+      "municipality": "Estarreja",
+      "municipality_code": "0108",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0109",
+      "island": null,
       "lat": 40.962699,
       "lon": -8.515101,
-      "name": "Santa Maria da Feira"
+      "municipality": "Santa Maria da Feira",
+      "municipality_code": "0109",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0110",
+      "island": null,
       "lat": 40.611085,
       "lon": -8.705266,
-      "name": "Ílhavo"
+      "municipality": "Ílhavo",
+      "municipality_code": "0110",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0111",
+      "island": null,
       "lat": 40.347664,
       "lon": -8.447985,
-      "name": "Mealhada"
+      "municipality": "Mealhada",
+      "municipality_code": "0111",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0112",
+      "island": null,
       "lat": 40.760895,
       "lon": -8.671345,
-      "name": "Murtosa"
+      "municipality": "Murtosa",
+      "municipality_code": "0112",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0113",
+      "island": null,
       "lat": 40.848274,
       "lon": -8.486157,
-      "name": "Oliveira de Azeméis"
+      "municipality": "Oliveira de Azeméis",
+      "municipality_code": "0113",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0114",
+      "island": null,
       "lat": 40.514904,
       "lon": -8.543485,
-      "name": "Oliveira do Bairro"
+      "municipality": "Oliveira do Bairro",
+      "municipality_code": "0114",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0115",
+      "island": null,
       "lat": 40.886245,
       "lon": -8.627029,
-      "name": "Ovar"
+      "municipality": "Ovar",
+      "municipality_code": "0115",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0116",
+      "island": null,
       "lat": 40.897699,
       "lon": -8.490721,
-      "name": "São João da Madeira"
+      "municipality": "São João da Madeira",
+      "municipality_code": "0116",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0117",
+      "island": null,
       "lat": 40.717643,
       "lon": -8.369407,
-      "name": "Sever do Vouga"
+      "municipality": "Sever do Vouga",
+      "municipality_code": "0117",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0118",
+      "island": null,
       "lat": 40.503644,
       "lon": -8.692914,
-      "name": "Vagos"
+      "municipality": "Vagos",
+      "municipality_code": "0118",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Aveiro",
-      "dtmn": "0119",
+      "island": null,
       "lat": 40.833411,
       "lon": -8.325563,
-      "name": "Vale de Cambra"
+      "municipality": "Vale de Cambra",
+      "municipality_code": "0119",
+      "region": "Continente",
+      "subdivision": "Aveiro"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0201",
+      "island": null,
       "lat": 37.889755,
       "lon": -8.196457,
-      "name": "Aljustrel"
+      "municipality": "Aljustrel",
+      "municipality_code": "0201",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0202",
+      "island": null,
       "lat": 37.47512,
       "lon": -8.071031,
-      "name": "Almodôvar"
+      "municipality": "Almodôvar",
+      "municipality_code": "0202",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0203",
+      "island": null,
       "lat": 38.240242,
       "lon": -8.041355,
-      "name": "Alvito"
+      "municipality": "Alvito",
+      "municipality_code": "0203",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0204",
+      "island": null,
       "lat": 38.155014,
       "lon": -7.05183,
-      "name": "Barrancos"
+      "municipality": "Barrancos",
+      "municipality_code": "0204",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0205",
+      "island": null,
       "lat": 37.96941,
       "lon": -7.85748,
-      "name": "Beja"
+      "municipality": "Beja",
+      "municipality_code": "0205",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0206",
+      "island": null,
       "lat": 37.694271,
       "lon": -8.025064,
-      "name": "Castro Verde"
+      "municipality": "Castro Verde",
+      "municipality_code": "0206",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0207",
+      "island": null,
       "lat": 38.205458,
       "lon": -7.896729,
-      "name": "Cuba"
+      "municipality": "Cuba",
+      "municipality_code": "0207",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0208",
+      "island": null,
       "lat": 38.094273,
       "lon": -8.200668,
-      "name": "Ferreira do Alentejo"
+      "municipality": "Ferreira do Alentejo",
+      "municipality_code": "0208",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0209",
+      "island": null,
       "lat": 37.640188,
       "lon": -7.671301,
-      "name": "Mértola"
+      "municipality": "Mértola",
+      "municipality_code": "0209",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0210",
+      "island": null,
       "lat": 38.146484,
       "lon": -7.366965,
-      "name": "Moura"
+      "municipality": "Moura",
+      "municipality_code": "0210",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0211",
+      "island": null,
       "lat": 37.621933,
       "lon": -8.574022,
-      "name": "Odemira"
+      "municipality": "Odemira",
+      "municipality_code": "0211",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0212",
+      "island": null,
       "lat": 37.635606,
       "lon": -8.246745,
-      "name": "Ourique"
+      "municipality": "Ourique",
+      "municipality_code": "0212",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0213",
+      "island": null,
       "lat": 37.958588,
       "lon": -7.459549,
-      "name": "Serpa"
+      "municipality": "Serpa",
+      "municipality_code": "0213",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Beja",
-      "dtmn": "0214",
+      "island": null,
       "lat": 38.160738,
       "lon": -7.718635,
-      "name": "Vidigueira"
+      "municipality": "Vidigueira",
+      "municipality_code": "0214",
+      "region": "Continente",
+      "subdivision": "Beja"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0301",
+      "island": null,
       "lat": 41.65176,
       "lon": -8.344547,
-      "name": "Amares"
+      "municipality": "Amares",
+      "municipality_code": "0301",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0302",
+      "island": null,
       "lat": 41.534726,
       "lon": -8.61489,
-      "name": "Barcelos"
+      "municipality": "Barcelos",
+      "municipality_code": "0302",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0303",
+      "island": null,
       "lat": 41.540392,
       "lon": -8.414514,
-      "name": "Braga"
+      "municipality": "Braga",
+      "municipality_code": "0303",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0304",
+      "island": null,
       "lat": 41.531642,
       "lon": -7.953255,
-      "name": "Cabeceiras de Basto"
+      "municipality": "Cabeceiras de Basto",
+      "municipality_code": "0304",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0305",
+      "island": null,
       "lat": 41.403567,
       "lon": -8.036209,
-      "name": "Celorico de Basto"
+      "municipality": "Celorico de Basto",
+      "municipality_code": "0305",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0306",
+      "island": null,
       "lat": 41.545542,
       "lon": -8.758358,
-      "name": "Esposende"
+      "municipality": "Esposende",
+      "municipality_code": "0306",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0307",
+      "island": null,
       "lat": 41.47005,
       "lon": -8.147937,
-      "name": "Fafe"
+      "municipality": "Fafe",
+      "municipality_code": "0307",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0308",
+      "island": null,
       "lat": 41.465066,
       "lon": -8.331761,
-      "name": "Guimarães"
+      "municipality": "Guimarães",
+      "municipality_code": "0308",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0309",
+      "island": null,
       "lat": 41.587202,
       "lon": -8.246475,
-      "name": "Póvoa de Lanhoso"
+      "municipality": "Póvoa de Lanhoso",
+      "municipality_code": "0309",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0310",
+      "island": null,
       "lat": 41.735085,
       "lon": -8.197927,
-      "name": "Terras de Bouro"
+      "municipality": "Terras de Bouro",
+      "municipality_code": "0310",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0311",
+      "island": null,
       "lat": 41.623588,
       "lon": -8.101066,
-      "name": "Vieira do Minho"
+      "municipality": "Vieira do Minho",
+      "municipality_code": "0311",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0312",
+      "island": null,
       "lat": 41.408793,
       "lon": -8.492755,
-      "name": "Vila Nova de Famalicão"
+      "municipality": "Vila Nova de Famalicão",
+      "municipality_code": "0312",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0313",
+      "island": null,
       "lat": 41.669543,
       "lon": -8.465552,
-      "name": "Vila Verde"
+      "municipality": "Vila Verde",
+      "municipality_code": "0313",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Braga",
-      "dtmn": "0314",
+      "island": null,
       "lat": 41.373446,
       "lon": -8.291903,
-      "name": "Vizela"
+      "municipality": "Vizela",
+      "municipality_code": "0314",
+      "region": "Continente",
+      "subdivision": "Braga"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0401",
+      "island": null,
       "lat": 41.355681,
       "lon": -6.959911,
-      "name": "Alfândega da Fé"
+      "municipality": "Alfândega da Fé",
+      "municipality_code": "0401",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0402",
+      "island": null,
       "lat": 41.76362,
       "lon": -6.749733,
-      "name": "Bragança"
+      "municipality": "Bragança",
+      "municipality_code": "0402",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0403",
+      "island": null,
       "lat": 41.237107,
       "lon": -7.32829,
-      "name": "Carrazeda de Ansiães"
+      "municipality": "Carrazeda de Ansiães",
+      "municipality_code": "0403",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0404",
+      "island": null,
       "lat": 41.136156,
       "lon": -6.802667,
-      "name": "Freixo de Espada à Cinta"
+      "municipality": "Freixo de Espada à Cinta",
+      "municipality_code": "0404",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0405",
+      "island": null,
       "lat": 41.556517,
       "lon": -6.895616,
-      "name": "Macedo de Cavaleiros"
+      "municipality": "Macedo de Cavaleiros",
+      "municipality_code": "0405",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0406",
+      "island": null,
       "lat": 41.508852,
       "lon": -6.311546,
-      "name": "Miranda do Douro"
+      "municipality": "Miranda do Douro",
+      "municipality_code": "0406",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0407",
+      "island": null,
       "lat": 41.533575,
       "lon": -7.142801,
-      "name": "Mirandela"
+      "municipality": "Mirandela",
+      "municipality_code": "0407",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0408",
+      "island": null,
       "lat": 41.329384,
       "lon": -6.622678,
-      "name": "Mogadouro"
+      "municipality": "Mogadouro",
+      "municipality_code": "0408",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0409",
+      "island": null,
       "lat": 41.170408,
       "lon": -6.95914,
-      "name": "Torre de Moncorvo"
+      "municipality": "Torre de Moncorvo",
+      "municipality_code": "0409",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0410",
+      "island": null,
       "lat": 41.320567,
       "lon": -7.1666,
-      "name": "Vila Flor"
+      "municipality": "Vila Flor",
+      "municipality_code": "0410",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0411",
+      "island": null,
       "lat": 41.56949,
       "lon": -6.538224,
-      "name": "Vimioso"
+      "municipality": "Vimioso",
+      "municipality_code": "0411",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Bragança",
-      "dtmn": "0412",
+      "island": null,
       "lat": 41.830912,
       "lon": -7.0793,
-      "name": "Vinhais"
+      "municipality": "Vinhais",
+      "municipality_code": "0412",
+      "region": "Continente",
+      "subdivision": "Bragança"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0501",
+      "island": null,
       "lat": 40.329941,
       "lon": -7.331984,
-      "name": "Belmonte"
+      "municipality": "Belmonte",
+      "municipality_code": "0501",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0502",
+      "island": null,
       "lat": 39.862767,
       "lon": -7.553871,
-      "name": "Castelo Branco"
+      "municipality": "Castelo Branco",
+      "municipality_code": "0502",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0503",
+      "island": null,
       "lat": 40.265756,
       "lon": -7.535482,
-      "name": "Covilhã"
+      "municipality": "Covilhã",
+      "municipality_code": "0503",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0504",
+      "island": null,
       "lat": 40.126178,
       "lon": -7.513567,
-      "name": "Fundão"
+      "municipality": "Fundão",
+      "municipality_code": "0504",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0505",
+      "island": null,
       "lat": 39.877488,
       "lon": -7.1131,
-      "name": "Idanha-a-Nova"
+      "municipality": "Idanha-a-Nova",
+      "municipality_code": "0505",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0506",
+      "island": null,
       "lat": 39.934948,
       "lon": -7.88757,
-      "name": "Oleiros"
+      "municipality": "Oleiros",
+      "municipality_code": "0506",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0507",
+      "island": null,
       "lat": 40.186832,
       "lon": -7.150731,
-      "name": "Penamacor"
+      "municipality": "Penamacor",
+      "municipality_code": "0507",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0508",
+      "island": null,
       "lat": 39.718359,
       "lon": -7.860998,
-      "name": "Proença-a-Nova"
+      "municipality": "Proença-a-Nova",
+      "municipality_code": "0508",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0509",
+      "island": null,
       "lat": 39.837782,
       "lon": -8.09708,
-      "name": "Sertã"
+      "municipality": "Sertã",
+      "municipality_code": "0509",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0510",
+      "island": null,
       "lat": 39.685589,
       "lon": -8.144885,
-      "name": "Vila de Rei"
+      "municipality": "Vila de Rei",
+      "municipality_code": "0510",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Castelo Branco",
-      "dtmn": "0511",
+      "island": null,
       "lat": 39.666113,
       "lon": -7.662864,
-      "name": "Vila Velha de Ródão"
+      "municipality": "Vila Velha de Ródão",
+      "municipality_code": "0511",
+      "region": "Continente",
+      "subdivision": "Castelo Branco"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0601",
+      "island": null,
       "lat": 40.220412,
       "lon": -7.980613,
-      "name": "Arganil"
+      "municipality": "Arganil",
+      "municipality_code": "0601",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0602",
+      "island": null,
       "lat": 40.365022,
       "lon": -8.65852,
-      "name": "Cantanhede"
+      "municipality": "Cantanhede",
+      "municipality_code": "0602",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0603",
+      "island": null,
       "lat": 40.225384,
       "lon": -8.462329,
-      "name": "Coimbra"
+      "municipality": "Coimbra",
+      "municipality_code": "0603",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0604",
+      "island": null,
       "lat": 40.104181,
       "lon": -8.497978,
-      "name": "Condeixa-a-Nova"
+      "municipality": "Condeixa-a-Nova",
+      "municipality_code": "0604",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0605",
+      "island": null,
       "lat": 40.169831,
       "lon": -8.796084,
-      "name": "Figueira da Foz"
+      "municipality": "Figueira da Foz",
+      "municipality_code": "0605",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0606",
+      "island": null,
       "lat": 40.086554,
       "lon": -8.113807,
-      "name": "Góis"
+      "municipality": "Góis",
+      "municipality_code": "0606",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0607",
+      "island": null,
       "lat": 40.12876,
       "lon": -8.231395,
-      "name": "Lousã"
+      "municipality": "Lousã",
+      "municipality_code": "0607",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0608",
+      "island": null,
       "lat": 40.44569,
       "lon": -8.748304,
-      "name": "Mira"
+      "municipality": "Mira",
+      "municipality_code": "0608",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0609",
+      "island": null,
       "lat": 40.110089,
       "lon": -8.343062,
-      "name": "Miranda do Corvo"
+      "municipality": "Miranda do Corvo",
+      "municipality_code": "0609",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0610",
+      "island": null,
       "lat": 40.212061,
       "lon": -8.633952,
-      "name": "Montemor-o-Velho"
+      "municipality": "Montemor-o-Velho",
+      "municipality_code": "0610",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0611",
+      "island": null,
       "lat": 40.379087,
       "lon": -7.857153,
-      "name": "Oliveira do Hospital"
+      "municipality": "Oliveira do Hospital",
+      "municipality_code": "0611",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0612",
+      "island": null,
       "lat": 40.071815,
       "lon": -7.923789,
-      "name": "Pampilhosa da Serra"
+      "municipality": "Pampilhosa da Serra",
+      "municipality_code": "0612",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0613",
+      "island": null,
       "lat": 40.294804,
       "lon": -8.261761,
-      "name": "Penacova"
+      "municipality": "Penacova",
+      "municipality_code": "0613",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0614",
+      "island": null,
       "lat": 40.004645,
       "lon": -8.348797,
-      "name": "Penela"
+      "municipality": "Penela",
+      "municipality_code": "0614",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0615",
+      "island": null,
       "lat": 40.062195,
       "lon": -8.642734,
-      "name": "Soure"
+      "municipality": "Soure",
+      "municipality_code": "0615",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0616",
+      "island": null,
       "lat": 40.332378,
       "lon": -8.019874,
-      "name": "Tábua"
+      "municipality": "Tábua",
+      "municipality_code": "0616",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Coimbra",
-      "dtmn": "0617",
+      "island": null,
       "lat": 40.215429,
       "lon": -8.257305,
-      "name": "Vila Nova de Poiares"
+      "municipality": "Vila Nova de Poiares",
+      "municipality_code": "0617",
+      "region": "Continente",
+      "subdivision": "Coimbra"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0701",
+      "island": null,
       "lat": 38.602634,
       "lon": -7.384967,
-      "name": "Alandroal"
+      "municipality": "Alandroal",
+      "municipality_code": "0701",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0702",
+      "island": null,
       "lat": 38.778261,
       "lon": -7.969402,
-      "name": "Arraiolos"
+      "municipality": "Arraiolos",
+      "municipality_code": "0702",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0703",
+      "island": null,
       "lat": 38.819691,
       "lon": -7.436451,
-      "name": "Borba"
+      "municipality": "Borba",
+      "municipality_code": "0703",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0704",
+      "island": null,
       "lat": 38.846458,
       "lon": -7.584291,
-      "name": "Estremoz"
+      "municipality": "Estremoz",
+      "municipality_code": "0704",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0705",
+      "island": null,
       "lat": 38.554646,
       "lon": -7.91043,
-      "name": "Évora"
+      "municipality": "Évora",
+      "municipality_code": "0705",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0706",
+      "island": null,
       "lat": 38.653213,
       "lon": -8.215279,
-      "name": "Montemor-o-Novo"
+      "municipality": "Montemor-o-Novo",
+      "municipality_code": "0706",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0707",
+      "island": null,
       "lat": 38.916023,
       "lon": -8.079604,
-      "name": "Mora"
+      "municipality": "Mora",
+      "municipality_code": "0707",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0708",
+      "island": null,
       "lat": 38.297427,
       "lon": -7.222258,
-      "name": "Mourão"
+      "municipality": "Mourão",
+      "municipality_code": "0708",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0709",
+      "island": null,
       "lat": 38.314151,
       "lon": -7.739348,
-      "name": "Portel"
+      "municipality": "Portel",
+      "municipality_code": "0709",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0710",
+      "island": null,
       "lat": 38.61556,
       "lon": -7.593097,
-      "name": "Redondo"
+      "municipality": "Redondo",
+      "municipality_code": "0710",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0711",
+      "island": null,
       "lat": 38.377155,
       "lon": -7.497552,
-      "name": "Reguengos de Monsaraz"
+      "municipality": "Reguengos de Monsaraz",
+      "municipality_code": "0711",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0712",
+      "island": null,
       "lat": 38.648625,
       "lon": -8.447872,
-      "name": "Vendas Novas"
+      "municipality": "Vendas Novas",
+      "municipality_code": "0712",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0713",
+      "island": null,
       "lat": 38.390672,
       "lon": -8.183526,
-      "name": "Viana do Alentejo"
+      "municipality": "Viana do Alentejo",
+      "municipality_code": "0713",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Évora",
-      "dtmn": "0714",
+      "island": null,
       "lat": 38.7596,
       "lon": -7.368101,
-      "name": "Vila Viçosa"
+      "municipality": "Vila Viçosa",
+      "municipality_code": "0714",
+      "region": "Continente",
+      "subdivision": "Évora"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0801",
+      "island": null,
       "lat": 37.144579,
       "lon": -8.214422,
-      "name": "Albufeira"
+      "municipality": "Albufeira",
+      "municipality_code": "0801",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0802",
+      "island": null,
       "lat": 37.402622,
       "lon": -7.667525,
-      "name": "Alcoutim"
+      "municipality": "Alcoutim",
+      "municipality_code": "0802",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0803",
+      "island": null,
       "lat": 37.296414,
       "lon": -8.808025,
-      "name": "Aljezur"
+      "municipality": "Aljezur",
+      "municipality_code": "0803",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0804",
+      "island": null,
       "lat": 37.280774,
       "lon": -7.520143,
-      "name": "Castro Marim"
+      "municipality": "Castro Marim",
+      "municipality_code": "0804",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0805",
+      "island": null,
       "lat": 37.053762,
       "lon": -7.931909,
-      "name": "Faro"
+      "municipality": "Faro",
+      "municipality_code": "0805",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0806",
+      "island": null,
       "lat": 37.132596,
       "lon": -8.455538,
-      "name": "Lagoa"
+      "municipality": "Lagoa",
+      "municipality_code": "0806",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0807",
+      "island": null,
       "lat": 37.153139,
       "lon": -8.741336,
-      "name": "Lagos"
+      "municipality": "Lagos",
+      "municipality_code": "0807",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0808",
+      "island": null,
       "lat": 37.214402,
       "lon": -8.086522,
-      "name": "Loulé"
+      "municipality": "Loulé",
+      "municipality_code": "0808",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0809",
+      "island": null,
       "lat": 37.31106,
       "lon": -8.593656,
-      "name": "Monchique"
+      "municipality": "Monchique",
+      "municipality_code": "0809",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0810",
+      "island": null,
       "lat": 37.064592,
       "lon": -7.810728,
-      "name": "Olhão"
+      "municipality": "Olhão",
+      "municipality_code": "0810",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0811",
+      "island": null,
       "lat": 37.194063,
       "lon": -8.585039,
-      "name": "Portimão"
+      "municipality": "Portimão",
+      "municipality_code": "0811",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0812",
+      "island": null,
       "lat": 37.195698,
       "lon": -7.890891,
-      "name": "São Brás de Alportel"
+      "municipality": "São Brás de Alportel",
+      "municipality_code": "0812",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0813",
+      "island": null,
       "lat": 37.264025,
       "lon": -8.348693,
-      "name": "Silves"
+      "municipality": "Silves",
+      "municipality_code": "0813",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0814",
+      "island": null,
       "lat": 37.220424,
       "lon": -7.690145,
-      "name": "Tavira"
+      "municipality": "Tavira",
+      "municipality_code": "0814",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0815",
+      "island": null,
       "lat": 37.079628,
       "lon": -8.868941,
-      "name": "Vila do Bispo"
+      "municipality": "Vila do Bispo",
+      "municipality_code": "0815",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Faro",
-      "dtmn": "0816",
+      "island": null,
       "lat": 37.200702,
       "lon": -7.550001,
-      "name": "Vila Real de Santo António"
+      "municipality": "Vila Real de Santo António",
+      "municipality_code": "0816",
+      "region": "Continente",
+      "subdivision": "Faro"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0901",
+      "island": null,
       "lat": 40.781728,
       "lon": -7.533559,
-      "name": "Aguiar da Beira"
+      "municipality": "Aguiar da Beira",
+      "municipality_code": "0901",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0902",
+      "island": null,
       "lat": 40.630347,
       "lon": -6.917367,
-      "name": "Almeida"
+      "municipality": "Almeida",
+      "municipality_code": "0902",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0903",
+      "island": null,
       "lat": 40.612412,
       "lon": -7.394504,
-      "name": "Celorico da Beira"
+      "municipality": "Celorico da Beira",
+      "municipality_code": "0903",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0904",
+      "island": null,
       "lat": 40.892551,
       "lon": -6.971951,
-      "name": "Figueira de Castelo Rodrigo"
+      "municipality": "Figueira de Castelo Rodrigo",
+      "municipality_code": "0904",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0905",
+      "island": null,
       "lat": 40.657474,
       "lon": -7.488617,
-      "name": "Fornos de Algodres"
+      "municipality": "Fornos de Algodres",
+      "municipality_code": "0905",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0906",
+      "island": null,
       "lat": 40.497956,
       "lon": -7.594868,
-      "name": "Gouveia"
+      "municipality": "Gouveia",
+      "municipality_code": "0906",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0907",
+      "island": null,
       "lat": 40.540205,
       "lon": -7.223754,
-      "name": "Guarda"
+      "municipality": "Guarda",
+      "municipality_code": "0907",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0908",
+      "island": null,
       "lat": 40.38652,
       "lon": -7.539921,
-      "name": "Manteigas"
+      "municipality": "Manteigas",
+      "municipality_code": "0908",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0909",
+      "island": null,
       "lat": 40.930661,
       "lon": -7.249916,
-      "name": "Mêda"
+      "municipality": "Mêda",
+      "municipality_code": "0909",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0910",
+      "island": null,
       "lat": 40.779718,
       "lon": -7.103329,
-      "name": "Pinhel"
+      "municipality": "Pinhel",
+      "municipality_code": "0910",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0911",
+      "island": null,
       "lat": 40.404105,
       "lon": -7.049619,
-      "name": "Sabugal"
+      "municipality": "Sabugal",
+      "municipality_code": "0911",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0912",
+      "island": null,
       "lat": 40.382438,
       "lon": -7.691533,
-      "name": "Seia"
+      "municipality": "Seia",
+      "municipality_code": "0912",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0913",
+      "island": null,
       "lat": 40.797497,
       "lon": -7.341518,
-      "name": "Trancoso"
+      "municipality": "Trancoso",
+      "municipality_code": "0913",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Guarda",
-      "dtmn": "0914",
+      "island": null,
       "lat": 41.051607,
       "lon": -7.19757,
-      "name": "Vila Nova de Foz Côa"
+      "municipality": "Vila Nova de Foz Côa",
+      "municipality_code": "0914",
+      "region": "Continente",
+      "subdivision": "Guarda"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1001",
+      "island": null,
       "lat": 39.563443,
       "lon": -8.963902,
-      "name": "Alcobaça"
+      "municipality": "Alcobaça",
+      "municipality_code": "1001",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1002",
+      "island": null,
       "lat": 39.815998,
       "lon": -8.40197,
-      "name": "Alvaiázere"
+      "municipality": "Alvaiázere",
+      "municipality_code": "1002",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1003",
+      "island": null,
       "lat": 39.941062,
       "lon": -8.460784,
-      "name": "Ansião"
+      "municipality": "Ansião",
+      "municipality_code": "1003",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1004",
+      "island": null,
       "lat": 39.623322,
       "lon": -8.731938,
-      "name": "Batalha"
+      "municipality": "Batalha",
+      "municipality_code": "1004",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1005",
+      "island": null,
       "lat": 39.27518,
       "lon": -9.150104,
-      "name": "Bombarral"
+      "municipality": "Bombarral",
+      "municipality_code": "1005",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1006",
+      "island": null,
       "lat": 39.400611,
       "lon": -9.079649,
-      "name": "Caldas da Rainha"
+      "municipality": "Caldas da Rainha",
+      "municipality_code": "1006",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1007",
+      "island": null,
       "lat": 40.017919,
       "lon": -8.204445,
-      "name": "Castanheira de Pêra"
+      "municipality": "Castanheira de Pêra",
+      "municipality_code": "1007",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1008",
+      "island": null,
       "lat": 39.930087,
       "lon": -8.297498,
-      "name": "Figueiró dos Vinhos"
+      "municipality": "Figueiró dos Vinhos",
+      "municipality_code": "1008",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1009",
+      "island": null,
       "lat": 39.801587,
       "lon": -8.77141,
-      "name": "Leiria"
+      "municipality": "Leiria",
+      "municipality_code": "1009",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1010",
+      "island": null,
       "lat": 39.789403,
       "lon": -8.961914,
-      "name": "Marinha Grande"
+      "municipality": "Marinha Grande",
+      "municipality_code": "1010",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1011",
+      "island": null,
       "lat": 39.580508,
       "lon": -9.039172,
-      "name": "Nazaré"
+      "municipality": "Nazaré",
+      "municipality_code": "1011",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1012",
+      "island": null,
       "lat": 39.36856,
       "lon": -9.187244,
-      "name": "Óbidos"
+      "municipality": "Óbidos",
+      "municipality_code": "1012",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1013",
+      "island": null,
       "lat": 39.943318,
       "lon": -8.189864,
-      "name": "Pedrógão Grande"
+      "municipality": "Pedrógão Grande",
+      "municipality_code": "1013",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1014",
+      "island": null,
       "lat": 39.33717,
       "lon": -9.312903,
-      "name": "Peniche"
+      "municipality": "Peniche",
+      "municipality_code": "1014",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1015",
+      "island": null,
       "lat": 39.911679,
       "lon": -8.647815,
-      "name": "Pombal"
+      "municipality": "Pombal",
+      "municipality_code": "1015",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Leiria",
-      "dtmn": "1016",
+      "island": null,
       "lat": 39.558972,
       "lon": -8.788238,
-      "name": "Porto de Mós"
+      "municipality": "Porto de Mós",
+      "municipality_code": "1016",
+      "region": "Continente",
+      "subdivision": "Leiria"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1101",
+      "island": null,
       "lat": 39.094173,
       "lon": -9.04888,
-      "name": "Alenquer"
+      "municipality": "Alenquer",
+      "municipality_code": "1101",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1102",
+      "island": null,
       "lat": 38.975207,
       "lon": -9.087439,
-      "name": "Arruda dos Vinhos"
+      "municipality": "Arruda dos Vinhos",
+      "municipality_code": "1102",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1103",
+      "island": null,
       "lat": 39.131018,
       "lon": -8.903205,
-      "name": "Azambuja"
+      "municipality": "Azambuja",
+      "municipality_code": "1103",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1104",
+      "island": null,
       "lat": 39.239935,
       "lon": -9.06233,
-      "name": "Cadaval"
+      "municipality": "Cadaval",
+      "municipality_code": "1104",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1105",
+      "island": null,
       "lat": 38.722344,
       "lon": -9.397087,
-      "name": "Cascais"
+      "municipality": "Cascais",
+      "municipality_code": "1105",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1106",
+      "island": null,
       "lat": 38.738469,
       "lon": -9.150133,
-      "name": "Lisboa"
+      "municipality": "Lisboa",
+      "municipality_code": "1106",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1107",
+      "island": null,
       "lat": 38.857371,
       "lon": -9.175686,
-      "name": "Loures"
+      "municipality": "Loures",
+      "municipality_code": "1107",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1108",
+      "island": null,
       "lat": 39.24647,
       "lon": -9.271686,
-      "name": "Lourinhã"
+      "municipality": "Lourinhã",
+      "municipality_code": "1108",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1109",
+      "island": null,
       "lat": 38.963511,
       "lon": -9.322889,
-      "name": "Mafra"
+      "municipality": "Mafra",
+      "municipality_code": "1109",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1110",
+      "island": null,
       "lat": 38.71296,
       "lon": -9.271188,
-      "name": "Oeiras"
+      "municipality": "Oeiras",
+      "municipality_code": "1110",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1111",
+      "island": null,
       "lat": 38.835848,
       "lon": -9.353092,
-      "name": "Sintra"
+      "municipality": "Sintra",
+      "municipality_code": "1111",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1112",
+      "island": null,
       "lat": 38.992069,
       "lon": -9.163706,
-      "name": "Sobral de Monte Agraço"
+      "municipality": "Sobral de Monte Agraço",
+      "municipality_code": "1112",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1113",
+      "island": null,
       "lat": 39.109523,
       "lon": -9.277316,
-      "name": "Torres Vedras"
+      "municipality": "Torres Vedras",
+      "municipality_code": "1113",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1114",
+      "island": null,
       "lat": 38.912094,
       "lon": -8.988748,
-      "name": "Vila Franca de Xira"
+      "municipality": "Vila Franca de Xira",
+      "municipality_code": "1114",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1115",
+      "island": null,
       "lat": 38.759525,
       "lon": -9.223645,
-      "name": "Amadora"
+      "municipality": "Amadora",
+      "municipality_code": "1115",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Lisboa",
-      "dtmn": "1116",
+      "island": null,
       "lat": 38.795591,
       "lon": -9.187137,
-      "name": "Odivelas"
+      "municipality": "Odivelas",
+      "municipality_code": "1116",
+      "region": "Continente",
+      "subdivision": "Lisboa"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1201",
+      "island": null,
       "lat": 39.223475,
       "lon": -7.734023,
-      "name": "Alter do Chão"
+      "municipality": "Alter do Chão",
+      "municipality_code": "1201",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1202",
+      "island": null,
       "lat": 39.107585,
       "lon": -7.253317,
-      "name": "Arronches"
+      "municipality": "Arronches",
+      "municipality_code": "1202",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1203",
+      "island": null,
       "lat": 39.079622,
       "lon": -7.909456,
-      "name": "Avis"
+      "municipality": "Avis",
+      "municipality_code": "1203",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1204",
+      "island": null,
       "lat": 39.012134,
       "lon": -7.044905,
-      "name": "Campo Maior"
+      "municipality": "Campo Maior",
+      "municipality_code": "1204",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1205",
+      "island": null,
       "lat": 39.475762,
       "lon": -7.487437,
-      "name": "Castelo de Vide"
+      "municipality": "Castelo de Vide",
+      "municipality_code": "1205",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1206",
+      "island": null,
       "lat": 39.308408,
       "lon": -7.631409,
-      "name": "Crato"
+      "municipality": "Crato",
+      "municipality_code": "1206",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1207",
+      "island": null,
       "lat": 38.904246,
       "lon": -7.209565,
-      "name": "Elvas"
+      "municipality": "Elvas",
+      "municipality_code": "1207",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1208",
+      "island": null,
       "lat": 39.07902,
       "lon": -7.627611,
-      "name": "Fronteira"
+      "municipality": "Fronteira",
+      "municipality_code": "1208",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1209",
+      "island": null,
       "lat": 39.449522,
       "lon": -7.912991,
-      "name": "Gavião"
+      "municipality": "Gavião",
+      "municipality_code": "1209",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1210",
+      "island": null,
       "lat": 39.404091,
       "lon": -7.359131,
-      "name": "Marvão"
+      "municipality": "Marvão",
+      "municipality_code": "1210",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1211",
+      "island": null,
       "lat": 39.027457,
       "lon": -7.420449,
-      "name": "Monforte"
+      "municipality": "Monforte",
+      "municipality_code": "1211",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1212",
+      "island": null,
       "lat": 39.520974,
       "lon": -7.694616,
-      "name": "Nisa"
+      "municipality": "Nisa",
+      "municipality_code": "1212",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1213",
+      "island": null,
       "lat": 39.181485,
       "lon": -8.096411,
-      "name": "Ponte de Sor"
+      "municipality": "Ponte de Sor",
+      "municipality_code": "1213",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1214",
+      "island": null,
       "lat": 39.272244,
       "lon": -7.379248,
-      "name": "Portalegre"
+      "municipality": "Portalegre",
+      "municipality_code": "1214",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Portalegre",
-      "dtmn": "1215",
+      "island": null,
       "lat": 38.959027,
       "lon": -7.739089,
-      "name": "Sousel"
+      "municipality": "Sousel",
+      "municipality_code": "1215",
+      "region": "Continente",
+      "subdivision": "Portalegre"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1301",
+      "island": null,
       "lat": 41.282351,
       "lon": -8.060116,
-      "name": "Amarante"
+      "municipality": "Amarante",
+      "municipality_code": "1301",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1302",
+      "island": null,
       "lat": 41.169252,
       "lon": -7.977231,
-      "name": "Baião"
+      "municipality": "Baião",
+      "municipality_code": "1302",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1303",
+      "island": null,
       "lat": 41.352771,
       "lon": -8.204511,
-      "name": "Felgueiras"
+      "municipality": "Felgueiras",
+      "municipality_code": "1303",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1304",
+      "island": null,
       "lat": 41.102427,
       "lon": -8.490055,
-      "name": "Gondomar"
+      "municipality": "Gondomar",
+      "municipality_code": "1304",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1305",
+      "island": null,
       "lat": 41.291158,
       "lon": -8.259028,
-      "name": "Lousada"
+      "municipality": "Lousada",
+      "municipality_code": "1305",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1306",
+      "island": null,
       "lat": 41.237417,
       "lon": -8.630068,
-      "name": "Maia"
+      "municipality": "Maia",
+      "municipality_code": "1306",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1307",
+      "island": null,
       "lat": 41.161633,
       "lon": -8.127818,
-      "name": "Marco de Canaveses"
+      "municipality": "Marco de Canaveses",
+      "municipality_code": "1307",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1308",
+      "island": null,
       "lat": 41.222367,
       "lon": -8.670442,
-      "name": "Matosinhos"
+      "municipality": "Matosinhos",
+      "municipality_code": "1308",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1309",
+      "island": null,
       "lat": 41.289745,
       "lon": -8.378302,
-      "name": "Paços de Ferreira"
+      "municipality": "Paços de Ferreira",
+      "municipality_code": "1309",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1310",
+      "island": null,
       "lat": 41.16391,
       "lon": -8.408715,
-      "name": "Paredes"
+      "municipality": "Paredes",
+      "municipality_code": "1310",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1311",
+      "island": null,
       "lat": 41.144164,
       "lon": -8.302228,
-      "name": "Penafiel"
+      "municipality": "Penafiel",
+      "municipality_code": "1311",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1312",
+      "island": null,
       "lat": 41.162031,
       "lon": -8.625933,
-      "name": "Porto"
+      "municipality": "Porto",
+      "municipality_code": "1312",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1313",
+      "island": null,
       "lat": 41.41834,
       "lon": -8.748765,
-      "name": "Póvoa de Varzim"
+      "municipality": "Póvoa de Varzim",
+      "municipality_code": "1313",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1314",
+      "island": null,
       "lat": 41.311198,
       "lon": -8.452951,
-      "name": "Santo Tirso"
+      "municipality": "Santo Tirso",
+      "municipality_code": "1314",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1315",
+      "island": null,
       "lat": 41.204596,
       "lon": -8.504453,
-      "name": "Valongo"
+      "municipality": "Valongo",
+      "municipality_code": "1315",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1316",
+      "island": null,
       "lat": 41.340643,
       "lon": -8.686797,
-      "name": "Vila do Conde"
+      "municipality": "Vila do Conde",
+      "municipality_code": "1316",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1317",
+      "island": null,
       "lat": 41.078291,
       "lon": -8.588778,
-      "name": "Vila Nova de Gaia"
+      "municipality": "Vila Nova de Gaia",
+      "municipality_code": "1317",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Porto",
-      "dtmn": "1318",
+      "island": null,
       "lat": 41.302828,
       "lon": -8.56765,
-      "name": "Trofa"
+      "municipality": "Trofa",
+      "municipality_code": "1318",
+      "region": "Continente",
+      "subdivision": "Porto"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1401",
+      "island": null,
       "lat": 39.439912,
       "lon": -8.128421,
-      "name": "Abrantes"
+      "municipality": "Abrantes",
+      "municipality_code": "1401",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1402",
+      "island": null,
       "lat": 39.480755,
       "lon": -8.682282,
-      "name": "Alcanena"
+      "municipality": "Alcanena",
+      "municipality_code": "1402",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1403",
+      "island": null,
       "lat": 39.168096,
       "lon": -8.573941,
-      "name": "Almeirim"
+      "municipality": "Almeirim",
+      "municipality_code": "1403",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1404",
+      "island": null,
       "lat": 39.238931,
       "lon": -8.561521,
-      "name": "Alpiarça"
+      "municipality": "Alpiarça",
+      "municipality_code": "1404",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1405",
+      "island": null,
       "lat": 38.882433,
       "lon": -8.789486,
-      "name": "Benavente"
+      "municipality": "Benavente",
+      "municipality_code": "1405",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1406",
+      "island": null,
       "lat": 39.134935,
       "lon": -8.793184,
-      "name": "Cartaxo"
+      "municipality": "Cartaxo",
+      "municipality_code": "1406",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1407",
+      "island": null,
       "lat": 39.267439,
       "lon": -8.391771,
-      "name": "Chamusca"
+      "municipality": "Chamusca",
+      "municipality_code": "1407",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1408",
+      "island": null,
       "lat": 39.422336,
       "lon": -8.293568,
-      "name": "Constância"
+      "municipality": "Constância",
+      "municipality_code": "1408",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1409",
+      "island": null,
       "lat": 38.936495,
       "lon": -8.481197,
-      "name": "Coruche"
+      "municipality": "Coruche",
+      "municipality_code": "1409",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1410",
+      "island": null,
       "lat": 39.465946,
       "lon": -8.479994,
-      "name": "Entroncamento"
+      "municipality": "Entroncamento",
+      "municipality_code": "1410",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1411",
+      "island": null,
       "lat": 39.723837,
       "lon": -8.332305,
-      "name": "Ferreira do Zêzere"
+      "municipality": "Ferreira do Zêzere",
+      "municipality_code": "1411",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1412",
+      "island": null,
       "lat": 39.388168,
       "lon": -8.509065,
-      "name": "Golegã"
+      "municipality": "Golegã",
+      "municipality_code": "1412",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1413",
+      "island": null,
       "lat": 39.608526,
       "lon": -7.974922,
-      "name": "Mação"
+      "municipality": "Mação",
+      "municipality_code": "1413",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1414",
+      "island": null,
       "lat": 39.350433,
       "lon": -8.911226,
-      "name": "Rio Maior"
+      "municipality": "Rio Maior",
+      "municipality_code": "1414",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1415",
+      "island": null,
       "lat": 39.047241,
       "lon": -8.693903,
-      "name": "Salvaterra de Magos"
+      "municipality": "Salvaterra de Magos",
+      "municipality_code": "1415",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1416",
+      "island": null,
       "lat": 39.326225,
       "lon": -8.691941,
-      "name": "Santarém"
+      "municipality": "Santarém",
+      "municipality_code": "1416",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1417",
+      "island": null,
       "lat": 39.562003,
       "lon": -8.138377,
-      "name": "Sardoal"
+      "municipality": "Sardoal",
+      "municipality_code": "1417",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1418",
+      "island": null,
       "lat": 39.59233,
       "lon": -8.363416,
-      "name": "Tomar"
+      "municipality": "Tomar",
+      "municipality_code": "1418",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1419",
+      "island": null,
       "lat": 39.514513,
       "lon": -8.562662,
-      "name": "Torres Novas"
+      "municipality": "Torres Novas",
+      "municipality_code": "1419",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1420",
+      "island": null,
       "lat": 39.483996,
       "lon": -8.429987,
-      "name": "Vila Nova da Barquinha"
+      "municipality": "Vila Nova da Barquinha",
+      "municipality_code": "1420",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Santarém",
-      "dtmn": "1421",
+      "island": null,
       "lat": 39.687271,
       "lon": -8.56789,
-      "name": "Ourém"
+      "municipality": "Ourém",
+      "municipality_code": "1421",
+      "region": "Continente",
+      "subdivision": "Santarém"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1501",
+      "island": null,
       "lat": 38.36577,
       "lon": -8.531246,
-      "name": "Alcácer do Sal"
+      "municipality": "Alcácer do Sal",
+      "municipality_code": "1501",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1502",
+      "island": null,
       "lat": 38.748543,
       "lon": -8.973569,
-      "name": "Alcochete"
+      "municipality": "Alcochete",
+      "municipality_code": "1502",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1503",
+      "island": null,
       "lat": 38.619083,
       "lon": -9.196599,
-      "name": "Almada"
+      "municipality": "Almada",
+      "municipality_code": "1503",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1504",
+      "island": null,
       "lat": 38.633911,
       "lon": -9.047689,
-      "name": "Barreiro"
+      "municipality": "Barreiro",
+      "municipality_code": "1504",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1505",
+      "island": null,
       "lat": 38.264613,
       "lon": -8.691161,
-      "name": "Grândola"
+      "municipality": "Grândola",
+      "municipality_code": "1505",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1506",
+      "island": null,
       "lat": 38.648987,
       "lon": -8.999267,
-      "name": "Moita"
+      "municipality": "Moita",
+      "municipality_code": "1506",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1507",
+      "island": null,
       "lat": 38.744966,
       "lon": -8.629091,
-      "name": "Montijo"
+      "municipality": "Montijo",
+      "municipality_code": "1507",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1508",
+      "island": null,
       "lat": 38.62684,
       "lon": -8.792047,
-      "name": "Palmela"
+      "municipality": "Palmela",
+      "municipality_code": "1508",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1509",
+      "island": null,
       "lat": 37.93866,
       "lon": -8.50294,
-      "name": "Santiago do Cacém"
+      "municipality": "Santiago do Cacém",
+      "municipality_code": "1509",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1510",
+      "island": null,
       "lat": 38.598194,
       "lon": -9.111375,
-      "name": "Seixal"
+      "municipality": "Seixal",
+      "municipality_code": "1510",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1511",
+      "island": null,
       "lat": 38.496298,
       "lon": -9.119362,
-      "name": "Sesimbra"
+      "municipality": "Sesimbra",
+      "municipality_code": "1511",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1512",
+      "island": null,
       "lat": 38.518254,
       "lon": -8.896819,
-      "name": "Setúbal"
+      "municipality": "Setúbal",
+      "municipality_code": "1512",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Setúbal",
-      "dtmn": "1513",
+      "island": null,
       "lat": 37.927382,
       "lon": -8.749296,
-      "name": "Sines"
+      "municipality": "Sines",
+      "municipality_code": "1513",
+      "region": "Continente",
+      "subdivision": "Setúbal"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1601",
+      "island": null,
       "lat": 41.90484,
       "lon": -8.352929,
-      "name": "Arcos de Valdevez"
+      "municipality": "Arcos de Valdevez",
+      "municipality_code": "1601",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1602",
+      "island": null,
       "lat": 41.84932,
       "lon": -8.774647,
-      "name": "Caminha"
+      "municipality": "Caminha",
+      "municipality_code": "1602",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1603",
+      "island": null,
       "lat": 42.038972,
       "lon": -8.196547,
-      "name": "Melgaço"
+      "municipality": "Melgaço",
+      "municipality_code": "1603",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1604",
+      "island": null,
       "lat": 42.028104,
       "lon": -8.417401,
-      "name": "Monção"
+      "municipality": "Monção",
+      "municipality_code": "1604",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1605",
+      "island": null,
       "lat": 41.913547,
       "lon": -8.56417,
-      "name": "Paredes de Coura"
+      "municipality": "Paredes de Coura",
+      "municipality_code": "1605",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1606",
+      "island": null,
       "lat": 41.805745,
       "lon": -8.323649,
-      "name": "Ponte da Barca"
+      "municipality": "Ponte da Barca",
+      "municipality_code": "1606",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1607",
+      "island": null,
       "lat": 41.746876,
       "lon": -8.573321,
-      "name": "Ponte de Lima"
+      "municipality": "Ponte de Lima",
+      "municipality_code": "1607",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1608",
+      "island": null,
       "lat": 41.991965,
       "lon": -8.606349,
-      "name": "Valença"
+      "municipality": "Valença",
+      "municipality_code": "1608",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1609",
+      "island": null,
       "lat": 41.718099,
       "lon": -8.764239,
-      "name": "Viana do Castelo"
+      "municipality": "Viana do Castelo",
+      "municipality_code": "1609",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Viana do Castelo",
-      "dtmn": "1610",
+      "island": null,
       "lat": 41.918314,
       "lon": -8.711411,
-      "name": "Vila Nova de Cerveira"
+      "municipality": "Vila Nova de Cerveira",
+      "municipality_code": "1610",
+      "region": "Continente",
+      "subdivision": "Viana do Castelo"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1701",
+      "island": null,
       "lat": 41.291141,
       "lon": -7.470147,
-      "name": "Alijó"
+      "municipality": "Alijó",
+      "municipality_code": "1701",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1702",
+      "island": null,
       "lat": 41.68707,
       "lon": -7.749332,
-      "name": "Boticas"
+      "municipality": "Boticas",
+      "municipality_code": "1702",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1703",
+      "island": null,
       "lat": 41.731208,
       "lon": -7.447743,
-      "name": "Chaves"
+      "municipality": "Chaves",
+      "municipality_code": "1703",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1704",
+      "island": null,
       "lat": 41.160482,
       "lon": -7.863147,
-      "name": "Mesão Frio"
+      "municipality": "Mesão Frio",
+      "municipality_code": "1704",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1705",
+      "island": null,
       "lat": 41.397088,
       "lon": -7.887856,
-      "name": "Mondim de Basto"
+      "municipality": "Mondim de Basto",
+      "municipality_code": "1705",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1706",
+      "island": null,
       "lat": 41.756912,
       "lon": -7.856664,
-      "name": "Montalegre"
+      "municipality": "Montalegre",
+      "municipality_code": "1706",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1707",
+      "island": null,
       "lat": 41.426399,
       "lon": -7.465139,
-      "name": "Murça"
+      "municipality": "Murça",
+      "municipality_code": "1707",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1708",
+      "island": null,
       "lat": 41.191954,
       "lon": -7.836827,
-      "name": "Peso da Régua"
+      "municipality": "Peso da Régua",
+      "municipality_code": "1708",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1709",
+      "island": null,
       "lat": 41.527917,
       "lon": -7.784912,
-      "name": "Ribeira de Pena"
+      "municipality": "Ribeira de Pena",
+      "municipality_code": "1709",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1710",
+      "island": null,
       "lat": 41.284201,
       "lon": -7.595529,
-      "name": "Sabrosa"
+      "municipality": "Sabrosa",
+      "municipality_code": "1710",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1711",
+      "island": null,
       "lat": 41.223413,
       "lon": -7.797718,
-      "name": "Santa Marta de Penaguião"
+      "municipality": "Santa Marta de Penaguião",
+      "municipality_code": "1711",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1712",
+      "island": null,
       "lat": 41.612505,
       "lon": -7.351217,
-      "name": "Valpaços"
+      "municipality": "Valpaços",
+      "municipality_code": "1712",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1713",
+      "island": null,
       "lat": 41.515289,
       "lon": -7.601122,
-      "name": "Vila Pouca de Aguiar"
+      "municipality": "Vila Pouca de Aguiar",
+      "municipality_code": "1713",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Vila Real",
-      "dtmn": "1714",
+      "island": null,
       "lat": 41.300858,
       "lon": -7.76376,
-      "name": "Vila Real"
+      "municipality": "Vila Real",
+      "municipality_code": "1714",
+      "region": "Continente",
+      "subdivision": "Vila Real"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1801",
+      "island": null,
       "lat": 41.091166,
       "lon": -7.687347,
-      "name": "Armamar"
+      "municipality": "Armamar",
+      "municipality_code": "1801",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1802",
+      "island": null,
       "lat": 40.459356,
       "lon": -7.977574,
-      "name": "Carregal do Sal"
+      "municipality": "Carregal do Sal",
+      "municipality_code": "1802",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1803",
+      "island": null,
       "lat": 40.906809,
       "lon": -7.948733,
-      "name": "Castro Daire"
+      "municipality": "Castro Daire",
+      "municipality_code": "1803",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1804",
+      "island": null,
       "lat": 41.032721,
       "lon": -8.107999,
-      "name": "Cinfães"
+      "municipality": "Cinfães",
+      "municipality_code": "1804",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1805",
+      "island": null,
       "lat": 41.07168,
       "lon": -7.815392,
-      "name": "Lamego"
+      "municipality": "Lamego",
+      "municipality_code": "1805",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1806",
+      "island": null,
       "lat": 40.589089,
       "lon": -7.741734,
-      "name": "Mangualde"
+      "municipality": "Mangualde",
+      "municipality_code": "1806",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1807",
+      "island": null,
       "lat": 40.956231,
       "lon": -7.652637,
-      "name": "Moimenta da Beira"
+      "municipality": "Moimenta da Beira",
+      "municipality_code": "1807",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1808",
+      "island": null,
       "lat": 40.419592,
       "lon": -8.252062,
-      "name": "Mortágua"
+      "municipality": "Mortágua",
+      "municipality_code": "1808",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1809",
+      "island": null,
       "lat": 40.522226,
       "lon": -7.850337,
-      "name": "Nelas"
+      "municipality": "Nelas",
+      "municipality_code": "1809",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1810",
+      "island": null,
       "lat": 40.717242,
       "lon": -8.232751,
-      "name": "Oliveira de Frades"
+      "municipality": "Oliveira de Frades",
+      "municipality_code": "1810",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1811",
+      "island": null,
       "lat": 40.67539,
       "lon": -7.658965,
-      "name": "Penalva do Castelo"
+      "municipality": "Penalva do Castelo",
+      "municipality_code": "1811",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1812",
+      "island": null,
       "lat": 40.987468,
       "lon": -7.410893,
-      "name": "Penedono"
+      "municipality": "Penedono",
+      "municipality_code": "1812",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1813",
+      "island": null,
       "lat": 41.07515,
       "lon": -7.950935,
-      "name": "Resende"
+      "municipality": "Resende",
+      "municipality_code": "1813",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1814",
+      "island": null,
       "lat": 40.399212,
       "lon": -8.111686,
-      "name": "Santa Comba Dão"
+      "municipality": "Santa Comba Dão",
+      "municipality_code": "1814",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1815",
+      "island": null,
       "lat": 41.106728,
       "lon": -7.409673,
-      "name": "São João da Pesqueira"
+      "municipality": "São João da Pesqueira",
+      "municipality_code": "1815",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1816",
+      "island": null,
       "lat": 40.832876,
       "lon": -8.102519,
-      "name": "São Pedro do Sul"
+      "municipality": "São Pedro do Sul",
+      "municipality_code": "1816",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1817",
+      "island": null,
       "lat": 40.777823,
       "lon": -7.669903,
-      "name": "Sátão"
+      "municipality": "Sátão",
+      "municipality_code": "1817",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1818",
+      "island": null,
       "lat": 40.9173,
       "lon": -7.51159,
-      "name": "Sernancelhe"
+      "municipality": "Sernancelhe",
+      "municipality_code": "1818",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1819",
+      "island": null,
       "lat": 41.090042,
       "lon": -7.561477,
-      "name": "Tabuaço"
+      "municipality": "Tabuaço",
+      "municipality_code": "1819",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1820",
+      "island": null,
       "lat": 41.017715,
       "lon": -7.77451,
-      "name": "Tarouca"
+      "municipality": "Tarouca",
+      "municipality_code": "1820",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1821",
+      "island": null,
       "lat": 40.544333,
       "lon": -8.143525,
-      "name": "Tondela"
+      "municipality": "Tondela",
+      "municipality_code": "1821",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1822",
+      "island": null,
       "lat": 40.856338,
       "lon": -7.756337,
-      "name": "Vila Nova de Paiva"
+      "municipality": "Vila Nova de Paiva",
+      "municipality_code": "1822",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1823",
+      "island": null,
       "lat": 40.689156,
       "lon": -7.899514,
-      "name": "Viseu"
+      "municipality": "Viseu",
+      "municipality_code": "1823",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Viseu",
-      "dtmn": "1824",
+      "island": null,
       "lat": 40.675295,
       "lon": -8.148515,
-      "name": "Vouzela"
+      "municipality": "Vouzela",
+      "municipality_code": "1824",
+      "region": "Continente",
+      "subdivision": "Viseu"
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3101",
+      "island": "Ilha da Madeira",
       "lat": 32.771467,
       "lon": -17.192561,
-      "name": "Calheta"
+      "municipality": "Calheta",
+      "municipality_code": "3101",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3102",
+      "island": "Ilha da Madeira",
       "lat": 32.703069,
       "lon": -16.983188,
-      "name": "Câmara de Lobos"
+      "municipality": "Câmara de Lobos",
+      "municipality_code": "3102",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3103",
+      "island": "Ilha da Madeira",
       "lat": 32.684528,
       "lon": -16.918446,
-      "name": "Funchal"
+      "municipality": "Funchal",
+      "municipality_code": "3103",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3104",
+      "island": "Ilha da Madeira",
       "lat": 32.744392,
       "lon": -16.781765,
-      "name": "Machico"
+      "municipality": "Machico",
+      "municipality_code": "3104",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3105",
+      "island": "Ilha da Madeira",
       "lat": 32.724301,
       "lon": -17.09671,
-      "name": "Ponta do Sol"
+      "municipality": "Ponta do Sol",
+      "municipality_code": "3105",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3106",
+      "island": "Ilha da Madeira",
       "lat": 32.818876,
       "lon": -17.152255,
-      "name": "Porto Moniz"
+      "municipality": "Porto Moniz",
+      "municipality_code": "3106",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3107",
+      "island": "Ilha da Madeira",
       "lat": 32.704655,
       "lon": -17.038145,
-      "name": "Ribeira Brava"
+      "municipality": "Ribeira Brava",
+      "municipality_code": "3107",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3108",
+      "island": "Ilha da Madeira",
       "lat": 32.685795,
       "lon": -16.832459,
-      "name": "Santa Cruz"
+      "municipality": "Santa Cruz",
+      "municipality_code": "3108",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3109",
+      "island": "Ilha da Madeira",
       "lat": 32.777728,
       "lon": -16.900957,
-      "name": "Santana"
+      "municipality": "Santana",
+      "municipality_code": "3109",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Madeira",
-      "dtmn": "3110",
+      "island": "Ilha da Madeira",
       "lat": 32.788422,
       "lon": -17.013443,
-      "name": "São Vicente"
+      "municipality": "São Vicente",
+      "municipality_code": "3110",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de Porto Santo",
-      "dtmn": "3201",
+      "island": "Ilha de Porto Santo",
       "lat": 33.065941,
       "lon": -16.336399,
-      "name": "Porto Santo"
+      "municipality": "Porto Santo",
+      "municipality_code": "3201",
+      "region": "Madeira",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de Santa Maria",
-      "dtmn": "4101",
+      "island": "Ilha de Santa Maria",
       "lat": 36.973416,
       "lon": -25.103093,
-      "name": "Vila do Porto"
+      "municipality": "Vila do Porto",
+      "municipality_code": "4101",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de São Miguel",
-      "dtmn": "4201",
+      "island": "Ilha de São Miguel",
       "lat": 37.742806,
       "lon": -25.527726,
-      "name": "Lagoa"
+      "municipality": "Lagoa",
+      "municipality_code": "4201",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de São Miguel",
-      "dtmn": "4202",
+      "island": "Ilha de São Miguel",
       "lat": 37.818545,
       "lon": -25.219907,
-      "name": "Nordeste"
+      "municipality": "Nordeste",
+      "municipality_code": "4202",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de São Miguel",
-      "dtmn": "4203",
+      "island": "Ilha de São Miguel",
       "lat": 37.821584,
       "lon": -25.726831,
-      "name": "Ponta Delgada"
+      "municipality": "Ponta Delgada",
+      "municipality_code": "4203",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de São Miguel",
-      "dtmn": "4204",
+      "island": "Ilha de São Miguel",
       "lat": 37.76699,
       "lon": -25.258984,
-      "name": "Povoação"
+      "municipality": "Povoação",
+      "municipality_code": "4204",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de São Miguel",
-      "dtmn": "4205",
+      "island": "Ilha de São Miguel",
       "lat": 37.81412,
       "lon": -25.426864,
-      "name": "Ribeira Grande"
+      "municipality": "Ribeira Grande",
+      "municipality_code": "4205",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de São Miguel",
-      "dtmn": "4206",
+      "island": "Ilha de São Miguel",
       "lat": 37.748377,
       "lon": -25.417703,
-      "name": "Vila Franca do Campo"
+      "municipality": "Vila Franca do Campo",
+      "municipality_code": "4206",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha Terceira",
-      "dtmn": "4301",
+      "island": "Ilha Terceira",
       "lat": 38.720512,
       "lon": -27.279979,
-      "name": "Angra do Heroísmo"
+      "municipality": "Angra do Heroísmo",
+      "municipality_code": "4301",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha Terceira",
-      "dtmn": "4302",
+      "island": "Ilha Terceira",
       "lat": 38.739367,
       "lon": -27.15663,
-      "name": "Praia da Vitória"
+      "municipality": "Praia da Vitória",
+      "municipality_code": "4302",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha da Graciosa",
-      "dtmn": "4401",
+      "island": "Ilha da Graciosa",
       "lat": 39.052792,
       "lon": -28.012533,
-      "name": "Santa Cruz da Graciosa"
+      "municipality": "Santa Cruz da Graciosa",
+      "municipality_code": "4401",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de São Jorge",
-      "dtmn": "4501",
+      "island": "Ilha de São Jorge",
       "lat": 38.599812,
       "lon": -27.933786,
-      "name": "Calheta de São Jorge"
+      "municipality": "Calheta de São Jorge",
+      "municipality_code": "4501",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha de São Jorge",
-      "dtmn": "4502",
+      "island": "Ilha de São Jorge",
       "lat": 38.691508,
       "lon": -28.166807,
-      "name": "Velas"
+      "municipality": "Velas",
+      "municipality_code": "4502",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha do Pico",
-      "dtmn": "4601",
+      "island": "Ilha do Pico",
       "lat": 38.430828,
       "lon": -28.206051,
-      "name": "Lajes do Pico"
+      "municipality": "Lajes do Pico",
+      "municipality_code": "4601",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha do Pico",
-      "dtmn": "4602",
+      "island": "Ilha do Pico",
       "lat": 38.485841,
       "lon": -28.47663,
-      "name": "Madalena"
+      "municipality": "Madalena",
+      "municipality_code": "4602",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha do Pico",
-      "dtmn": "4603",
+      "island": "Ilha do Pico",
       "lat": 38.4967,
       "lon": -28.339682,
-      "name": "São Roque do Pico"
+      "municipality": "São Roque do Pico",
+      "municipality_code": "4603",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha do Faial",
-      "dtmn": "4701",
+      "island": "Ilha do Faial",
       "lat": 38.579084,
       "lon": -28.706721,
-      "name": "Horta"
+      "municipality": "Horta",
+      "municipality_code": "4701",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha das Flores",
-      "dtmn": "4801",
+      "island": "Ilha das Flores",
       "lat": 39.430041,
       "lon": -31.223503,
-      "name": "Lajes das Flores"
+      "municipality": "Lajes das Flores",
+      "municipality_code": "4801",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha das Flores",
-      "dtmn": "4802",
+      "island": "Ilha das Flores",
       "lat": 39.474707,
       "lon": -31.19828,
-      "name": "Santa Cruz das Flores"
+      "municipality": "Santa Cruz das Flores",
+      "municipality_code": "4802",
+      "region": "Açores",
+      "subdivision": null
     },
     {
-      "distrito_ilha": "Ilha do Corvo",
-      "dtmn": "4901",
+      "island": "Ilha do Corvo",
       "lat": 39.697614,
       "lon": -31.105291,
-      "name": "Corvo"
+      "municipality": "Corvo",
+      "municipality_code": "4901",
+      "region": "Açores",
+      "subdivision": null
     }
   ],
-  "schema_version": 2
+  "schema_version": 4
 }

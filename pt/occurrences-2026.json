@@ -4,7 +4,7 @@
   "records": [
     {
       "checked_on": "2026-09-24",
-      "event_id": "pt-arouca-feira-das-colheitas",
+      "event_id": "pt-0104-arouca-feira-das-colheitas",
       "recurrence": {
         "level": "confirmed"
       },
@@ -21,44 +21,8 @@
       }
     },
     {
-      "checked_on": "2026-09-07",
-      "event_id": "pt-benavente-feira-de-benavente",
-      "recurrence": {
-        "level": "confirmed"
-      },
-      "source_id": "pt-cm-benavente",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-09-13",
-            "start": "2026-09-04"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
-      "checked_on": "2026-08-31",
-      "event_id": "pt-cascais-chefs-on-fire-cascais",
-      "recurrence": {
-        "level": "confirmed"
-      },
-      "source_id": "pt-chefsonfire-official",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-09-20",
-            "start": "2026-09-19"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
       "checked_on": "2026-09-15",
-      "event_id": "pt-ferreira-do-alentejo-feira-de-ferreira",
+      "event_id": "pt-0208-ferreira-do-alentejo-feira-de-ferreira",
       "recurrence": {
         "level": "confirmed"
       },
@@ -75,81 +39,8 @@
       }
     },
     {
-      "checked_on": "2026-09-01",
-      "event_id": "pt-funchal-festa-do-vinho-madeira",
-      "recurrence": {
-        "level": "confirmed"
-      },
-      "source_id": "pt-visitmadeira",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-09-13",
-            "start": "2026-08-27"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
-      "checked_on": "2026-09-17",
-      "event_id": "pt-guarda-feira-farta",
-      "recurrence": {
-        "level": "expected"
-      },
-      "source_id": "pt-cm-guarda",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-09-20",
-            "start": "2026-09-18"
-          }
-        ],
-        "level": "unverified",
-        "window": null
-      },
-      "unverified_reason": "homepage-only"
-    },
-    {
-      "checked_on": "2026-09-24",
-      "event_id": "pt-lisboa-vinhosesabores",
-      "recurrence": {
-        "level": "confirmed"
-      },
-      "source_id": "pt-grandes-escolhas",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-10-19",
-            "start": "2026-10-17"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
-      "checked_on": "2026-09-25",
-      "event_id": "pt-loule-algarve-wine-session",
-      "recurrence": {
-        "level": "confirmed"
-      },
-      "source_id": "pt-cvr-algarve",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-10-12",
-            "start": "2026-10-12"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
       "checked_on": "2026-09-07",
-      "event_id": "pt-montemor-o-velho-feira-do-ano-festas-concelhias",
+      "event_id": "pt-0610-montemor-o-velho-feira-do-ano-festas-concelhias",
       "recurrence": {
         "level": "confirmed"
       },
@@ -167,7 +58,7 @@
     },
     {
       "checked_on": "2026-09-01",
-      "event_id": "pt-mora-expomora",
+      "event_id": "pt-0707-mora-expomora",
       "recurrence": {
         "level": "confirmed"
       },
@@ -184,117 +75,8 @@
       }
     },
     {
-      "checked_on": "2026-09-24",
-      "event_id": "pt-palmela-feira-medieval-de-palmela",
-      "recurrence": {
-        "level": "uncertain"
-      },
-      "source_id": "pt-cm-palmela",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-09-27",
-            "start": "2026-09-25"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
       "checked_on": "2026-09-01",
-      "event_id": "pt-palmela-festa-das-vindimas-palmela",
-      "recurrence": {
-        "level": "confirmed"
-      },
-      "source_id": "pt-festadasvindimas-official",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-09-08",
-            "start": "2026-09-03"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
-      "checked_on": "2026-09-24",
-      "event_id": "pt-resende-festa-da-labareda",
-      "recurrence": {
-        "level": "confirmed"
-      },
-      "source_id": "pt-cm-resende",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-09-29",
-            "start": "2026-09-18"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
-      "checked_on": "2026-09-24",
-      "event_id": "pt-santarem-festival-nacional-de-gastronomia",
-      "recurrence": {
-        "level": "confirmed"
-      },
-      "source_id": "pt-festivalnacionaldegastronomia-official",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-11-01",
-            "start": "2026-10-22"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
-      "checked_on": "2026-09-21",
-      "event_id": "pt-sardoal-festas-do-concelho-sardoal",
-      "recurrence": {
-        "level": "expected"
-      },
-      "source_id": "pt-cm-sardoal",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-09-22",
-            "start": "2026-09-18"
-          }
-        ],
-        "level": "unverified",
-        "window": null
-      },
-      "unverified_reason": "homepage-only"
-    },
-    {
-      "checked_on": "2026-09-16",
-      "event_id": "pt-sernancelhe-festa-da-castanha-de-sernancelhe",
-      "recurrence": {
-        "level": "confirmed"
-      },
-      "source_id": "pt-cm-sernancelhe",
-      "timing": {
-        "dates": [
-          {
-            "end": "2026-10-25",
-            "start": "2026-10-23"
-          }
-        ],
-        "level": "published",
-        "window": null
-      }
-    },
-    {
-      "checked_on": "2026-09-01",
-      "event_id": "pt-vendas-novas-festas-do-concelho-de-vendas-novas",
+      "event_id": "pt-0712-vendas-novas-festas-do-concelho-de-vendas-novas",
       "recurrence": {
         "level": "expected"
       },
@@ -313,7 +95,7 @@
     },
     {
       "checked_on": "2026-09-07",
-      "event_id": "pt-viana-do-alentejo-feira-daires",
+      "event_id": "pt-0713-viana-do-alentejo-feira-daires",
       "recurrence": {
         "level": "expected"
       },
@@ -331,8 +113,118 @@
       "unverified_reason": "homepage-only"
     },
     {
+      "checked_on": "2026-09-15",
+      "event_id": "pt-0714-vila-vicosa-festa-dos-capuchos-vila-vicosa",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-vila-vicosa",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-15",
+            "start": "2026-09-10"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "homepage-only"
+    },
+    {
+      "checked_on": "2026-09-25",
+      "event_id": "pt-0808-loule-algarve-wine-session",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cvr-algarve",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-12",
+            "start": "2026-10-12"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-24",
+      "event_id": "pt-0816-vila-real-de-santo-antonio-feira-da-praia-vila-real-de-santo-antonio",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-vila-real-de-santo-antonio",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-13",
+            "start": "2026-10-08"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-17",
+      "event_id": "pt-0907-guarda-feira-farta",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-guarda",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-20",
+            "start": "2026-09-18"
+          }
+        ],
+        "level": "unverified",
+        "window": null
+      },
+      "unverified_reason": "homepage-only"
+    },
+    {
+      "checked_on": "2026-08-31",
+      "event_id": "pt-1105-cascais-chefs-on-fire-cascais",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-chefsonfire-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-20",
+            "start": "2026-09-19"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-24",
+      "event_id": "pt-1106-lisboa-vinhosesabores",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-grandes-escolhas",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-19",
+            "start": "2026-10-17"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
       "checked_on": "2026-10-05",
-      "event_id": "pt-vila-franca-de-xira-feira-anual-e-salao-de-artesanato",
+      "event_id": "pt-1114-vila-franca-de-xira-feira-anual-e-salao-de-artesanato",
       "recurrence": {
         "level": "expected"
       },
@@ -351,7 +243,7 @@
     },
     {
       "checked_on": "2026-09-24",
-      "event_id": "pt-vila-franca-de-xira-xira-wine-fest",
+      "event_id": "pt-1114-vila-franca-de-xira-xira-wine-fest",
       "recurrence": {
         "level": "confirmed"
       },
@@ -368,17 +260,17 @@
       }
     },
     {
-      "checked_on": "2026-09-24",
-      "event_id": "pt-vila-real-de-santo-antonio-feira-da-praia-vila-real-de-santo-antonio",
+      "checked_on": "2026-09-07",
+      "event_id": "pt-1405-benavente-feira-de-benavente",
       "recurrence": {
-        "level": "expected"
+        "level": "confirmed"
       },
-      "source_id": "pt-cm-vila-real-de-santo-antonio",
+      "source_id": "pt-cm-benavente",
       "timing": {
         "dates": [
           {
-            "end": "2026-10-13",
-            "start": "2026-10-08"
+            "end": "2026-09-13",
+            "start": "2026-09-04"
           }
         ],
         "level": "published",
@@ -386,25 +278,133 @@
       }
     },
     {
-      "checked_on": "2026-09-15",
-      "event_id": "pt-vila-vicosa-festa-dos-capuchos-vila-vicosa",
+      "checked_on": "2026-09-24",
+      "event_id": "pt-1416-santarem-festival-nacional-de-gastronomia",
       "recurrence": {
-        "level": "expected"
+        "level": "confirmed"
       },
-      "source_id": "pt-cm-vila-vicosa",
+      "source_id": "pt-festivalnacionaldegastronomia-official",
       "timing": {
         "dates": [
           {
-            "end": "2026-09-15",
-            "start": "2026-09-10"
+            "end": "2026-11-01",
+            "start": "2026-10-22"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-21",
+      "event_id": "pt-1417-sardoal-festas-do-concelho-sardoal",
+      "recurrence": {
+        "level": "expected"
+      },
+      "source_id": "pt-cm-sardoal",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-22",
+            "start": "2026-09-18"
           }
         ],
         "level": "unverified",
         "window": null
       },
       "unverified_reason": "homepage-only"
+    },
+    {
+      "checked_on": "2026-09-24",
+      "event_id": "pt-1508-palmela-feira-medieval-de-palmela",
+      "recurrence": {
+        "level": "uncertain"
+      },
+      "source_id": "pt-cm-palmela",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-27",
+            "start": "2026-09-25"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-1508-palmela-festa-das-vindimas-palmela",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-festadasvindimas-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-08",
+            "start": "2026-09-03"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-24",
+      "event_id": "pt-1813-resende-festa-da-labareda",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cm-resende",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-29",
+            "start": "2026-09-18"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-16",
+      "event_id": "pt-1818-sernancelhe-festa-da-castanha-de-sernancelhe",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cm-sernancelhe",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-25",
+            "start": "2026-10-23"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-09-01",
+      "event_id": "pt-3103-funchal-festa-do-vinho-madeira",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-visitmadeira",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-13",
+            "start": "2026-08-27"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
     }
   ],
-  "schema_version": 2,
+  "schema_version": 4,
   "year": 2026
 }
