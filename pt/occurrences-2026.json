@@ -260,6 +260,24 @@
       }
     },
     {
+      "checked_on": "2026-10-20",
+      "event_id": "pt-1302-baiao-festival-do-anho-assado-e-do-arroz-do-forno",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cm-baiao",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-10-25",
+            "start": "2026-10-23"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
       "checked_on": "2026-09-07",
       "event_id": "pt-1405-benavente-feira-de-benavente",
       "recurrence": {
