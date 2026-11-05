@@ -187,6 +187,24 @@
       "unverified_reason": "homepage-only"
     },
     {
+      "checked_on": "2026-10-01",
+      "event_id": "pt-1101-alenquer-alma-do-vinho",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cm-alenquer",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-09-20",
+            "start": "2026-09-17"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
       "checked_on": "2026-08-31",
       "event_id": "pt-1105-cascais-chefs-on-fire-cascais",
       "recurrence": {

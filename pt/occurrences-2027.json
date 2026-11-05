@@ -1,0 +1,44 @@
+{
+  "country": "pt",
+  "kind": "occurrences",
+  "records": [
+    {
+      "checked_on": "2026-11-01",
+      "event_id": "pt-1101-alenquer-alma-do-vinho",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-cm-alenquer",
+      "timing": {
+        "dates": [
+          {
+            "end": "2027-09-12",
+            "start": "2027-09-09"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
+      "checked_on": "2026-11-01",
+      "event_id": "pt-1312-porto-essencia-do-vinho-porto",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-essenciadovinho-official",
+      "timing": {
+        "dates": [
+          {
+            "end": "2027-02-21",
+            "start": "2027-02-18"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    }
+  ],
+  "schema_version": 4,
+  "year": 2027
+}

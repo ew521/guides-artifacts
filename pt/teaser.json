@@ -1,7 +1,7 @@
 {
   "country": "pt",
   "counts": {
-    "dated": 4
+    "dated": 1
   },
   "kind": "teaser",
   "records": [
@@ -603,6 +603,28 @@
     },
     {
       "aliases": [
+        "Alma do Vinho"
+      ],
+      "categories": [
+        "food",
+        "wine",
+        "culture"
+      ],
+      "event_id": "pt-1101-alenquer-alma-do-vinho",
+      "local_name": "Alma do Vinho",
+      "locality": {
+        "island": null,
+        "municipality": "Alenquer",
+        "municipality_code": "1101",
+        "parish_code": null,
+        "precision": "municipality",
+        "region": "Continente",
+        "subdivision": "Lisboa"
+      },
+      "name": "Alma do Vinho"
+    },
+    {
+      "aliases": [
         "Cultfest – Festival Cultural do Ribatejo"
       ],
       "categories": [
@@ -962,6 +984,26 @@
         "subdivision": "Porto"
       },
       "name": "Quintandona Soup Festival"
+    },
+    {
+      "aliases": [
+        "Essência do Vinho Porto"
+      ],
+      "categories": [
+        "wine"
+      ],
+      "event_id": "pt-1312-porto-essencia-do-vinho-porto",
+      "local_name": "Essência do Vinho Porto",
+      "locality": {
+        "island": null,
+        "municipality": "Porto",
+        "municipality_code": "1312",
+        "parish_code": null,
+        "precision": "municipality",
+        "region": "Continente",
+        "subdivision": "Porto"
+      },
+      "name": "Essência do Vinho Porto"
     },
     {
       "aliases": [

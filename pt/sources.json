@@ -19,6 +19,11 @@
     },
     {
       "authority_tier": "municipality",
+      "id": "pt-cm-alenquer",
+      "label": "Câmara Municipal de Alenquer"
+    },
+    {
+      "authority_tier": "municipality",
       "id": "pt-cm-armamar",
       "label": "Câmara Municipal de Armamar"
     },
@@ -266,6 +271,11 @@
       "authority_tier": "national",
       "id": "pt-dgt-caop",
       "label": "Carta Administrativa Oficial de Portugal (Direção-Geral do Território)"
+    },
+    {
+      "authority_tier": "organiser",
+      "id": "pt-essenciadovinho-official",
+      "label": "Essência do Vinho, the event's own organiser site"
     },
     {
       "authority_tier": "organiser",
