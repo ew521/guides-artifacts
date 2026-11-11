@@ -241,6 +241,24 @@
       }
     },
     {
+      "checked_on": "2026-10-02",
+      "event_id": "pt-1113-torres-vedras-festas-de-torres-vedras",
+      "recurrence": {
+        "level": "confirmed"
+      },
+      "source_id": "pt-promotorres",
+      "timing": {
+        "dates": [
+          {
+            "end": "2026-11-11",
+            "start": "2026-10-24"
+          }
+        ],
+        "level": "published",
+        "window": null
+      }
+    },
+    {
       "checked_on": "2026-10-05",
       "event_id": "pt-1114-vila-franca-de-xira-feira-anual-e-salao-de-artesanato",
       "recurrence": {

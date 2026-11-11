@@ -329,6 +329,11 @@
     },
     {
       "authority_tier": "organiser",
+      "id": "pt-promotorres",
+      "label": "Promotorres, the Festas de Torres Vedras' co-organiser"
+    },
+    {
+      "authority_tier": "organiser",
       "id": "pt-tabuleiros-official",
       "label": "Comissão Central da Festa dos Tabuleiros"
     },

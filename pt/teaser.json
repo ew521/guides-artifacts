@@ -1,7 +1,7 @@
 {
   "country": "pt",
   "counts": {
-    "dated": 1
+    "dated": 2
   },
   "kind": "teaser",
   "records": [
@@ -793,6 +793,28 @@
         "subdivision": "Lisboa"
       },
       "name": "Eighteenth-Century Fair – Santo Antão do Tojal"
+    },
+    {
+      "aliases": [
+        "Festas de Torres Vedras"
+      ],
+      "categories": [
+        "food",
+        "wine",
+        "culture"
+      ],
+      "event_id": "pt-1113-torres-vedras-festas-de-torres-vedras",
+      "local_name": "Festas de Torres Vedras",
+      "locality": {
+        "island": null,
+        "municipality": "Torres Vedras",
+        "municipality_code": "1113",
+        "parish_code": null,
+        "precision": "municipality",
+        "region": "Continente",
+        "subdivision": "Lisboa"
+      },
+      "name": "Festas de Torres Vedras"
     },
     {
       "aliases": [
