@@ -16,10 +16,10 @@
           "sha256": "5c5017f47f7db39e382107d92ace76b2f9c51eed009ab45e7eaabef3c129aa3b"
         },
         {
-          "bytes": 10726,
+          "bytes": 11542,
           "kind": "occurrences",
           "path": "pt/occurrences-2026.json",
-          "sha256": "7718e8b09247130a6cdf57f87320a96438eabf7a174e1146d76db373d3ef638c"
+          "sha256": "4ad9beb5828bc516de4eb297a9b2ed714f7343cfc9da9c9675c3117bbb8618b3"
         },
         {
           "bytes": 917,
@@ -28,21 +28,21 @@
           "sha256": "741ba80e180670bd09f6225ab7db70b0aa058af4544ac9d530ab683086f38c09"
         },
         {
-          "bytes": 9410,
+          "bytes": 9555,
           "kind": "sources",
           "path": "pt/sources.json",
-          "sha256": "3cd35707f33e286f44c0210083ff87c7539c618b5abfb951c356075444423e89"
+          "sha256": "089f62f0b2193f8d92992933ff557adc1ccc72f1850c80c7032ba18e0ea1549a"
         },
         {
-          "bytes": 46758,
+          "bytes": 47793,
           "kind": "teaser",
           "path": "pt/teaser.json",
-          "sha256": "7b0e599d03b47e48b91e5e7b6a7ccd7cdbdb9e1b98eddc38c68cd025b649b0b4"
+          "sha256": "b14f1e81a07464b8d88a5e547cc16cfbae8e888409025ccb952284f760964977"
         }
       ],
       "schema_version": 4
     }
   ],
-  "generated_on": "2026-11-11",
+  "generated_on": "2026-11-13",
   "manifest_version": 1
 }

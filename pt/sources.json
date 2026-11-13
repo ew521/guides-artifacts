@@ -274,6 +274,11 @@
     },
     {
       "authority_tier": "organiser",
+      "id": "pt-enophilo-official",
+      "label": "Enóphilo, the events' own organiser site"
+    },
+    {
+      "authority_tier": "organiser",
       "id": "pt-essenciadovinho-official",
       "label": "Essência do Vinho, the event's own organiser site"
     },

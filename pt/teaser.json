@@ -1,7 +1,7 @@
 {
   "country": "pt",
   "counts": {
-    "dated": 2
+    "dated": 3
   },
   "kind": "teaser",
   "records": [
@@ -730,6 +730,26 @@
     },
     {
       "aliases": [
+        "Enóphilo por um Dia"
+      ],
+      "categories": [
+        "wine"
+      ],
+      "event_id": "pt-1106-lisboa-enophilo-por-um-dia",
+      "local_name": "Enóphilo por um Dia",
+      "locality": {
+        "island": null,
+        "municipality": "Lisboa",
+        "municipality_code": "1106",
+        "parish_code": null,
+        "precision": "municipality",
+        "region": "Continente",
+        "subdivision": "Lisboa"
+      },
+      "name": "Enóphilo por um Dia"
+    },
+    {
+      "aliases": [
         "Festas de Lisboa"
       ],
       "categories": [
@@ -1006,6 +1026,26 @@
         "subdivision": "Porto"
       },
       "name": "Quintandona Soup Festival"
+    },
+    {
+      "aliases": [
+        "Enóphilo Wine Fest Porto"
+      ],
+      "categories": [
+        "wine"
+      ],
+      "event_id": "pt-1312-porto-enophilo-wine-fest-porto",
+      "local_name": "Enóphilo Wine Fest Porto",
+      "locality": {
+        "island": null,
+        "municipality": "Porto",
+        "municipality_code": "1312",
+        "parish_code": null,
+        "precision": "municipality",
+        "region": "Continente",
+        "subdivision": "Porto"
+      },
+      "name": "Enóphilo Wine Fest Porto"
     },
     {
       "aliases": [
