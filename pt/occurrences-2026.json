@@ -9,6 +9,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-feiradascolheitas-official",
+      "source_url": "https://feiradascolheitas.com/",
       "timing": {
         "dates": [
           {
@@ -27,6 +28,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-cm-ferreira-do-alentejo",
+      "source_url": "https://ferreiradoalentejo.pt/",
       "timing": {
         "dates": [
           {
@@ -45,6 +47,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-feiradoano-official",
+      "source_url": "https://www.feiradoano.pt/",
       "timing": {
         "dates": [
           {
@@ -63,6 +66,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-cm-mora",
+      "source_url": "https://www.cm-mora.pt/",
       "timing": {
         "dates": [
           {
@@ -81,6 +85,7 @@
         "level": "expected"
       },
       "source_id": "pt-cm-vendas-novas",
+      "source_url": "https://www.cm-vendasnovas.pt/",
       "timing": {
         "dates": [
           {
@@ -100,6 +105,7 @@
         "level": "expected"
       },
       "source_id": "pt-cm-viana-do-alentejo",
+      "source_url": "https://www.cm-vianadoalentejo.pt/",
       "timing": {
         "dates": [
           {
@@ -119,6 +125,7 @@
         "level": "expected"
       },
       "source_id": "pt-cm-vila-vicosa",
+      "source_url": "https://www.cm-vilavicosa.pt/",
       "timing": {
         "dates": [
           {
@@ -138,6 +145,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-cvr-algarve",
+      "source_url": "https://www.vinhosdoalgarve.pt/cva-apresenta-na-btl-2026-a-campanha-algarve-wine-road-experience/",
       "timing": {
         "dates": [
           {
@@ -156,6 +164,7 @@
         "level": "expected"
       },
       "source_id": "pt-cm-vila-real-de-santo-antonio",
+      "source_url": "https://www.cm-vrsa.pt/pt/Default.aspx",
       "timing": {
         "dates": [
           {
@@ -174,6 +183,7 @@
         "level": "expected"
       },
       "source_id": "pt-cm-guarda",
+      "source_url": "https://www.mun-guarda.pt/",
       "timing": {
         "dates": [
           {
@@ -193,6 +203,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-cm-alenquer",
+      "source_url": "https://www.alenquer.pt/noticias/8-edicao-alma-do-vinho",
       "timing": {
         "dates": [
           {
@@ -211,6 +222,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-chefsonfire-official",
+      "source_url": "https://chefsonfire.com/",
       "timing": {
         "dates": [
           {
@@ -229,6 +241,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-enophilo-official",
+      "source_url": "https://enophilo.pt/eventos/enophilo-por-um-dia/enophilo-por-um-dia-26",
       "timing": {
         "dates": [
           {
@@ -247,6 +260,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-grandes-escolhas",
+      "source_url": "https://grandesescolhas.com/vinhosesabores/",
       "timing": {
         "dates": [
           {
@@ -265,6 +279,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-promotorres",
+      "source_url": "https://promotorres.pt/evento/festas-de-torres-vedras/",
       "timing": {
         "dates": [
           {
@@ -283,6 +298,7 @@
         "level": "expected"
       },
       "source_id": "pt-cm-vila-franca-de-xira",
+      "source_url": "https://www.cm-vfxira.pt",
       "timing": {
         "dates": [
           {
@@ -302,6 +318,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-cm-vila-franca-de-xira",
+      "source_url": "https://agenda.cm-vfxira.pt/grandes-eventos/evento/xira-wine-fest-celebra-a-cultura-do-vinho-94",
       "timing": {
         "dates": [
           {
@@ -320,6 +337,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-cm-baiao",
+      "source_url": "https://cm-baiao.pt/agenda/",
       "timing": {
         "dates": [
           {
@@ -338,6 +356,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-enophilo-official",
+      "source_url": "https://enophilo.pt/eventos/enophilo-wine-fest/enophilo-wine-fest-2026-Porto",
       "timing": {
         "dates": [
           {
@@ -356,6 +375,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-cm-benavente",
+      "source_url": "https://www.cm-benavente.pt/index.php/events/feira-de-benavente-2026-2/",
       "timing": {
         "dates": [
           {
@@ -374,6 +394,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-festivalnacionaldegastronomia-official",
+      "source_url": "https://festivalnacionaldegastronomia.pt/",
       "timing": {
         "dates": [
           {
@@ -392,6 +413,7 @@
         "level": "expected"
       },
       "source_id": "pt-cm-sardoal",
+      "source_url": "https://www.cm-sardoal.pt/",
       "timing": {
         "dates": [
           {
@@ -411,6 +433,7 @@
         "level": "uncertain"
       },
       "source_id": "pt-cm-palmela",
+      "source_url": "https://www.cm-palmela.pt",
       "timing": {
         "dates": [
           {
@@ -429,6 +452,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-festadasvindimas-official",
+      "source_url": "https://festadasvindimas.pt/",
       "timing": {
         "dates": [
           {
@@ -447,6 +471,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-cm-resende",
+      "source_url": "https://cm-resende.pt/",
       "timing": {
         "dates": [
           {
@@ -465,6 +490,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-cm-sernancelhe",
+      "source_url": "https://www.cm-sernancelhe.pt:443/",
       "timing": {
         "dates": [
           {
@@ -483,6 +509,7 @@
         "level": "confirmed"
       },
       "source_id": "pt-visitmadeira",
+      "source_url": "https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-vinho/",
       "timing": {
         "dates": [
           {

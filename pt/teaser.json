@@ -1,7 +1,7 @@
 {
   "country": "pt",
   "counts": {
-    "dated": 3
+    "dated": 2
   },
   "kind": "teaser",
   "records": [
@@ -24,7 +24,8 @@
         "region": "Continente",
         "subdivision": "Aveiro"
       },
-      "name": "Arouca Harvest Fair"
+      "name": "Arouca Harvest Fair",
+      "source_url": "https://feiradascolheitas.com/"
     },
     {
       "aliases": [
@@ -45,7 +46,8 @@
         "region": "Continente",
         "subdivision": "Aveiro"
       },
-      "name": "São Paio da Torreira Festivities"
+      "name": "São Paio da Torreira Festivities",
+      "source_url": "https://www.cm-murtosa.pt/p/saopaiodatorreira"
     },
     {
       "aliases": [
@@ -66,7 +68,8 @@
         "region": "Continente",
         "subdivision": "Beja"
       },
-      "name": "Ferreira do Alentejo Fair"
+      "name": "Ferreira do Alentejo Fair",
+      "source_url": "https://ferreiradoalentejo.pt/"
     },
     {
       "aliases": [
@@ -238,7 +241,8 @@
         "region": "Continente",
         "subdivision": "Coimbra"
       },
-      "name": "Feira do Ano – Montemor-o-Velho"
+      "name": "Feira do Ano – Montemor-o-Velho",
+      "source_url": "https://www.feiradoano.pt/"
     },
     {
       "aliases": [
@@ -323,7 +327,8 @@
         "region": "Continente",
         "subdivision": "Évora"
       },
-      "name": "Feira da Luz – Montemor-o-Novo"
+      "name": "Feira da Luz – Montemor-o-Novo",
+      "source_url": "https://feiradaluz.pt/"
     },
     {
       "aliases": [
@@ -345,7 +350,8 @@
         "region": "Continente",
         "subdivision": "Évora"
       },
-      "name": "ExpoMora"
+      "name": "ExpoMora",
+      "source_url": "https://www.cm-mora.pt/"
     },
     {
       "aliases": [
@@ -388,7 +394,8 @@
         "region": "Continente",
         "subdivision": "Évora"
       },
-      "name": "Vendas Novas Municipal Festivities"
+      "name": "Vendas Novas Municipal Festivities",
+      "source_url": "https://www.cm-vendasnovas.pt/"
     },
     {
       "aliases": [
@@ -409,7 +416,8 @@
         "region": "Continente",
         "subdivision": "Évora"
       },
-      "name": "Feira d'Aires – Viana do Alentejo"
+      "name": "Feira d'Aires – Viana do Alentejo",
+      "source_url": "https://www.cm-vianadoalentejo.pt/"
     },
     {
       "aliases": [
@@ -430,7 +438,8 @@
         "region": "Continente",
         "subdivision": "Évora"
       },
-      "name": "Capuchos Festival – Vila Viçosa"
+      "name": "Capuchos Festival – Vila Viçosa",
+      "source_url": "https://www.cm-vilavicosa.pt/"
     },
     {
       "aliases": [
@@ -492,7 +501,8 @@
         "region": "Continente",
         "subdivision": "Faro"
       },
-      "name": "Algarve Wine Session"
+      "name": "Algarve Wine Session",
+      "source_url": "https://www.vinhosdoalgarve.pt/cva-apresenta-na-btl-2026-a-campanha-algarve-wine-road-experience/"
     },
     {
       "aliases": [
@@ -556,7 +566,8 @@
         "region": "Continente",
         "subdivision": "Faro"
       },
-      "name": "Vila Real de Santo António Beach Fair"
+      "name": "Vila Real de Santo António Beach Fair",
+      "source_url": "https://www.cm-vrsa.pt/pt/Default.aspx"
     },
     {
       "aliases": [
@@ -578,7 +589,8 @@
         "region": "Continente",
         "subdivision": "Guarda"
       },
-      "name": "Feira Farta – Guarda"
+      "name": "Feira Farta – Guarda",
+      "source_url": "https://www.mun-guarda.pt/"
     },
     {
       "aliases": [
@@ -621,7 +633,8 @@
         "region": "Continente",
         "subdivision": "Lisboa"
       },
-      "name": "Alma do Vinho"
+      "name": "Alma do Vinho",
+      "source_url": "https://www.alenquer.pt/noticias/alma-do-vinho-2026"
     },
     {
       "aliases": [
@@ -684,7 +697,8 @@
         "region": "Continente",
         "subdivision": "Lisboa"
       },
-      "name": "Chefs on Fire Cascais"
+      "name": "Chefs on Fire Cascais",
+      "source_url": "https://chefsonfire.com/"
     },
     {
       "aliases": [
@@ -746,7 +760,8 @@
         "region": "Continente",
         "subdivision": "Lisboa"
       },
-      "name": "Enóphilo por um Dia"
+      "name": "Enóphilo por um Dia",
+      "source_url": "https://enophilo.pt/eventos/enophilo-por-um-dia/enophilo-por-um-dia-26"
     },
     {
       "aliases": [
@@ -790,7 +805,8 @@
         "region": "Continente",
         "subdivision": "Lisboa"
       },
-      "name": "Grandes Escolhas Wines & Flavours"
+      "name": "Grandes Escolhas Wines & Flavours",
+      "source_url": "https://grandesescolhas.com/vinhosesabores/"
     },
     {
       "aliases": [
@@ -834,7 +850,8 @@
         "region": "Continente",
         "subdivision": "Lisboa"
       },
-      "name": "Festas de Torres Vedras"
+      "name": "Festas de Torres Vedras",
+      "source_url": "https://promotorres.pt/evento/festas-de-torres-vedras/"
     },
     {
       "aliases": [
@@ -856,7 +873,8 @@
         "region": "Continente",
         "subdivision": "Lisboa"
       },
-      "name": "Annual Fair and Crafts Show – Vila Franca de Xira"
+      "name": "Annual Fair and Crafts Show – Vila Franca de Xira",
+      "source_url": "https://www.cm-vfxira.pt"
     },
     {
       "aliases": [
@@ -877,7 +895,8 @@
         "region": "Continente",
         "subdivision": "Lisboa"
       },
-      "name": "Xira Wine Fest"
+      "name": "Xira Wine Fest",
+      "source_url": "https://agenda.cm-vfxira.pt/grandes-eventos/evento/xira-wine-fest-celebra-a-cultura-do-vinho-94"
     },
     {
       "aliases": [
@@ -962,7 +981,8 @@
         "region": "Continente",
         "subdivision": "Porto"
       },
-      "name": "Roast Lamb and Oven-Baked Rice Festival"
+      "name": "Roast Lamb and Oven-Baked Rice Festival",
+      "source_url": "https://cm-baiao.pt/agenda/"
     },
     {
       "aliases": [
@@ -1045,7 +1065,8 @@
         "region": "Continente",
         "subdivision": "Porto"
       },
-      "name": "Enóphilo Wine Fest Porto"
+      "name": "Enóphilo Wine Fest Porto",
+      "source_url": "https://enophilo.pt/eventos/enophilo-wine-fest/enophilo-wine-fest-2026-Porto"
     },
     {
       "aliases": [
@@ -1065,7 +1086,8 @@
         "region": "Continente",
         "subdivision": "Porto"
       },
-      "name": "Essência do Vinho Porto"
+      "name": "Essência do Vinho Porto",
+      "source_url": "https://essenciadovinho.com/#evento-porto"
     },
     {
       "aliases": [
@@ -1149,7 +1171,8 @@
         "region": "Continente",
         "subdivision": "Santarém"
       },
-      "name": "Benavente Fair"
+      "name": "Benavente Fair",
+      "source_url": "https://www.cm-benavente.pt/index.php/events/feira-de-benavente-2026-2/"
     },
     {
       "aliases": [
@@ -1234,7 +1257,8 @@
         "region": "Continente",
         "subdivision": "Santarém"
       },
-      "name": "National Gastronomy Festival"
+      "name": "National Gastronomy Festival",
+      "source_url": "https://festivalnacionaldegastronomia.pt/"
     },
     {
       "aliases": [
@@ -1255,7 +1279,8 @@
         "region": "Continente",
         "subdivision": "Santarém"
       },
-      "name": "Sardoal Municipal Festivities"
+      "name": "Sardoal Municipal Festivities",
+      "source_url": "https://www.cm-sardoal.pt/"
     },
     {
       "aliases": [
@@ -1361,7 +1386,8 @@
         "region": "Continente",
         "subdivision": "Setúbal"
       },
-      "name": "Palmela Medieval Fair"
+      "name": "Palmela Medieval Fair",
+      "source_url": "https://www.cm-palmela.pt"
     },
     {
       "aliases": [
@@ -1382,7 +1408,8 @@
         "region": "Continente",
         "subdivision": "Setúbal"
       },
-      "name": "Palmela Grape Harvest Festival"
+      "name": "Palmela Grape Harvest Festival",
+      "source_url": "https://festadasvindimas.pt/"
     },
     {
       "aliases": [
@@ -1594,7 +1621,8 @@
         "region": "Continente",
         "subdivision": "Viseu"
       },
-      "name": "Labareda Festival"
+      "name": "Labareda Festival",
+      "source_url": "https://cm-resende.pt/"
     },
     {
       "aliases": [
@@ -1637,7 +1665,8 @@
         "region": "Continente",
         "subdivision": "Viseu"
       },
-      "name": "Sernancelhe Chestnut Festival"
+      "name": "Sernancelhe Chestnut Festival",
+      "source_url": "https://www.cm-sernancelhe.pt:443/"
     },
     {
       "aliases": [
@@ -1742,7 +1771,8 @@
         "region": "Madeira",
         "subdivision": null
       },
-      "name": "Madeira Wine Festival"
+      "name": "Madeira Wine Festival",
+      "source_url": "https://visitmadeira.com/pt/a-acontecer/eventos/festa-do-vinho/"
     },
     {
       "aliases": [
