@@ -158,13 +158,13 @@
       }
     },
     {
-      "checked_on": "2026-09-24",
+      "checked_on": "2026-10-08",
       "event_id": "pt-0816-vila-real-de-santo-antonio-feira-da-praia-vila-real-de-santo-antonio",
       "recurrence": {
         "level": "expected"
       },
       "source_id": "pt-cm-vila-real-de-santo-antonio",
-      "source_url": "https://www.cm-vrsa.pt/pt/Default.aspx",
+      "source_url": "https://www.cm-vrsa.pt/pt/agenda.aspx?page=2",
       "timing": {
         "dates": [
           {
@@ -514,7 +514,7 @@
         "dates": [
           {
             "end": "2026-09-13",
-            "start": "2026-08-27"
+            "start": "2026-08-23"
           }
         ],
         "level": "published",
